@@ -1,0 +1,164 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+
+	<title>Ansinelli Paulet | SAE15 | Projet</title>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+	<meta name="keywords" content="" />
+	<meta name="description" content="" />
+
+	<link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/2.7.0/build/reset-fonts-grids/reset-fonts-grids.css" media="all" /> 
+	<link rel="stylesheet" type="text/css" href="resume.css" media="all" />
+
+</head>
+<body>
+
+<div id="doc2" class="yui-t7">
+	<div id="inner">
+	
+		<div id="hd">
+			<div class="yui-gc">
+				<div class="yui-u first">
+					<h1>Ansinelli Yohann</h1>
+					<div class="separation"></div>
+					<h1>Paulet Aksel</h1>
+					<h2>Étudiants en 1ère année de Bachelor Réseaux et Télécommunications</h2>
+					<div class="present">
+						<img class="data" src="logo_data.svg"/>
+					</div>
+				</div>
+
+				<div class="yui-u">
+					<div class="contact-info">
+						<img class="image" src="photo.jpg"/> 
+						<img class="image1" src="paulet.jfif"/><div class="separationimg"></div> <br />
+						<div class="para"><p>Ansinelli Yohann</p></div>
+						<div class="para1"><p>Paulet Aksel</p></div>
+						<div class="lin1"><a href="https://www.linkedin.com/in/yohann-ansinelli-0676bb225/"><img src="linkedin (4).png"/></a></div>
+						<div class="lin2"><a href="https://www.linkedin.com/in/aksel-paulet-bb5b26225/"><img src="linkedin (4).png"/></a></div>
+					</div>
+				</div>
+			</div>
+			<div class="texte">
+				<h2><strong><u>Projet Traiter des données</u></strong></h2>
+			</div>
+		</div>
+
+		<div id="bd">
+			<div id="yui-main">
+				<div class="yui-b">
+
+					<div class="yui-gf">
+						<div class="yui-u first">
+							<h2>Projet</h2>
+						</div>
+						<div class="yui-u">
+								Notre mission consiste à étudier l'utilisation des parkings de la ville de Montpellier. Pour cela on a à notre disposition des bases de données mises en ligne par Montpellier. Notre objectif est donc de savoir si les parkings de voitures sont bien dimensionnés, mais aussi quel est le taux de remplissage moyen ? Quand les parkings sont-ils saturés ? Y’a-t-il des jours particuliers d’affluence dans la semaine, ou des mois plus chargés que d’autres ? Mais les parkings de voitures ne sont pas les seuls à étudier, il faut également regarder ceux des vélos et voir si il y a une relation entre les deux.
+						</div>
+						<img class="velomag" src="velomag.jpg"/>
+					</div>
+
+					<div class="yui-gf">
+						<div class="yui-u first">
+							<h2>Outils utilisés</h2>
+						</div>
+						<div class="yui-u">
+								<h4><strong>Cette courte partie permettra de mettre en avant les outils/librairies python que l'on a utilisé pour ce projet.</strong></h4><br />
+								<div class="talent">
+									<h2>Requests</h2>
+									<p>La librairie requests permet d'envoyer des requêtes http via python directement. Dans notre cas elle nous a permis d'envoyer des requêtes au open data de Montpellier pour récupérer le contenu des pages à savoir l'intégralité des données.	</p>
+								</div>
+
+								<div class="talent">
+									<h2>LXML / BeautifulSoup</h2>
+									<p>La librairie lxml permet de manipuler des données xml. Dans notre cas les fichiers de données étaient en xml donc la librarie nous permettait de trouver des données précises comme par exemple le nombre de places occupées pour chaque parking de vélo. La librarie BeautifulSoup elle nous permet d'analyser les documents HTML et XML grâce aux balises.	 </p>
+								</div>
+
+								<div class="talent">
+									<h2>Time</h2>
+									<p>La librairie time permet de manipuler le temps dans un programme. Pour le projet elle a permis à notre code de faire sa boucle toute les heures par exemple, on peut donc choisir la durée de pause de notre programme.</p>
+								</div>
+
+							<img class="python" src="python.png"/>
+						</div>
+					</div>
+
+					<div class="yui-gf">
+						<div class="yui-u first">
+							<h2>Graphique de données</h2>
+						</div>
+						<p class="espacement">Voici un graphique d'une expérience faite sur une journée sur 7 heures précisément avec 20 échantillons espacés chacun de 21 minutes. On peut constater que plus la journée se termine moins il y a de place occupée alors que pour les vélos les places occupées sont très constantes. Avec ce graphique on ne voit absolument pas de corrélation, il faudrait refaire l'expérience mais sur une durée beaucoup plus longue.</p><br />
+						<div class="yui-u">
+							<img class="graphi" src="graphique.png"/>
+						</div>
+					</div>
+
+					<div class="yui-gf">
+	
+						<div class="yui-u first">
+							<h2>Tableau de données</h2>
+						</div>
+
+						<div class="yui-u">
+							<h5 class="emplace"><strong>Récapitulatif des données obtenues sur une durée de 7 heures.</strong></h5> <br />
+							<table>
+								<tr>
+									<th>&emsp;Parking&emsp;</th>
+									<th>&emsp;Places occupées&emsp;</th>
+									<th>&emsp;Pourcentages places occupées&emsp;</th>
+									<th>&emsp;Total&emsp;</th>
+								</tr>
+								<tr>
+									<td>Voiture</td>
+									<td>5417.25</td>
+									<td>45,65%</td>
+									<td>11868</td>
+								</tr>
+								<tr>
+									<td>Velo</td>
+									<td>288.5</td>
+									<td>39%</td>
+									<td>739</td>
+								</tr>
+							 </table>
+							 <br />
+							 <p>Notre étude est faite avec des données sur 7 heures il est donc clair que nous ne pouvons pas savoir actuellement s'il y a des jours avec plus d'affluence, il n'empêche que l'on peut clairement dire que tous les parkings n'obéissent pas aux mêmes règles d'évolution puisque tout dépend de l'emplacement où se situe le parking dans la ville et s'il y a beaucoup d'activités commerciales par exemple aux alentours ou s'il y a beaucoup de bureaux d'entreprises.</p>
+
+						</div>
+					</div>
+
+
+					<div class="yui-gf last">
+						<div class="yui-u first">
+							<h2>Vidéo programme</h2>
+						</div>
+						<div class="yui-u">
+							<video width="340" height="200" controls>
+								<source src="video_programme.mp4" type=video/mp4>
+								</video>
+						</div>
+					</div>
+					<p class="gauche">Voici une vidéo sans son montrant la fonctionnalité de notre programme et quelles sont les données qui en resorte.</p>
+
+
+				</div>
+			</div>
+		</div>
+
+		<div id="ft">
+			<p>Yohann Ansinelli &mdash; <a href="https://yohannansinelli.github.io/">Portfolio Présentation</a>&mdash; <a class="linkedin" href="https://www.linkedin.com/in/yohann-ansinelli-0676bb225/"><img src="linkedin.png"/></a></p>
+			<p>Aksel Paulet &mdash; <a href="https://akselpaulet.github.io/">Portfolio Présentation</a>&mdash; <a class="linkedin" href="https://www.linkedin.com/in/aksel-paulet-bb5b26225/"><img src="linkedin.png"/></a></p>
+			<p>En collaboration avec l'open data de Montpellier Méditerranée Métropole</p>
+			<p>Page Inspirée de SRT Template</p>
+		</div>
+
+	</div>
+
+
+</div>
+
+
+</body>
+</html>
+

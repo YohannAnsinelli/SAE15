@@ -2,7 +2,6 @@ import requests
 import time
 from bs4 import BeautifulSoup
 from math import *
-import matplotlib.pyplot as plt 
 from lxml import etree
 
 
@@ -43,16 +42,6 @@ def ecartype(x):
 		somme=somme+calcul #J'additionne à chaque tour mes valeurs pour faire un total
 	sigma=sqrt(somme) #j'applique la racine carré à mon total pour trouver sigma
 	return sigma
-
-
-def graphique(x):
-	for i in x: #je parcours deux listes en simultanées
-		plt.plot(time.asctime(),x)
-	plt.title('Statistiques placent velo,voiture') #je donne un titre à mon graph
-	plt.xlabel('Jour et Heure ') #j'attribue une légende aux abscisses et aux ordonnées
-	plt.ylabel('Place occupée') 
-	plt.show() #j'affiche mon graph
-	return
         
 
 def fichier_parking(graph,nombre_echantillon):
@@ -172,7 +161,7 @@ def fichier_parking(graph,nombre_echantillon):
         parking.write(pourcentage_ville)
         parking.write('%')
         parking.write('\n\n')
-        time.sleep(8) #Fait un tour toute les 4 secondes
+        time.sleep(8) #Fait un tour toute les 8 secondes
     parking.close()
 
 def gnuplot(place_occup,graph,temps,liste_occupv):
@@ -203,7 +192,8 @@ graph.close()
 # cd ! ce mettre dans le bon répertoire
 #set terminal png size 700,500 enhanced fname 'arial' fsize 10 butt solid ! Je met l'image en png
 #set key inside bottom right
-#set xlabel 'Time heure.minute'
+#set xlabel 'Time heure'
+#set ylabel 'Nbr Places occupées'
 #set title 'graphique parking voiture/velo'
 #plot "data.dat" using 1:2 title 'Placeoccupvoiture' with linespoints, "data.dat" using 1:3 title 'Placeoccupvelo' with linespoints
 #set output 'C:\Users\Yohann\image.png' ! chemin pour créer mon image
