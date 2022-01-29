@@ -1,0 +1,7170 @@
+Sat Jan 29 16:33:50 2022
+
+
+
+Parking 1
+
+('Nom Parking', 'ANTI')
+('Place Libre', '0117')
+('Place total', '0239')
+('Place occupée', '122')
+Pourcentage Place Libre : 48.95397489539749%
+
+
+
+Parking 2
+
+('Nom Parking', 'COME')
+('Place Libre', '0393')
+('Place total', '0835')
+('Place occupée', '442')
+Pourcentage Place Libre : 47.06586826347306%
+
+
+
+Parking 3
+
+('Nom Parking', 'CORU')
+('Place Libre', '0045')
+('Place total', '0430')
+('Place occupée', '385')
+Pourcentage Place Libre : 10.465116279069768%
+
+
+
+Parking 4
+
+('Nom Parking', 'EURO')
+('Place Libre', '0361')
+('Place total', '0593')
+('Place occupée', '232')
+Pourcentage Place Libre : 60.87689713322091%
+
+
+
+Parking 5
+
+('Nom Parking', 'FOCH')
+('Place Libre', '0037')
+('Place total', '0540')
+('Place occupée', '503')
+Pourcentage Place Libre : 6.851851851851852%
+
+
+
+Parking 6
+
+('Nom Parking', 'GAMB')
+('Place Libre', '0090')
+('Place total', '0470')
+('Place occupée', '380')
+Pourcentage Place Libre : 19.148936170212767%
+
+
+
+Parking 7
+
+('Nom Parking', 'GARE')
+('Place Libre', '302')
+('Place total', '656')
+('Place occupée', '354')
+Pourcentage Place Libre : 46.03658536585366%
+
+
+
+Parking 8
+
+('Nom Parking', 'Triangle')
+('Place Libre', '22')
+('Place total', '436')
+('Place occupée', '414')
+Pourcentage Place Libre : 5.045871559633028%
+
+
+
+Parking 9
+
+('Nom Parking', 'ARCT')
+('Place Libre', '0026')
+('Place total', '0460')
+('Place occupée', '434')
+Pourcentage Place Libre : 5.6521739130434785%
+
+
+
+Parking 10
+
+('Nom Parking', 'Pitot')
+('Place Libre', '301')
+('Place total', '588')
+('Place occupée', '287')
+Pourcentage Place Libre : 51.19047619047619%
+
+
+
+Parking 11
+
+('Nom Parking', 'CIRC')
+('Place Libre', '0585')
+('Place total', '1200')
+('Place occupée', '615')
+Pourcentage Place Libre : 48.75%
+
+
+
+Parking 12
+
+('Nom Parking', 'SABI')
+('Place Libre', '0276')
+('Place total', '0485')
+('Place occupée', '209')
+Pourcentage Place Libre : 56.90721649484536%
+
+
+
+Parking 13
+
+('Nom Parking', 'GARD')
+('Place Libre', '0283')
+('Place total', '0395')
+('Place occupée', '112')
+Pourcentage Place Libre : 71.64556962025317%
+
+
+
+Parking 14
+
+('Nom Parking', 'SABL')
+('Place Libre', '0176')
+('Place total', '0372')
+('Place occupée', '196')
+Pourcentage Place Libre : 47.31182795698925%
+
+
+
+Parking 15
+
+('Nom Parking', 'MOSS')
+('Place Libre', '0118')
+('Place total', '0423')
+('Place occupée', '305')
+Pourcentage Place Libre : 27.89598108747045%
+
+
+
+Parking 16
+
+('Nom Parking', 'SJLC')
+('Place Libre', '0181')
+('Place total', '0290')
+('Place occupée', '109')
+Pourcentage Place Libre : 62.41379310344828%
+
+
+
+Parking 17
+
+('Nom Parking', 'MEDC')
+('Place Libre', '0147')
+('Place total', '0255')
+('Place occupée', '108')
+Pourcentage Place Libre : 57.64705882352941%
+
+
+
+Parking 18
+
+('Nom Parking', 'OCCI')
+('Place Libre', '0522')
+('Place total', '0627')
+('Place occupée', '105')
+Pourcentage Place Libre : 83.2535885167464%
+
+
+
+Parking 19
+
+('Nom Parking', 'VICA')
+('Place Libre', '0051')
+('Place total', '0074')
+('Place occupée', '23')
+Pourcentage Place Libre : 68.91891891891892%
+
+
+
+Parking 20
+
+('Nom Parking', 'GAUMONT-EST')
+('Place Libre', '0104')
+('Place total', '0109')
+('Place occupée', '5')
+Pourcentage Place Libre : 95.41284403669725%
+
+
+
+Parking 21
+
+('Nom Parking', 'GAUMONT-OUEST')
+('Place Libre', '0098')
+('Place total', '0250')
+('Place occupée', '152')
+Pourcentage Place Libre : 39.2%
+
+
+
+Parking 22
+
+('Nom Parking', 'ARCE')
+('Place Libre', '0230')
+('Place total', '0230')
+('Place occupée', '0')
+Pourcentage Place Libre : 100.0%
+
+
+
+Parking 23
+
+('Nom Parking', 'POLY')
+('Place Libre', '1448')
+('Place total', '1911')
+('Place occupée', '463')
+Pourcentage Place Libre : 75.77184720041863%
+
+
+Moyenne de place occupée : 258.9130434782609
+
+Ecartype de cette moyenne : 171.16021303305232
+
+Pourcentage de place libre dans la ville : 49.823053589484324%
+
+Sat Jan 29 16:43:52 2022
+
+
+
+Parking 1
+
+('Nom Parking', 'ANTI')
+('Place Libre', '0115')
+('Place total', '0239')
+('Place occupée', '124')
+Pourcentage Place Libre : 48.11715481171548%
+
+
+
+Parking 2
+
+('Nom Parking', 'COME')
+('Place Libre', '0408')
+('Place total', '0835')
+('Place occupée', '427')
+Pourcentage Place Libre : 48.862275449101794%
+
+
+
+Parking 3
+
+('Nom Parking', 'CORU')
+('Place Libre', '0034')
+('Place total', '0430')
+('Place occupée', '396')
+Pourcentage Place Libre : 7.906976744186046%
+
+
+
+Parking 4
+
+('Nom Parking', 'EURO')
+('Place Libre', '0360')
+('Place total', '0593')
+('Place occupée', '233')
+Pourcentage Place Libre : 60.70826306913997%
+
+
+
+Parking 5
+
+('Nom Parking', 'FOCH')
+('Place Libre', '0043')
+('Place total', '0540')
+('Place occupée', '497')
+Pourcentage Place Libre : 7.962962962962963%
+
+
+
+Parking 6
+
+('Nom Parking', 'GAMB')
+('Place Libre', '0091')
+('Place total', '0470')
+('Place occupée', '379')
+Pourcentage Place Libre : 19.361702127659573%
+
+
+
+Parking 7
+
+('Nom Parking', 'GARE')
+('Place Libre', '298')
+('Place total', '656')
+('Place occupée', '358')
+Pourcentage Place Libre : 45.426829268292686%
+
+
+
+Parking 8
+
+('Nom Parking', 'Triangle')
+('Place Libre', '24')
+('Place total', '436')
+('Place occupée', '412')
+Pourcentage Place Libre : 5.504587155963303%
+
+
+
+Parking 9
+
+('Nom Parking', 'ARCT')
+('Place Libre', '0022')
+('Place total', '0460')
+('Place occupée', '438')
+Pourcentage Place Libre : 4.782608695652174%
+
+
+
+Parking 10
+
+('Nom Parking', 'Pitot')
+('Place Libre', '306')
+('Place total', '588')
+('Place occupée', '282')
+Pourcentage Place Libre : 52.04081632653061%
+
+
+
+Parking 11
+
+('Nom Parking', 'CIRC')
+('Place Libre', '0585')
+('Place total', '1200')
+('Place occupée', '615')
+Pourcentage Place Libre : 48.75%
+
+
+
+Parking 12
+
+('Nom Parking', 'SABI')
+('Place Libre', '0282')
+('Place total', '0485')
+('Place occupée', '203')
+Pourcentage Place Libre : 58.144329896907216%
+
+
+
+Parking 13
+
+('Nom Parking', 'GARD')
+('Place Libre', '0284')
+('Place total', '0395')
+('Place occupée', '111')
+Pourcentage Place Libre : 71.89873417721519%
+
+
+
+Parking 14
+
+('Nom Parking', 'SABL')
+('Place Libre', '0180')
+('Place total', '0372')
+('Place occupée', '192')
+Pourcentage Place Libre : 48.38709677419355%
+
+
+
+Parking 15
+
+('Nom Parking', 'MOSS')
+('Place Libre', '0116')
+('Place total', '0423')
+('Place occupée', '307')
+Pourcentage Place Libre : 27.423167848699762%
+
+
+
+Parking 16
+
+('Nom Parking', 'SJLC')
+('Place Libre', '0182')
+('Place total', '0290')
+('Place occupée', '108')
+Pourcentage Place Libre : 62.758620689655174%
+
+
+
+Parking 17
+
+('Nom Parking', 'MEDC')
+('Place Libre', '0147')
+('Place total', '0255')
+('Place occupée', '108')
+Pourcentage Place Libre : 57.64705882352941%
+
+
+
+Parking 18
+
+('Nom Parking', 'OCCI')
+('Place Libre', '0519')
+('Place total', '0627')
+('Place occupée', '108')
+Pourcentage Place Libre : 82.77511961722487%
+
+
+
+Parking 19
+
+('Nom Parking', 'VICA')
+('Place Libre', '0053')
+('Place total', '0074')
+('Place occupée', '21')
+Pourcentage Place Libre : 71.62162162162163%
+
+
+
+Parking 20
+
+('Nom Parking', 'GAUMONT-EST')
+('Place Libre', '0104')
+('Place total', '0109')
+('Place occupée', '5')
+Pourcentage Place Libre : 95.41284403669725%
+
+
+
+Parking 21
+
+('Nom Parking', 'GAUMONT-OUEST')
+('Place Libre', '0089')
+('Place total', '0250')
+('Place occupée', '161')
+Pourcentage Place Libre : 35.6%
+
+
+
+Parking 22
+
+('Nom Parking', 'ARCE')
+('Place Libre', '0230')
+('Place total', '0230')
+('Place occupée', '0')
+Pourcentage Place Libre : 100.0%
+
+
+
+Parking 23
+
+('Nom Parking', 'POLY')
+('Place Libre', '1448')
+('Place total', '1911')
+('Place occupée', '463')
+Pourcentage Place Libre : 75.77184720041863%
+
+
+Moyenne de place occupée : 258.60869565217394
+
+Ecartype de cette moyenne : 170.56778306596416
+
+Pourcentage de place libre dans la ville : 49.88203572632288%
+
+Sat Jan 29 16:53:54 2022
+
+
+
+Parking 1
+
+('Nom Parking', 'ANTI')
+('Place Libre', '0116')
+('Place total', '0239')
+('Place occupée', '123')
+Pourcentage Place Libre : 48.53556485355649%
+
+
+
+Parking 2
+
+('Nom Parking', 'COME')
+('Place Libre', '0412')
+('Place total', '0835')
+('Place occupée', '423')
+Pourcentage Place Libre : 49.34131736526946%
+
+
+
+Parking 3
+
+('Nom Parking', 'CORU')
+('Place Libre', '0019')
+('Place total', '0430')
+('Place occupée', '411')
+Pourcentage Place Libre : 4.4186046511627906%
+
+
+
+Parking 4
+
+('Nom Parking', 'EURO')
+('Place Libre', '0360')
+('Place total', '0593')
+('Place occupée', '233')
+Pourcentage Place Libre : 60.70826306913997%
+
+
+
+Parking 5
+
+('Nom Parking', 'FOCH')
+('Place Libre', '0063')
+('Place total', '0540')
+('Place occupée', '477')
+Pourcentage Place Libre : 11.666666666666666%
+
+
+
+Parking 6
+
+('Nom Parking', 'GAMB')
+('Place Libre', '0094')
+('Place total', '0470')
+('Place occupée', '376')
+Pourcentage Place Libre : 20.0%
+
+
+
+Parking 7
+
+('Nom Parking', 'GARE')
+('Place Libre', '306')
+('Place total', '656')
+('Place occupée', '350')
+Pourcentage Place Libre : 46.646341463414636%
+
+
+
+Parking 8
+
+('Nom Parking', 'Triangle')
+('Place Libre', '28')
+('Place total', '436')
+('Place occupée', '408')
+Pourcentage Place Libre : 6.422018348623853%
+
+
+
+Parking 9
+
+('Nom Parking', 'ARCT')
+('Place Libre', '0023')
+('Place total', '0460')
+('Place occupée', '437')
+Pourcentage Place Libre : 5.0%
+
+
+
+Parking 10
+
+('Nom Parking', 'Pitot')
+('Place Libre', '312')
+('Place total', '588')
+('Place occupée', '276')
+Pourcentage Place Libre : 53.06122448979592%
+
+
+
+Parking 11
+
+('Nom Parking', 'CIRC')
+('Place Libre', '0585')
+('Place total', '1200')
+('Place occupée', '615')
+Pourcentage Place Libre : 48.75%
+
+
+
+Parking 12
+
+('Nom Parking', 'SABI')
+('Place Libre', '0281')
+('Place total', '0485')
+('Place occupée', '204')
+Pourcentage Place Libre : 57.93814432989691%
+
+
+
+Parking 13
+
+('Nom Parking', 'GARD')
+('Place Libre', '0286')
+('Place total', '0395')
+('Place occupée', '109')
+Pourcentage Place Libre : 72.40506329113924%
+
+
+
+Parking 14
+
+('Nom Parking', 'SABL')
+('Place Libre', '0183')
+('Place total', '0372')
+('Place occupée', '189')
+Pourcentage Place Libre : 49.193548387096776%
+
+
+
+Parking 15
+
+('Nom Parking', 'MOSS')
+('Place Libre', '0116')
+('Place total', '0423')
+('Place occupée', '307')
+Pourcentage Place Libre : 27.423167848699762%
+
+
+
+Parking 16
+
+('Nom Parking', 'SJLC')
+('Place Libre', '0184')
+('Place total', '0290')
+('Place occupée', '106')
+Pourcentage Place Libre : 63.44827586206897%
+
+
+
+Parking 17
+
+('Nom Parking', 'MEDC')
+('Place Libre', '0148')
+('Place total', '0255')
+('Place occupée', '107')
+Pourcentage Place Libre : 58.03921568627451%
+
+
+
+Parking 18
+
+('Nom Parking', 'OCCI')
+('Place Libre', '0523')
+('Place total', '0627')
+('Place occupée', '104')
+Pourcentage Place Libre : 83.41307814992025%
+
+
+
+Parking 19
+
+('Nom Parking', 'VICA')
+('Place Libre', '0052')
+('Place total', '0074')
+('Place occupée', '22')
+Pourcentage Place Libre : 70.27027027027027%
+
+
+
+Parking 20
+
+('Nom Parking', 'GAUMONT-EST')
+('Place Libre', '0103')
+('Place total', '0109')
+('Place occupée', '6')
+Pourcentage Place Libre : 94.4954128440367%
+
+
+
+Parking 21
+
+('Nom Parking', 'GAUMONT-OUEST')
+('Place Libre', '0082')
+('Place total', '0250')
+('Place occupée', '168')
+Pourcentage Place Libre : 32.8%
+
+
+
+Parking 22
+
+('Nom Parking', 'ARCE')
+('Place Libre', '0230')
+('Place total', '0230')
+('Place occupée', '0')
+Pourcentage Place Libre : 100.0%
+
+
+
+Parking 23
+
+('Nom Parking', 'POLY')
+('Place Libre', '1448')
+('Place total', '1911')
+('Place occupée', '463')
+Pourcentage Place Libre : 75.77184720041863%
+
+
+Moyenne de place occupée : 257.1304347826087
+
+Ecartype de cette moyenne : 169.38746536137228
+
+Pourcentage de place libre dans la ville : 50.16852039096731%
+
+Sat Jan 29 17:03:56 2022
+
+
+
+Parking 1
+
+('Nom Parking', 'ANTI')
+('Place Libre', '0115')
+('Place total', '0239')
+('Place occupée', '124')
+Pourcentage Place Libre : 48.11715481171548%
+
+
+
+Parking 2
+
+('Nom Parking', 'COME')
+('Place Libre', '0424')
+('Place total', '0835')
+('Place occupée', '411')
+Pourcentage Place Libre : 50.778443113772454%
+
+
+
+Parking 3
+
+('Nom Parking', 'CORU')
+('Place Libre', '0025')
+('Place total', '0430')
+('Place occupée', '405')
+Pourcentage Place Libre : 5.813953488372093%
+
+
+
+Parking 4
+
+('Nom Parking', 'EURO')
+('Place Libre', '0358')
+('Place total', '0593')
+('Place occupée', '235')
+Pourcentage Place Libre : 60.37099494097808%
+
+
+
+Parking 5
+
+('Nom Parking', 'FOCH')
+('Place Libre', '0064')
+('Place total', '0540')
+('Place occupée', '476')
+Pourcentage Place Libre : 11.851851851851851%
+
+
+
+Parking 6
+
+('Nom Parking', 'GAMB')
+('Place Libre', '0090')
+('Place total', '0470')
+('Place occupée', '380')
+Pourcentage Place Libre : 19.148936170212767%
+
+
+
+Parking 7
+
+('Nom Parking', 'GARE')
+('Place Libre', '283')
+('Place total', '656')
+('Place occupée', '373')
+Pourcentage Place Libre : 43.140243902439025%
+
+
+
+Parking 8
+
+('Nom Parking', 'Triangle')
+('Place Libre', '38')
+('Place total', '436')
+('Place occupée', '398')
+Pourcentage Place Libre : 8.715596330275229%
+
+
+
+Parking 9
+
+('Nom Parking', 'ARCT')
+('Place Libre', '0019')
+('Place total', '0460')
+('Place occupée', '441')
+Pourcentage Place Libre : 4.130434782608695%
+
+
+
+Parking 10
+
+('Nom Parking', 'Pitot')
+('Place Libre', '315')
+('Place total', '588')
+('Place occupée', '273')
+Pourcentage Place Libre : 53.57142857142857%
+
+
+
+Parking 11
+
+('Nom Parking', 'CIRC')
+('Place Libre', '0585')
+('Place total', '1200')
+('Place occupée', '615')
+Pourcentage Place Libre : 48.75%
+
+
+
+Parking 12
+
+('Nom Parking', 'SABI')
+('Place Libre', '0277')
+('Place total', '0485')
+('Place occupée', '208')
+Pourcentage Place Libre : 57.11340206185567%
+
+
+
+Parking 13
+
+('Nom Parking', 'GARD')
+('Place Libre', '0287')
+('Place total', '0395')
+('Place occupée', '108')
+Pourcentage Place Libre : 72.65822784810126%
+
+
+
+Parking 14
+
+('Nom Parking', 'SABL')
+('Place Libre', '0184')
+('Place total', '0372')
+('Place occupée', '188')
+Pourcentage Place Libre : 49.46236559139785%
+
+
+
+Parking 15
+
+('Nom Parking', 'MOSS')
+('Place Libre', '0119')
+('Place total', '0423')
+('Place occupée', '304')
+Pourcentage Place Libre : 28.13238770685579%
+
+
+
+Parking 16
+
+('Nom Parking', 'SJLC')
+('Place Libre', '0184')
+('Place total', '0290')
+('Place occupée', '106')
+Pourcentage Place Libre : 63.44827586206897%
+
+
+
+Parking 17
+
+('Nom Parking', 'MEDC')
+('Place Libre', '0149')
+('Place total', '0255')
+('Place occupée', '106')
+Pourcentage Place Libre : 58.431372549019606%
+
+
+
+Parking 18
+
+('Nom Parking', 'OCCI')
+('Place Libre', '0527')
+('Place total', '0627')
+('Place occupée', '100')
+Pourcentage Place Libre : 84.05103668261563%
+
+
+
+Parking 19
+
+('Nom Parking', 'VICA')
+('Place Libre', '0053')
+('Place total', '0074')
+('Place occupée', '21')
+Pourcentage Place Libre : 71.62162162162163%
+
+
+
+Parking 20
+
+('Nom Parking', 'GAUMONT-EST')
+('Place Libre', '0102')
+('Place total', '0109')
+('Place occupée', '7')
+Pourcentage Place Libre : 93.57798165137615%
+
+
+
+Parking 21
+
+('Nom Parking', 'GAUMONT-OUEST')
+('Place Libre', '0077')
+('Place total', '0250')
+('Place occupée', '173')
+Pourcentage Place Libre : 30.8%
+
+
+
+Parking 22
+
+('Nom Parking', 'ARCE')
+('Place Libre', '0230')
+('Place total', '0230')
+('Place occupée', '0')
+Pourcentage Place Libre : 100.0%
+
+
+
+Parking 23
+
+('Nom Parking', 'POLY')
+('Place Libre', '1448')
+('Place total', '1911')
+('Place occupée', '463')
+Pourcentage Place Libre : 75.77184720041863%
+
+
+Moyenne de place occupée : 257.17391304347825
+
+Ecartype de cette moyenne : 169.1481604660125
+
+Pourcentage de place libre dans la ville : 50.16009437141894%
+
+Sat Jan 29 17:13:58 2022
+
+
+
+Parking 1
+
+('Nom Parking', 'ANTI')
+('Place Libre', '0115')
+('Place total', '0239')
+('Place occupée', '124')
+Pourcentage Place Libre : 48.11715481171548%
+
+
+
+Parking 2
+
+('Nom Parking', 'COME')
+('Place Libre', '0446')
+('Place total', '0835')
+('Place occupée', '389')
+Pourcentage Place Libre : 53.41317365269461%
+
+
+
+Parking 3
+
+('Nom Parking', 'CORU')
+('Place Libre', '0027')
+('Place total', '0430')
+('Place occupée', '403')
+Pourcentage Place Libre : 6.27906976744186%
+
+
+
+Parking 4
+
+('Nom Parking', 'EURO')
+('Place Libre', '0359')
+('Place total', '0593')
+('Place occupée', '234')
+Pourcentage Place Libre : 60.53962900505902%
+
+
+
+Parking 5
+
+('Nom Parking', 'FOCH')
+('Place Libre', '0077')
+('Place total', '0540')
+('Place occupée', '463')
+Pourcentage Place Libre : 14.25925925925926%
+
+
+
+Parking 6
+
+('Nom Parking', 'GAMB')
+('Place Libre', '0090')
+('Place total', '0470')
+('Place occupée', '380')
+Pourcentage Place Libre : 19.148936170212767%
+
+
+
+Parking 7
+
+('Nom Parking', 'GARE')
+('Place Libre', '302')
+('Place total', '656')
+('Place occupée', '354')
+Pourcentage Place Libre : 46.03658536585366%
+
+
+
+Parking 8
+
+('Nom Parking', 'Triangle')
+('Place Libre', '45')
+('Place total', '436')
+('Place occupée', '391')
+Pourcentage Place Libre : 10.321100917431192%
+
+
+
+Parking 9
+
+('Nom Parking', 'ARCT')
+('Place Libre', '0020')
+('Place total', '0460')
+('Place occupée', '440')
+Pourcentage Place Libre : 4.3478260869565215%
+
+
+
+Parking 10
+
+('Nom Parking', 'Pitot')
+('Place Libre', '319')
+('Place total', '588')
+('Place occupée', '269')
+Pourcentage Place Libre : 54.25170068027211%
+
+
+
+Parking 11
+
+('Nom Parking', 'CIRC')
+('Place Libre', '0585')
+('Place total', '1200')
+('Place occupée', '615')
+Pourcentage Place Libre : 48.75%
+
+
+
+Parking 12
+
+('Nom Parking', 'SABI')
+('Place Libre', '0275')
+('Place total', '0485')
+('Place occupée', '210')
+Pourcentage Place Libre : 56.70103092783505%
+
+
+
+Parking 13
+
+('Nom Parking', 'GARD')
+('Place Libre', '0287')
+('Place total', '0395')
+('Place occupée', '108')
+Pourcentage Place Libre : 72.65822784810126%
+
+
+
+Parking 14
+
+('Nom Parking', 'SABL')
+('Place Libre', '0189')
+('Place total', '0372')
+('Place occupée', '183')
+Pourcentage Place Libre : 50.806451612903224%
+
+
+
+Parking 15
+
+('Nom Parking', 'MOSS')
+('Place Libre', '0119')
+('Place total', '0423')
+('Place occupée', '304')
+Pourcentage Place Libre : 28.13238770685579%
+
+
+
+Parking 16
+
+('Nom Parking', 'SJLC')
+('Place Libre', '0188')
+('Place total', '0290')
+('Place occupée', '102')
+Pourcentage Place Libre : 64.82758620689656%
+
+
+
+Parking 17
+
+('Nom Parking', 'MEDC')
+('Place Libre', '0149')
+('Place total', '0255')
+('Place occupée', '106')
+Pourcentage Place Libre : 58.431372549019606%
+
+
+
+Parking 18
+
+('Nom Parking', 'OCCI')
+('Place Libre', '0526')
+('Place total', '0627')
+('Place occupée', '101')
+Pourcentage Place Libre : 83.89154704944178%
+
+
+
+Parking 19
+
+('Nom Parking', 'VICA')
+('Place Libre', '0053')
+('Place total', '0074')
+('Place occupée', '21')
+Pourcentage Place Libre : 71.62162162162163%
+
+
+
+Parking 20
+
+('Nom Parking', 'GAUMONT-EST')
+('Place Libre', '0103')
+('Place total', '0109')
+('Place occupée', '6')
+Pourcentage Place Libre : 94.4954128440367%
+
+
+
+Parking 21
+
+('Nom Parking', 'GAUMONT-OUEST')
+('Place Libre', '0072')
+('Place total', '0250')
+('Place occupée', '178')
+Pourcentage Place Libre : 28.8%
+
+
+
+Parking 22
+
+('Nom Parking', 'ARCE')
+('Place Libre', '0230')
+('Place total', '0230')
+('Place occupée', '0')
+Pourcentage Place Libre : 100.0%
+
+
+
+Parking 23
+
+('Nom Parking', 'POLY')
+('Place Libre', '1448')
+('Place total', '1911')
+('Place occupée', '463')
+Pourcentage Place Libre : 75.77184720041863%
+
+
+Moyenne de place occupée : 254.08695652173913
+
+Ecartype de cette moyenne : 166.83366176953888
+
+Pourcentage de place libre dans la ville : 50.75834175935288%
+
+Sat Jan 29 17:24:00 2022
+
+
+
+Parking 1
+
+('Nom Parking', 'ANTI')
+('Place Libre', '0117')
+('Place total', '0239')
+('Place occupée', '122')
+Pourcentage Place Libre : 48.95397489539749%
+
+
+
+Parking 2
+
+('Nom Parking', 'COME')
+('Place Libre', '0459')
+('Place total', '0835')
+('Place occupée', '376')
+Pourcentage Place Libre : 54.97005988023952%
+
+
+
+Parking 3
+
+('Nom Parking', 'CORU')
+('Place Libre', '0027')
+('Place total', '0430')
+('Place occupée', '403')
+Pourcentage Place Libre : 6.27906976744186%
+
+
+
+Parking 4
+
+('Nom Parking', 'EURO')
+('Place Libre', '0360')
+('Place total', '0593')
+('Place occupée', '233')
+Pourcentage Place Libre : 60.70826306913997%
+
+
+
+Parking 5
+
+('Nom Parking', 'FOCH')
+('Place Libre', '0078')
+('Place total', '0540')
+('Place occupée', '462')
+Pourcentage Place Libre : 14.444444444444445%
+
+
+
+Parking 6
+
+('Nom Parking', 'GAMB')
+('Place Libre', '0092')
+('Place total', '0470')
+('Place occupée', '378')
+Pourcentage Place Libre : 19.574468085106382%
+
+
+
+Parking 7
+
+('Nom Parking', 'GARE')
+('Place Libre', '290')
+('Place total', '656')
+('Place occupée', '366')
+Pourcentage Place Libre : 44.207317073170735%
+
+
+
+Parking 8
+
+('Nom Parking', 'Triangle')
+('Place Libre', '49')
+('Place total', '436')
+('Place occupée', '387')
+Pourcentage Place Libre : 11.238532110091743%
+
+
+
+Parking 9
+
+('Nom Parking', 'ARCT')
+('Place Libre', '0021')
+('Place total', '0460')
+('Place occupée', '439')
+Pourcentage Place Libre : 4.565217391304348%
+
+
+
+Parking 10
+
+('Nom Parking', 'Pitot')
+('Place Libre', '318')
+('Place total', '588')
+('Place occupée', '270')
+Pourcentage Place Libre : 54.08163265306123%
+
+
+
+Parking 11
+
+('Nom Parking', 'CIRC')
+('Place Libre', '0585')
+('Place total', '1200')
+('Place occupée', '615')
+Pourcentage Place Libre : 48.75%
+
+
+
+Parking 12
+
+('Nom Parking', 'SABI')
+('Place Libre', '0280')
+('Place total', '0485')
+('Place occupée', '205')
+Pourcentage Place Libre : 57.7319587628866%
+
+
+
+Parking 13
+
+('Nom Parking', 'GARD')
+('Place Libre', '0287')
+('Place total', '0395')
+('Place occupée', '108')
+Pourcentage Place Libre : 72.65822784810126%
+
+
+
+Parking 14
+
+('Nom Parking', 'SABL')
+('Place Libre', '0191')
+('Place total', '0372')
+('Place occupée', '181')
+Pourcentage Place Libre : 51.344086021505376%
+
+
+
+Parking 15
+
+('Nom Parking', 'MOSS')
+('Place Libre', '0120')
+('Place total', '0423')
+('Place occupée', '303')
+Pourcentage Place Libre : 28.368794326241133%
+
+
+
+Parking 16
+
+('Nom Parking', 'SJLC')
+('Place Libre', '0191')
+('Place total', '0290')
+('Place occupée', '99')
+Pourcentage Place Libre : 65.86206896551724%
+
+
+
+Parking 17
+
+('Nom Parking', 'MEDC')
+('Place Libre', '0152')
+('Place total', '0255')
+('Place occupée', '103')
+Pourcentage Place Libre : 59.6078431372549%
+
+
+
+Parking 18
+
+('Nom Parking', 'OCCI')
+('Place Libre', '0531')
+('Place total', '0627')
+('Place occupée', '96')
+Pourcentage Place Libre : 84.68899521531101%
+
+
+
+Parking 19
+
+('Nom Parking', 'VICA')
+('Place Libre', '0053')
+('Place total', '0074')
+('Place occupée', '21')
+Pourcentage Place Libre : 71.62162162162163%
+
+
+
+Parking 20
+
+('Nom Parking', 'GAUMONT-EST')
+('Place Libre', '0101')
+('Place total', '0109')
+('Place occupée', '8')
+Pourcentage Place Libre : 92.66055045871559%
+
+
+
+Parking 21
+
+('Nom Parking', 'GAUMONT-OUEST')
+('Place Libre', '0072')
+('Place total', '0250')
+('Place occupée', '178')
+Pourcentage Place Libre : 28.8%
+
+
+
+Parking 22
+
+('Nom Parking', 'ARCE')
+('Place Libre', '0230')
+('Place total', '0230')
+('Place occupée', '0')
+Pourcentage Place Libre : 100.0%
+
+
+
+Parking 23
+
+('Nom Parking', 'POLY')
+('Place Libre', '1448')
+('Place total', '1911')
+('Place occupée', '463')
+Pourcentage Place Libre : 75.77184720041863%
+
+
+Moyenne de place occupée : 252.8695652173913
+
+Ecartype de cette moyenne : 166.89108772094613
+
+Pourcentage de place libre dans la ville : 50.994270306707115%
+
+Sat Jan 29 17:34:02 2022
+
+
+
+Parking 1
+
+('Nom Parking', 'ANTI')
+('Place Libre', '0118')
+('Place total', '0239')
+('Place occupée', '121')
+Pourcentage Place Libre : 49.37238493723849%
+
+
+
+Parking 2
+
+('Nom Parking', 'COME')
+('Place Libre', '0462')
+('Place total', '0835')
+('Place occupée', '373')
+Pourcentage Place Libre : 55.32934131736527%
+
+
+
+Parking 3
+
+('Nom Parking', 'CORU')
+('Place Libre', '0035')
+('Place total', '0430')
+('Place occupée', '395')
+Pourcentage Place Libre : 8.13953488372093%
+
+
+
+Parking 4
+
+('Nom Parking', 'EURO')
+('Place Libre', '0360')
+('Place total', '0593')
+('Place occupée', '233')
+Pourcentage Place Libre : 60.70826306913997%
+
+
+
+Parking 5
+
+('Nom Parking', 'FOCH')
+('Place Libre', '0080')
+('Place total', '0540')
+('Place occupée', '460')
+Pourcentage Place Libre : 14.814814814814815%
+
+
+
+Parking 6
+
+('Nom Parking', 'GAMB')
+('Place Libre', '0100')
+('Place total', '0470')
+('Place occupée', '370')
+Pourcentage Place Libre : 21.27659574468085%
+
+
+
+Parking 7
+
+('Nom Parking', 'GARE')
+('Place Libre', '294')
+('Place total', '656')
+('Place occupée', '362')
+Pourcentage Place Libre : 44.81707317073171%
+
+
+
+Parking 8
+
+('Nom Parking', 'Triangle')
+('Place Libre', '63')
+('Place total', '436')
+('Place occupée', '373')
+Pourcentage Place Libre : 14.44954128440367%
+
+
+
+Parking 9
+
+('Nom Parking', 'ARCT')
+('Place Libre', '0017')
+('Place total', '0460')
+('Place occupée', '443')
+Pourcentage Place Libre : 3.6956521739130435%
+
+
+
+Parking 10
+
+('Nom Parking', 'Pitot')
+('Place Libre', '322')
+('Place total', '588')
+('Place occupée', '266')
+Pourcentage Place Libre : 54.76190476190476%
+
+
+
+Parking 11
+
+('Nom Parking', 'CIRC')
+('Place Libre', '0585')
+('Place total', '1200')
+('Place occupée', '615')
+Pourcentage Place Libre : 48.75%
+
+
+
+Parking 12
+
+('Nom Parking', 'SABI')
+('Place Libre', '0285')
+('Place total', '0485')
+('Place occupée', '200')
+Pourcentage Place Libre : 58.76288659793814%
+
+
+
+Parking 13
+
+('Nom Parking', 'GARD')
+('Place Libre', '0286')
+('Place total', '0395')
+('Place occupée', '109')
+Pourcentage Place Libre : 72.40506329113924%
+
+
+
+Parking 14
+
+('Nom Parking', 'SABL')
+('Place Libre', '0190')
+('Place total', '0372')
+('Place occupée', '182')
+Pourcentage Place Libre : 51.075268817204304%
+
+
+
+Parking 15
+
+('Nom Parking', 'MOSS')
+('Place Libre', '0128')
+('Place total', '0423')
+('Place occupée', '295')
+Pourcentage Place Libre : 30.260047281323878%
+
+
+
+Parking 16
+
+('Nom Parking', 'SJLC')
+('Place Libre', '0192')
+('Place total', '0290')
+('Place occupée', '98')
+Pourcentage Place Libre : 66.20689655172414%
+
+
+
+Parking 17
+
+('Nom Parking', 'MEDC')
+('Place Libre', '0152')
+('Place total', '0255')
+('Place occupée', '103')
+Pourcentage Place Libre : 59.6078431372549%
+
+
+
+Parking 18
+
+('Nom Parking', 'OCCI')
+('Place Libre', '0531')
+('Place total', '0627')
+('Place occupée', '96')
+Pourcentage Place Libre : 84.68899521531101%
+
+
+
+Parking 19
+
+('Nom Parking', 'VICA')
+('Place Libre', '0054')
+('Place total', '0074')
+('Place occupée', '20')
+Pourcentage Place Libre : 72.97297297297297%
+
+
+
+Parking 20
+
+('Nom Parking', 'GAUMONT-EST')
+('Place Libre', '0101')
+('Place total', '0109')
+('Place occupée', '8')
+Pourcentage Place Libre : 92.66055045871559%
+
+
+
+Parking 21
+
+('Nom Parking', 'GAUMONT-OUEST')
+('Place Libre', '0077')
+('Place total', '0250')
+('Place occupée', '173')
+Pourcentage Place Libre : 30.8%
+
+
+
+Parking 22
+
+('Nom Parking', 'ARCE')
+('Place Libre', '0230')
+('Place total', '0230')
+('Place occupée', '0')
+Pourcentage Place Libre : 100.0%
+
+
+
+Parking 23
+
+('Nom Parking', 'POLY')
+('Place Libre', '1448')
+('Place total', '1911')
+('Place occupée', '463')
+Pourcentage Place Libre : 75.77184720041863%
+
+
+Moyenne de place occupée : 250.34782608695653
+
+Ecartype de cette moyenne : 165.85813967144966
+
+Pourcentage de place libre dans la ville : 51.4829794405123%
+
+Sat Jan 29 17:44:04 2022
+
+
+
+Parking 1
+
+('Nom Parking', 'ANTI')
+('Place Libre', '0119')
+('Place total', '0239')
+('Place occupée', '120')
+Pourcentage Place Libre : 49.7907949790795%
+
+
+
+Parking 2
+
+('Nom Parking', 'COME')
+('Place Libre', '0476')
+('Place total', '0835')
+('Place occupée', '359')
+Pourcentage Place Libre : 57.0059880239521%
+
+
+
+Parking 3
+
+('Nom Parking', 'CORU')
+('Place Libre', '0034')
+('Place total', '0430')
+('Place occupée', '396')
+Pourcentage Place Libre : 7.906976744186046%
+
+
+
+Parking 4
+
+('Nom Parking', 'EURO')
+('Place Libre', '0359')
+('Place total', '0593')
+('Place occupée', '234')
+Pourcentage Place Libre : 60.53962900505902%
+
+
+
+Parking 5
+
+('Nom Parking', 'FOCH')
+('Place Libre', '0088')
+('Place total', '0540')
+('Place occupée', '452')
+Pourcentage Place Libre : 16.296296296296298%
+
+
+
+Parking 6
+
+('Nom Parking', 'GAMB')
+('Place Libre', '0105')
+('Place total', '0470')
+('Place occupée', '365')
+Pourcentage Place Libre : 22.340425531914892%
+
+
+
+Parking 7
+
+('Nom Parking', 'GARE')
+('Place Libre', '276')
+('Place total', '656')
+('Place occupée', '380')
+Pourcentage Place Libre : 42.073170731707314%
+
+
+
+Parking 8
+
+('Nom Parking', 'Triangle')
+('Place Libre', '75')
+('Place total', '436')
+('Place occupée', '361')
+Pourcentage Place Libre : 17.201834862385322%
+
+
+
+Parking 9
+
+('Nom Parking', 'ARCT')
+('Place Libre', '0027')
+('Place total', '0460')
+('Place occupée', '433')
+Pourcentage Place Libre : 5.869565217391305%
+
+
+
+Parking 10
+
+('Nom Parking', 'Pitot')
+('Place Libre', '317')
+('Place total', '588')
+('Place occupée', '271')
+Pourcentage Place Libre : 53.91156462585034%
+
+
+
+Parking 11
+
+('Nom Parking', 'CIRC')
+('Place Libre', '0585')
+('Place total', '1200')
+('Place occupée', '615')
+Pourcentage Place Libre : 48.75%
+
+
+
+Parking 12
+
+('Nom Parking', 'SABI')
+('Place Libre', '0284')
+('Place total', '0485')
+('Place occupée', '201')
+Pourcentage Place Libre : 58.55670103092783%
+
+
+
+Parking 13
+
+('Nom Parking', 'GARD')
+('Place Libre', '0288')
+('Place total', '0395')
+('Place occupée', '107')
+Pourcentage Place Libre : 72.9113924050633%
+
+
+
+Parking 14
+
+('Nom Parking', 'SABL')
+('Place Libre', '0194')
+('Place total', '0372')
+('Place occupée', '178')
+Pourcentage Place Libre : 52.1505376344086%
+
+
+
+Parking 15
+
+('Nom Parking', 'MOSS')
+('Place Libre', '0131')
+('Place total', '0423')
+('Place occupée', '292')
+Pourcentage Place Libre : 30.969267139479907%
+
+
+
+Parking 16
+
+('Nom Parking', 'SJLC')
+('Place Libre', '0193')
+('Place total', '0290')
+('Place occupée', '97')
+Pourcentage Place Libre : 66.55172413793103%
+
+
+
+Parking 17
+
+('Nom Parking', 'MEDC')
+('Place Libre', '0153')
+('Place total', '0255')
+('Place occupée', '102')
+Pourcentage Place Libre : 60.0%
+
+
+
+Parking 18
+
+('Nom Parking', 'OCCI')
+('Place Libre', '0538')
+('Place total', '0627')
+('Place occupée', '89')
+Pourcentage Place Libre : 85.8054226475279%
+
+
+
+Parking 19
+
+('Nom Parking', 'VICA')
+('Place Libre', '0053')
+('Place total', '0074')
+('Place occupée', '21')
+Pourcentage Place Libre : 71.62162162162163%
+
+
+
+Parking 20
+
+('Nom Parking', 'GAUMONT-EST')
+('Place Libre', '0098')
+('Place total', '0109')
+('Place occupée', '11')
+Pourcentage Place Libre : 89.90825688073394%
+
+
+
+Parking 21
+
+('Nom Parking', 'GAUMONT-OUEST')
+('Place Libre', '0078')
+('Place total', '0250')
+('Place occupée', '172')
+Pourcentage Place Libre : 31.2%
+
+
+
+Parking 22
+
+('Nom Parking', 'ARCE')
+('Place Libre', '0230')
+('Place total', '0230')
+('Place occupée', '0')
+Pourcentage Place Libre : 100.0%
+
+
+
+Parking 23
+
+('Nom Parking', 'POLY')
+('Place Libre', '1448')
+('Place total', '1911')
+('Place occupée', '463')
+Pourcentage Place Libre : 75.77184720041863%
+
+
+Moyenne de place occupée : 248.65217391304347
+
+Ecartype de cette moyenne : 164.87982677660355
+
+Pourcentage de place libre dans la ville : 51.81159420289855%
+
+Sat Jan 29 17:54:05 2022
+
+
+
+Parking 1
+
+('Nom Parking', 'ANTI')
+('Place Libre', '0124')
+('Place total', '0239')
+('Place occupée', '115')
+Pourcentage Place Libre : 51.88284518828452%
+
+
+
+Parking 2
+
+('Nom Parking', 'COME')
+('Place Libre', '0491')
+('Place total', '0835')
+('Place occupée', '344')
+Pourcentage Place Libre : 58.80239520958084%
+
+
+
+Parking 3
+
+('Nom Parking', 'CORU')
+('Place Libre', '0042')
+('Place total', '0430')
+('Place occupée', '388')
+Pourcentage Place Libre : 9.767441860465116%
+
+
+
+Parking 4
+
+('Nom Parking', 'EURO')
+('Place Libre', '0359')
+('Place total', '0593')
+('Place occupée', '234')
+Pourcentage Place Libre : 60.53962900505902%
+
+
+
+Parking 5
+
+('Nom Parking', 'FOCH')
+('Place Libre', '0088')
+('Place total', '0540')
+('Place occupée', '452')
+Pourcentage Place Libre : 16.296296296296298%
+
+
+
+Parking 6
+
+('Nom Parking', 'GAMB')
+('Place Libre', '0104')
+('Place total', '0470')
+('Place occupée', '366')
+Pourcentage Place Libre : 22.127659574468087%
+
+
+
+Parking 7
+
+('Nom Parking', 'GARE')
+('Place Libre', '281')
+('Place total', '656')
+('Place occupée', '375')
+Pourcentage Place Libre : 42.83536585365854%
+
+
+
+Parking 8
+
+('Nom Parking', 'Triangle')
+('Place Libre', '81')
+('Place total', '436')
+('Place occupée', '355')
+Pourcentage Place Libre : 18.577981651376145%
+
+
+
+Parking 9
+
+('Nom Parking', 'ARCT')
+('Place Libre', '0039')
+('Place total', '0460')
+('Place occupée', '421')
+Pourcentage Place Libre : 8.478260869565217%
+
+
+
+Parking 10
+
+('Nom Parking', 'Pitot')
+('Place Libre', '326')
+('Place total', '588')
+('Place occupée', '262')
+Pourcentage Place Libre : 55.4421768707483%
+
+
+
+Parking 11
+
+('Nom Parking', 'CIRC')
+('Place Libre', '0585')
+('Place total', '1200')
+('Place occupée', '615')
+Pourcentage Place Libre : 48.75%
+
+
+
+Parking 12
+
+('Nom Parking', 'SABI')
+('Place Libre', '0284')
+('Place total', '0485')
+('Place occupée', '201')
+Pourcentage Place Libre : 58.55670103092783%
+
+
+
+Parking 13
+
+('Nom Parking', 'GARD')
+('Place Libre', '0291')
+('Place total', '0395')
+('Place occupée', '104')
+Pourcentage Place Libre : 73.67088607594937%
+
+
+
+Parking 14
+
+('Nom Parking', 'SABL')
+('Place Libre', '0196')
+('Place total', '0372')
+('Place occupée', '176')
+Pourcentage Place Libre : 52.68817204301075%
+
+
+
+Parking 15
+
+('Nom Parking', 'MOSS')
+('Place Libre', '0132')
+('Place total', '0423')
+('Place occupée', '291')
+Pourcentage Place Libre : 31.20567375886525%
+
+
+
+Parking 16
+
+('Nom Parking', 'SJLC')
+('Place Libre', '0192')
+('Place total', '0290')
+('Place occupée', '98')
+Pourcentage Place Libre : 66.20689655172414%
+
+
+
+Parking 17
+
+('Nom Parking', 'MEDC')
+('Place Libre', '0157')
+('Place total', '0255')
+('Place occupée', '98')
+Pourcentage Place Libre : 61.568627450980394%
+
+
+
+Parking 18
+
+('Nom Parking', 'OCCI')
+('Place Libre', '0545')
+('Place total', '0627')
+('Place occupée', '82')
+Pourcentage Place Libre : 86.92185007974481%
+
+
+
+Parking 19
+
+('Nom Parking', 'VICA')
+('Place Libre', '0052')
+('Place total', '0074')
+('Place occupée', '22')
+Pourcentage Place Libre : 70.27027027027027%
+
+
+
+Parking 20
+
+('Nom Parking', 'GAUMONT-EST')
+('Place Libre', '0099')
+('Place total', '0109')
+('Place occupée', '10')
+Pourcentage Place Libre : 90.8256880733945%
+
+
+
+Parking 21
+
+('Nom Parking', 'GAUMONT-OUEST')
+('Place Libre', '0077')
+('Place total', '0250')
+('Place occupée', '173')
+Pourcentage Place Libre : 30.8%
+
+
+
+Parking 22
+
+('Nom Parking', 'ARCE')
+('Place Libre', '0230')
+('Place total', '0230')
+('Place occupée', '0')
+Pourcentage Place Libre : 100.0%
+
+
+
+Parking 23
+
+('Nom Parking', 'POLY')
+('Place Libre', '1448')
+('Place total', '1911')
+('Place occupée', '463')
+Pourcentage Place Libre : 75.77184720041863%
+
+
+Moyenne de place occupée : 245.43478260869566
+
+Ecartype de cette moyenne : 163.93127565536793
+
+Pourcentage de place libre dans la ville : 52.435119649477585%
+
+Sat Jan 29 18:04:07 2022
+
+
+
+Parking 1
+
+('Nom Parking', 'ANTI')
+('Place Libre', '0128')
+('Place total', '0239')
+('Place occupée', '111')
+Pourcentage Place Libre : 53.55648535564853%
+
+
+
+Parking 2
+
+('Nom Parking', 'COME')
+('Place Libre', '0497')
+('Place total', '0835')
+('Place occupée', '338')
+Pourcentage Place Libre : 59.52095808383233%
+
+
+
+Parking 3
+
+('Nom Parking', 'CORU')
+('Place Libre', '0045')
+('Place total', '0430')
+('Place occupée', '385')
+Pourcentage Place Libre : 10.465116279069768%
+
+
+
+Parking 4
+
+('Nom Parking', 'EURO')
+('Place Libre', '0360')
+('Place total', '0593')
+('Place occupée', '233')
+Pourcentage Place Libre : 60.70826306913997%
+
+
+
+Parking 5
+
+('Nom Parking', 'FOCH')
+('Place Libre', '0092')
+('Place total', '0540')
+('Place occupée', '448')
+Pourcentage Place Libre : 17.037037037037038%
+
+
+
+Parking 6
+
+('Nom Parking', 'GAMB')
+('Place Libre', '0101')
+('Place total', '0470')
+('Place occupée', '369')
+Pourcentage Place Libre : 21.48936170212766%
+
+
+
+Parking 7
+
+('Nom Parking', 'GARE')
+('Place Libre', '325')
+('Place total', '656')
+('Place occupée', '331')
+Pourcentage Place Libre : 49.542682926829265%
+
+
+
+Parking 8
+
+('Nom Parking', 'Triangle')
+('Place Libre', '87')
+('Place total', '436')
+('Place occupée', '349')
+Pourcentage Place Libre : 19.954128440366972%
+
+
+
+Parking 9
+
+('Nom Parking', 'ARCT')
+('Place Libre', '0043')
+('Place total', '0460')
+('Place occupée', '417')
+Pourcentage Place Libre : 9.347826086956522%
+
+
+
+Parking 10
+
+('Nom Parking', 'Pitot')
+('Place Libre', '328')
+('Place total', '588')
+('Place occupée', '260')
+Pourcentage Place Libre : 55.78231292517007%
+
+
+
+Parking 11
+
+('Nom Parking', 'CIRC')
+('Place Libre', '0585')
+('Place total', '1200')
+('Place occupée', '615')
+Pourcentage Place Libre : 48.75%
+
+
+
+Parking 12
+
+('Nom Parking', 'SABI')
+('Place Libre', '0285')
+('Place total', '0485')
+('Place occupée', '200')
+Pourcentage Place Libre : 58.76288659793814%
+
+
+
+Parking 13
+
+('Nom Parking', 'GARD')
+('Place Libre', '0292')
+('Place total', '0395')
+('Place occupée', '103')
+Pourcentage Place Libre : 73.92405063291139%
+
+
+
+Parking 14
+
+('Nom Parking', 'SABL')
+('Place Libre', '0197')
+('Place total', '0372')
+('Place occupée', '175')
+Pourcentage Place Libre : 52.956989247311824%
+
+
+
+Parking 15
+
+('Nom Parking', 'MOSS')
+('Place Libre', '0133')
+('Place total', '0423')
+('Place occupée', '290')
+Pourcentage Place Libre : 31.44208037825059%
+
+
+
+Parking 16
+
+('Nom Parking', 'SJLC')
+('Place Libre', '0191')
+('Place total', '0290')
+('Place occupée', '99')
+Pourcentage Place Libre : 65.86206896551724%
+
+
+
+Parking 17
+
+('Nom Parking', 'MEDC')
+('Place Libre', '0157')
+('Place total', '0255')
+('Place occupée', '98')
+Pourcentage Place Libre : 61.568627450980394%
+
+
+
+Parking 18
+
+('Nom Parking', 'OCCI')
+('Place Libre', '0547')
+('Place total', '0627')
+('Place occupée', '80')
+Pourcentage Place Libre : 87.24082934609251%
+
+
+
+Parking 19
+
+('Nom Parking', 'VICA')
+('Place Libre', '0052')
+('Place total', '0074')
+('Place occupée', '22')
+Pourcentage Place Libre : 70.27027027027027%
+
+
+
+Parking 20
+
+('Nom Parking', 'GAUMONT-EST')
+('Place Libre', '0097')
+('Place total', '0109')
+('Place occupée', '12')
+Pourcentage Place Libre : 88.9908256880734%
+
+
+
+Parking 21
+
+('Nom Parking', 'GAUMONT-OUEST')
+('Place Libre', '0073')
+('Place total', '0250')
+('Place occupée', '177')
+Pourcentage Place Libre : 29.2%
+
+
+
+Parking 22
+
+('Nom Parking', 'ARCE')
+('Place Libre', '0230')
+('Place total', '0230')
+('Place occupée', '0')
+Pourcentage Place Libre : 100.0%
+
+
+
+Parking 23
+
+('Nom Parking', 'POLY')
+('Place Libre', '1448')
+('Place total', '1911')
+('Place occupée', '463')
+Pourcentage Place Libre : 75.77184720041863%
+
+
+Moyenne de place occupée : 242.3913043478261
+
+Ecartype de cette moyenne : 161.93845828650996
+
+Pourcentage de place libre dans la ville : 53.02494101786316%
+
+Sat Jan 29 18:14:09 2022
+
+
+
+Parking 1
+
+('Nom Parking', 'ANTI')
+('Place Libre', '0129')
+('Place total', '0239')
+('Place occupée', '110')
+Pourcentage Place Libre : 53.97489539748954%
+
+
+
+Parking 2
+
+('Nom Parking', 'COME')
+('Place Libre', '0505')
+('Place total', '0835')
+('Place occupée', '330')
+Pourcentage Place Libre : 60.47904191616767%
+
+
+
+Parking 3
+
+('Nom Parking', 'CORU')
+('Place Libre', '0054')
+('Place total', '0430')
+('Place occupée', '376')
+Pourcentage Place Libre : 12.55813953488372%
+
+
+
+Parking 4
+
+('Nom Parking', 'EURO')
+('Place Libre', '0359')
+('Place total', '0593')
+('Place occupée', '234')
+Pourcentage Place Libre : 60.53962900505902%
+
+
+
+Parking 5
+
+('Nom Parking', 'FOCH')
+('Place Libre', '0098')
+('Place total', '0540')
+('Place occupée', '442')
+Pourcentage Place Libre : 18.14814814814815%
+
+
+
+Parking 6
+
+('Nom Parking', 'GAMB')
+('Place Libre', '0103')
+('Place total', '0470')
+('Place occupée', '367')
+Pourcentage Place Libre : 21.914893617021278%
+
+
+
+Parking 7
+
+('Nom Parking', 'GARE')
+('Place Libre', '310')
+('Place total', '656')
+('Place occupée', '346')
+Pourcentage Place Libre : 47.25609756097561%
+
+
+
+Parking 8
+
+('Nom Parking', 'Triangle')
+('Place Libre', '80')
+('Place total', '436')
+('Place occupée', '356')
+Pourcentage Place Libre : 18.34862385321101%
+
+
+
+Parking 9
+
+('Nom Parking', 'ARCT')
+('Place Libre', '0041')
+('Place total', '0460')
+('Place occupée', '419')
+Pourcentage Place Libre : 8.91304347826087%
+
+
+
+Parking 10
+
+('Nom Parking', 'Pitot')
+('Place Libre', '342')
+('Place total', '588')
+('Place occupée', '246')
+Pourcentage Place Libre : 58.16326530612245%
+
+
+
+Parking 11
+
+('Nom Parking', 'CIRC')
+('Place Libre', '0585')
+('Place total', '1200')
+('Place occupée', '615')
+Pourcentage Place Libre : 48.75%
+
+
+
+Parking 12
+
+('Nom Parking', 'SABI')
+('Place Libre', '0283')
+('Place total', '0485')
+('Place occupée', '202')
+Pourcentage Place Libre : 58.350515463917525%
+
+
+
+Parking 13
+
+('Nom Parking', 'GARD')
+('Place Libre', '0294')
+('Place total', '0395')
+('Place occupée', '101')
+Pourcentage Place Libre : 74.43037974683544%
+
+
+
+Parking 14
+
+('Nom Parking', 'SABL')
+('Place Libre', '0198')
+('Place total', '0372')
+('Place occupée', '174')
+Pourcentage Place Libre : 53.225806451612904%
+
+
+
+Parking 15
+
+('Nom Parking', 'MOSS')
+('Place Libre', '0136')
+('Place total', '0423')
+('Place occupée', '287')
+Pourcentage Place Libre : 32.15130023640662%
+
+
+
+Parking 16
+
+('Nom Parking', 'SJLC')
+('Place Libre', '0197')
+('Place total', '0290')
+('Place occupée', '93')
+Pourcentage Place Libre : 67.93103448275862%
+
+
+
+Parking 17
+
+('Nom Parking', 'MEDC')
+('Place Libre', '0160')
+('Place total', '0255')
+('Place occupée', '95')
+Pourcentage Place Libre : 62.745098039215684%
+
+
+
+Parking 18
+
+('Nom Parking', 'OCCI')
+('Place Libre', '0551')
+('Place total', '0627')
+('Place occupée', '76')
+Pourcentage Place Libre : 87.87878787878788%
+
+
+
+Parking 19
+
+('Nom Parking', 'VICA')
+('Place Libre', '0051')
+('Place total', '0074')
+('Place occupée', '23')
+Pourcentage Place Libre : 68.91891891891892%
+
+
+
+Parking 20
+
+('Nom Parking', 'GAUMONT-EST')
+('Place Libre', '0093')
+('Place total', '0109')
+('Place occupée', '16')
+Pourcentage Place Libre : 85.3211009174312%
+
+
+
+Parking 21
+
+('Nom Parking', 'GAUMONT-OUEST')
+('Place Libre', '0063')
+('Place total', '0250')
+('Place occupée', '187')
+Pourcentage Place Libre : 25.2%
+
+
+
+Parking 22
+
+('Nom Parking', 'ARCE')
+('Place Libre', '0230')
+('Place total', '0230')
+('Place occupée', '0')
+Pourcentage Place Libre : 100.0%
+
+
+
+Parking 23
+
+('Nom Parking', 'POLY')
+('Place Libre', '1448')
+('Place total', '1911')
+('Place occupée', '463')
+Pourcentage Place Libre : 75.77184720041863%
+
+
+Moyenne de place occupée : 241.65217391304347
+
+Ecartype de cette moyenne : 161.7914945621846
+
+Pourcentage de place libre dans la ville : 53.16818335018537%
+
+Sat Jan 29 18:24:13 2022
+
+
+
+Parking 1
+
+('Nom Parking', 'ANTI')
+('Place Libre', '0129')
+('Place total', '0239')
+('Place occupée', '110')
+Pourcentage Place Libre : 53.97489539748954%
+
+
+
+Parking 2
+
+('Nom Parking', 'COME')
+('Place Libre', '0509')
+('Place total', '0835')
+('Place occupée', '326')
+Pourcentage Place Libre : 60.958083832335326%
+
+
+
+Parking 3
+
+('Nom Parking', 'CORU')
+('Place Libre', '0058')
+('Place total', '0430')
+('Place occupée', '372')
+Pourcentage Place Libre : 13.488372093023257%
+
+
+
+Parking 4
+
+('Nom Parking', 'EURO')
+('Place Libre', '0362')
+('Place total', '0593')
+('Place occupée', '231')
+Pourcentage Place Libre : 61.045531197301855%
+
+
+
+Parking 5
+
+('Nom Parking', 'FOCH')
+('Place Libre', '0108')
+('Place total', '0540')
+('Place occupée', '432')
+Pourcentage Place Libre : 20.0%
+
+
+
+Parking 6
+
+('Nom Parking', 'GAMB')
+('Place Libre', '0103')
+('Place total', '0470')
+('Place occupée', '367')
+Pourcentage Place Libre : 21.914893617021278%
+
+
+
+Parking 7
+
+('Nom Parking', 'GARE')
+('Place Libre', '333')
+('Place total', '656')
+('Place occupée', '323')
+Pourcentage Place Libre : 50.76219512195122%
+
+
+
+Parking 8
+
+('Nom Parking', 'Triangle')
+('Place Libre', '88')
+('Place total', '436')
+('Place occupée', '348')
+Pourcentage Place Libre : 20.18348623853211%
+
+
+
+Parking 9
+
+('Nom Parking', 'ARCT')
+('Place Libre', '0060')
+('Place total', '0460')
+('Place occupée', '400')
+Pourcentage Place Libre : 13.043478260869565%
+
+
+
+Parking 10
+
+('Nom Parking', 'Pitot')
+('Place Libre', '348')
+('Place total', '588')
+('Place occupée', '240')
+Pourcentage Place Libre : 59.183673469387756%
+
+
+
+Parking 11
+
+('Nom Parking', 'CIRC')
+('Place Libre', '0585')
+('Place total', '1200')
+('Place occupée', '615')
+Pourcentage Place Libre : 48.75%
+
+
+
+Parking 12
+
+('Nom Parking', 'SABI')
+('Place Libre', '0287')
+('Place total', '0485')
+('Place occupée', '198')
+Pourcentage Place Libre : 59.175257731958766%
+
+
+
+Parking 13
+
+('Nom Parking', 'GARD')
+('Place Libre', '0294')
+('Place total', '0395')
+('Place occupée', '101')
+Pourcentage Place Libre : 74.43037974683544%
+
+
+
+Parking 14
+
+('Nom Parking', 'SABL')
+('Place Libre', '0197')
+('Place total', '0372')
+('Place occupée', '175')
+Pourcentage Place Libre : 52.956989247311824%
+
+
+
+Parking 15
+
+('Nom Parking', 'MOSS')
+('Place Libre', '0142')
+('Place total', '0423')
+('Place occupée', '281')
+Pourcentage Place Libre : 33.56973995271868%
+
+
+
+Parking 16
+
+('Nom Parking', 'SJLC')
+('Place Libre', '0198')
+('Place total', '0290')
+('Place occupée', '92')
+Pourcentage Place Libre : 68.27586206896552%
+
+
+
+Parking 17
+
+('Nom Parking', 'MEDC')
+('Place Libre', '0160')
+('Place total', '0255')
+('Place occupée', '95')
+Pourcentage Place Libre : 62.745098039215684%
+
+
+
+Parking 18
+
+('Nom Parking', 'OCCI')
+('Place Libre', '0555')
+('Place total', '0627')
+('Place occupée', '72')
+Pourcentage Place Libre : 88.51674641148325%
+
+
+
+Parking 19
+
+('Nom Parking', 'VICA')
+('Place Libre', '0051')
+('Place total', '0074')
+('Place occupée', '23')
+Pourcentage Place Libre : 68.91891891891892%
+
+
+
+Parking 20
+
+('Nom Parking', 'GAUMONT-EST')
+('Place Libre', '0090')
+('Place total', '0109')
+('Place occupée', '19')
+Pourcentage Place Libre : 82.56880733944953%
+
+
+
+Parking 21
+
+('Nom Parking', 'GAUMONT-OUEST')
+('Place Libre', '0035')
+('Place total', '0250')
+('Place occupée', '215')
+Pourcentage Place Libre : 14.0%
+
+
+
+Parking 22
+
+('Nom Parking', 'ARCE')
+('Place Libre', '0230')
+('Place total', '0230')
+('Place occupée', '0')
+Pourcentage Place Libre : 100.0%
+
+
+
+Parking 23
+
+('Nom Parking', 'POLY')
+('Place Libre', '1448')
+('Place total', '1911')
+('Place occupée', '463')
+Pourcentage Place Libre : 75.77184720041863%
+
+
+Moyenne de place occupée : 239.04347826086956
+
+Ecartype de cette moyenne : 159.01585325967253
+
+Pourcentage de place libre dans la ville : 53.673744523087294%
+
+Sat Jan 29 18:34:15 2022
+
+
+
+Parking 1
+
+('Nom Parking', 'ANTI')
+('Place Libre', '0126')
+('Place total', '0239')
+('Place occupée', '113')
+Pourcentage Place Libre : 52.71966527196653%
+
+
+
+Parking 2
+
+('Nom Parking', 'COME')
+('Place Libre', '0521')
+('Place total', '0835')
+('Place occupée', '314')
+Pourcentage Place Libre : 62.395209580838326%
+
+
+
+Parking 3
+
+('Nom Parking', 'CORU')
+('Place Libre', '0061')
+('Place total', '0430')
+('Place occupée', '369')
+Pourcentage Place Libre : 14.186046511627907%
+
+
+
+Parking 4
+
+('Nom Parking', 'EURO')
+('Place Libre', '0366')
+('Place total', '0593')
+('Place occupée', '227')
+Pourcentage Place Libre : 61.72006745362563%
+
+
+
+Parking 5
+
+('Nom Parking', 'FOCH')
+('Place Libre', '0113')
+('Place total', '0540')
+('Place occupée', '427')
+Pourcentage Place Libre : 20.925925925925927%
+
+
+
+Parking 6
+
+('Nom Parking', 'GAMB')
+('Place Libre', '0099')
+('Place total', '0470')
+('Place occupée', '371')
+Pourcentage Place Libre : 21.06382978723404%
+
+
+
+Parking 7
+
+('Nom Parking', 'GARE')
+('Place Libre', '326')
+('Place total', '656')
+('Place occupée', '330')
+Pourcentage Place Libre : 49.69512195121951%
+
+
+
+Parking 8
+
+('Nom Parking', 'Triangle')
+('Place Libre', '106')
+('Place total', '436')
+('Place occupée', '330')
+Pourcentage Place Libre : 24.31192660550459%
+
+
+
+Parking 9
+
+('Nom Parking', 'ARCT')
+('Place Libre', '0069')
+('Place total', '0460')
+('Place occupée', '391')
+Pourcentage Place Libre : 15.0%
+
+
+
+Parking 10
+
+('Nom Parking', 'Pitot')
+('Place Libre', '354')
+('Place total', '588')
+('Place occupée', '234')
+Pourcentage Place Libre : 60.204081632653065%
+
+
+
+Parking 11
+
+('Nom Parking', 'CIRC')
+('Place Libre', '0585')
+('Place total', '1200')
+('Place occupée', '615')
+Pourcentage Place Libre : 48.75%
+
+
+
+Parking 12
+
+('Nom Parking', 'SABI')
+('Place Libre', '0294')
+('Place total', '0485')
+('Place occupée', '191')
+Pourcentage Place Libre : 60.618556701030926%
+
+
+
+Parking 13
+
+('Nom Parking', 'GARD')
+('Place Libre', '0293')
+('Place total', '0395')
+('Place occupée', '102')
+Pourcentage Place Libre : 74.17721518987342%
+
+
+
+Parking 14
+
+('Nom Parking', 'SABL')
+('Place Libre', '0204')
+('Place total', '0372')
+('Place occupée', '168')
+Pourcentage Place Libre : 54.83870967741935%
+
+
+
+Parking 15
+
+('Nom Parking', 'MOSS')
+('Place Libre', '0146')
+('Place total', '0423')
+('Place occupée', '277')
+Pourcentage Place Libre : 34.515366430260045%
+
+
+
+Parking 16
+
+('Nom Parking', 'SJLC')
+('Place Libre', '0197')
+('Place total', '0290')
+('Place occupée', '93')
+Pourcentage Place Libre : 67.93103448275862%
+
+
+
+Parking 17
+
+('Nom Parking', 'MEDC')
+('Place Libre', '0161')
+('Place total', '0255')
+('Place occupée', '94')
+Pourcentage Place Libre : 63.13725490196079%
+
+
+
+Parking 18
+
+('Nom Parking', 'OCCI')
+('Place Libre', '0556')
+('Place total', '0627')
+('Place occupée', '71')
+Pourcentage Place Libre : 88.6762360446571%
+
+
+
+Parking 19
+
+('Nom Parking', 'VICA')
+('Place Libre', '0051')
+('Place total', '0074')
+('Place occupée', '23')
+Pourcentage Place Libre : 68.91891891891892%
+
+
+
+Parking 20
+
+('Nom Parking', 'GAUMONT-EST')
+('Place Libre', '0087')
+('Place total', '0109')
+('Place occupée', '22')
+Pourcentage Place Libre : 79.81651376146789%
+
+
+
+Parking 21
+
+('Nom Parking', 'GAUMONT-OUEST')
+('Place Libre', '0014')
+('Place total', '0250')
+('Place occupée', '236')
+Pourcentage Place Libre : 5.6%
+
+
+
+Parking 22
+
+('Nom Parking', 'ARCE')
+('Place Libre', '0230')
+('Place total', '0230')
+('Place occupée', '0')
+Pourcentage Place Libre : 100.0%
+
+
+
+Parking 23
+
+('Nom Parking', 'POLY')
+('Place Libre', '1448')
+('Place total', '1911')
+('Place occupée', '463')
+Pourcentage Place Libre : 75.77184720041863%
+
+
+Moyenne de place occupée : 237.43478260869566
+
+Ecartype de cette moyenne : 157.63160852938552
+
+Pourcentage de place libre dans la ville : 53.98550724637681%
+
+Sat Jan 29 18:44:22 2022
+
+
+
+Parking 1
+
+('Nom Parking', 'ANTI')
+('Place Libre', '0130')
+('Place total', '0239')
+('Place occupée', '109')
+Pourcentage Place Libre : 54.39330543933055%
+
+
+
+Parking 2
+
+('Nom Parking', 'COME')
+('Place Libre', '0525')
+('Place total', '0835')
+('Place occupée', '310')
+Pourcentage Place Libre : 62.874251497005986%
+
+
+
+Parking 3
+
+('Nom Parking', 'CORU')
+('Place Libre', '0054')
+('Place total', '0430')
+('Place occupée', '376')
+Pourcentage Place Libre : 12.55813953488372%
+
+
+
+Parking 4
+
+('Nom Parking', 'EURO')
+('Place Libre', '0377')
+('Place total', '0593')
+('Place occupée', '216')
+Pourcentage Place Libre : 63.57504215851602%
+
+
+
+Parking 5
+
+('Nom Parking', 'FOCH')
+('Place Libre', '0107')
+('Place total', '0540')
+('Place occupée', '433')
+Pourcentage Place Libre : 19.814814814814813%
+
+
+
+Parking 6
+
+('Nom Parking', 'GAMB')
+('Place Libre', '0095')
+('Place total', '0470')
+('Place occupée', '375')
+Pourcentage Place Libre : 20.21276595744681%
+
+
+
+Parking 7
+
+('Nom Parking', 'GARE')
+('Place Libre', '320')
+('Place total', '656')
+('Place occupée', '336')
+Pourcentage Place Libre : 48.78048780487805%
+
+
+
+Parking 8
+
+('Nom Parking', 'Triangle')
+('Place Libre', '107')
+('Place total', '436')
+('Place occupée', '329')
+Pourcentage Place Libre : 24.541284403669724%
+
+
+
+Parking 9
+
+('Nom Parking', 'ARCT')
+('Place Libre', '0066')
+('Place total', '0460')
+('Place occupée', '394')
+Pourcentage Place Libre : 14.347826086956522%
+
+
+
+Parking 10
+
+('Nom Parking', 'Pitot')
+('Place Libre', '361')
+('Place total', '588')
+('Place occupée', '227')
+Pourcentage Place Libre : 61.394557823129254%
+
+
+
+Parking 11
+
+('Nom Parking', 'CIRC')
+('Place Libre', '0585')
+('Place total', '1200')
+('Place occupée', '615')
+Pourcentage Place Libre : 48.75%
+
+
+
+Parking 12
+
+('Nom Parking', 'SABI')
+('Place Libre', '0299')
+('Place total', '0485')
+('Place occupée', '186')
+Pourcentage Place Libre : 61.649484536082475%
+
+
+
+Parking 13
+
+('Nom Parking', 'GARD')
+('Place Libre', '0292')
+('Place total', '0395')
+('Place occupée', '103')
+Pourcentage Place Libre : 73.92405063291139%
+
+
+
+Parking 14
+
+('Nom Parking', 'SABL')
+('Place Libre', '0202')
+('Place total', '0372')
+('Place occupée', '170')
+Pourcentage Place Libre : 54.30107526881721%
+
+
+
+Parking 15
+
+('Nom Parking', 'MOSS')
+('Place Libre', '0149')
+('Place total', '0423')
+('Place occupée', '274')
+Pourcentage Place Libre : 35.22458628841608%
+
+
+
+Parking 16
+
+('Nom Parking', 'SJLC')
+('Place Libre', '0200')
+('Place total', '0290')
+('Place occupée', '90')
+Pourcentage Place Libre : 68.96551724137932%
+
+
+
+Parking 17
+
+('Nom Parking', 'MEDC')
+('Place Libre', '0161')
+('Place total', '0255')
+('Place occupée', '94')
+Pourcentage Place Libre : 63.13725490196079%
+
+
+
+Parking 18
+
+('Nom Parking', 'OCCI')
+('Place Libre', '0561')
+('Place total', '0627')
+('Place occupée', '66')
+Pourcentage Place Libre : 89.47368421052632%
+
+
+
+Parking 19
+
+('Nom Parking', 'VICA')
+('Place Libre', '0050')
+('Place total', '0074')
+('Place occupée', '24')
+Pourcentage Place Libre : 67.56756756756756%
+
+
+
+Parking 20
+
+('Nom Parking', 'GAUMONT-EST')
+('Place Libre', '0081')
+('Place total', '0109')
+('Place occupée', '28')
+Pourcentage Place Libre : 74.31192660550458%
+
+
+
+Parking 21
+
+('Nom Parking', 'GAUMONT-OUEST')
+('Place Libre', '0007')
+('Place total', '0250')
+('Place occupée', '243')
+Pourcentage Place Libre : 2.8%
+
+
+
+Parking 22
+
+('Nom Parking', 'ARCE')
+('Place Libre', '0230')
+('Place total', '0230')
+('Place occupée', '0')
+Pourcentage Place Libre : 100.0%
+
+
+
+Parking 23
+
+('Nom Parking', 'POLY')
+('Place Libre', '1448')
+('Place total', '1911')
+('Place occupée', '463')
+Pourcentage Place Libre : 75.77184720041863%
+
+
+Moyenne de place occupée : 237.43478260869566
+
+Ecartype de cette moyenne : 158.64557875886535
+
+Pourcentage de place libre dans la ville : 53.98550724637681%
+
+Sat Jan 29 18:54:25 2022
+
+
+
+Parking 1
+
+('Nom Parking', 'ANTI')
+('Place Libre', '0132')
+('Place total', '0239')
+('Place occupée', '107')
+Pourcentage Place Libre : 55.23012552301255%
+
+
+
+Parking 2
+
+('Nom Parking', 'COME')
+('Place Libre', '0526')
+('Place total', '0835')
+('Place occupée', '309')
+Pourcentage Place Libre : 62.9940119760479%
+
+
+
+Parking 3
+
+('Nom Parking', 'CORU')
+('Place Libre', '0058')
+('Place total', '0430')
+('Place occupée', '372')
+Pourcentage Place Libre : 13.488372093023257%
+
+
+
+Parking 4
+
+('Nom Parking', 'EURO')
+('Place Libre', '0377')
+('Place total', '0593')
+('Place occupée', '216')
+Pourcentage Place Libre : 63.57504215851602%
+
+
+
+Parking 5
+
+('Nom Parking', 'FOCH')
+('Place Libre', '0107')
+('Place total', '0540')
+('Place occupée', '433')
+Pourcentage Place Libre : 19.814814814814813%
+
+
+
+Parking 6
+
+('Nom Parking', 'GAMB')
+('Place Libre', '0103')
+('Place total', '0470')
+('Place occupée', '367')
+Pourcentage Place Libre : 21.914893617021278%
+
+
+
+Parking 7
+
+('Nom Parking', 'GARE')
+('Place Libre', '326')
+('Place total', '656')
+('Place occupée', '330')
+Pourcentage Place Libre : 49.69512195121951%
+
+
+
+Parking 8
+
+('Nom Parking', 'Triangle')
+('Place Libre', '117')
+('Place total', '436')
+('Place occupée', '319')
+Pourcentage Place Libre : 26.834862385321102%
+
+
+
+Parking 9
+
+('Nom Parking', 'ARCT')
+('Place Libre', '0075')
+('Place total', '0460')
+('Place occupée', '385')
+Pourcentage Place Libre : 16.304347826086957%
+
+
+
+Parking 10
+
+('Nom Parking', 'Pitot')
+('Place Libre', '366')
+('Place total', '588')
+('Place occupée', '222')
+Pourcentage Place Libre : 62.244897959183675%
+
+
+
+Parking 11
+
+('Nom Parking', 'CIRC')
+('Place Libre', '0585')
+('Place total', '1200')
+('Place occupée', '615')
+Pourcentage Place Libre : 48.75%
+
+
+
+Parking 12
+
+('Nom Parking', 'SABI')
+('Place Libre', '0303')
+('Place total', '0485')
+('Place occupée', '182')
+Pourcentage Place Libre : 62.47422680412371%
+
+
+
+Parking 13
+
+('Nom Parking', 'GARD')
+('Place Libre', '0293')
+('Place total', '0395')
+('Place occupée', '102')
+Pourcentage Place Libre : 74.17721518987342%
+
+
+
+Parking 14
+
+('Nom Parking', 'SABL')
+('Place Libre', '0205')
+('Place total', '0372')
+('Place occupée', '167')
+Pourcentage Place Libre : 55.10752688172043%
+
+
+
+Parking 15
+
+('Nom Parking', 'MOSS')
+('Place Libre', '0151')
+('Place total', '0423')
+('Place occupée', '272')
+Pourcentage Place Libre : 35.69739952718676%
+
+
+
+Parking 16
+
+('Nom Parking', 'SJLC')
+('Place Libre', '0201')
+('Place total', '0290')
+('Place occupée', '89')
+Pourcentage Place Libre : 69.3103448275862%
+
+
+
+Parking 17
+
+('Nom Parking', 'MEDC')
+('Place Libre', '0162')
+('Place total', '0255')
+('Place occupée', '93')
+Pourcentage Place Libre : 63.529411764705884%
+
+
+
+Parking 18
+
+('Nom Parking', 'OCCI')
+('Place Libre', '0568')
+('Place total', '0627')
+('Place occupée', '59')
+Pourcentage Place Libre : 90.59011164274322%
+
+
+
+Parking 19
+
+('Nom Parking', 'VICA')
+('Place Libre', '0051')
+('Place total', '0074')
+('Place occupée', '23')
+Pourcentage Place Libre : 68.91891891891892%
+
+
+
+Parking 20
+
+('Nom Parking', 'GAUMONT-EST')
+('Place Libre', '0069')
+('Place total', '0109')
+('Place occupée', '40')
+Pourcentage Place Libre : 63.30275229357798%
+
+
+
+Parking 21
+
+('Nom Parking', 'GAUMONT-OUEST')
+('Place Libre', '0007')
+('Place total', '0250')
+('Place occupée', '243')
+Pourcentage Place Libre : 2.8%
+
+
+
+Parking 22
+
+('Nom Parking', 'ARCE')
+('Place Libre', '0230')
+('Place total', '0230')
+('Place occupée', '0')
+Pourcentage Place Libre : 100.0%
+
+
+
+Parking 23
+
+('Nom Parking', 'POLY')
+('Place Libre', '1448')
+('Place total', '1911')
+('Place occupée', '463')
+Pourcentage Place Libre : 75.77184720041863%
+
+
+Moyenne de place occupée : 235.1304347826087
+
+Ecartype de cette moyenne : 157.41893824188458
+
+Pourcentage de place libre dans la ville : 54.432086282440174%
+
+Sat Jan 29 19:04:26 2022
+
+
+
+Parking 1
+
+('Nom Parking', 'ANTI')
+('Place Libre', '0131')
+('Place total', '0239')
+('Place occupée', '108')
+Pourcentage Place Libre : 54.81171548117155%
+
+
+
+Parking 2
+
+('Nom Parking', 'COME')
+('Place Libre', '0528')
+('Place total', '0835')
+('Place occupée', '307')
+Pourcentage Place Libre : 63.23353293413174%
+
+
+
+Parking 3
+
+('Nom Parking', 'CORU')
+('Place Libre', '0053')
+('Place total', '0430')
+('Place occupée', '377')
+Pourcentage Place Libre : 12.325581395348838%
+
+
+
+Parking 4
+
+('Nom Parking', 'EURO')
+('Place Libre', '0379')
+('Place total', '0593')
+('Place occupée', '214')
+Pourcentage Place Libre : 63.91231028667791%
+
+
+
+Parking 5
+
+('Nom Parking', 'FOCH')
+('Place Libre', '0112')
+('Place total', '0540')
+('Place occupée', '428')
+Pourcentage Place Libre : 20.74074074074074%
+
+
+
+Parking 6
+
+('Nom Parking', 'GAMB')
+('Place Libre', '0104')
+('Place total', '0470')
+('Place occupée', '366')
+Pourcentage Place Libre : 22.127659574468087%
+
+
+
+Parking 7
+
+('Nom Parking', 'GARE')
+('Place Libre', '358')
+('Place total', '656')
+('Place occupée', '298')
+Pourcentage Place Libre : 54.573170731707314%
+
+
+
+Parking 8
+
+('Nom Parking', 'Triangle')
+('Place Libre', '119')
+('Place total', '436')
+('Place occupée', '317')
+Pourcentage Place Libre : 27.293577981651374%
+
+
+
+Parking 9
+
+('Nom Parking', 'ARCT')
+('Place Libre', '0081')
+('Place total', '0460')
+('Place occupée', '379')
+Pourcentage Place Libre : 17.608695652173914%
+
+
+
+Parking 10
+
+('Nom Parking', 'Pitot')
+('Place Libre', '366')
+('Place total', '588')
+('Place occupée', '222')
+Pourcentage Place Libre : 62.244897959183675%
+
+
+
+Parking 11
+
+('Nom Parking', 'CIRC')
+('Place Libre', '0585')
+('Place total', '1200')
+('Place occupée', '615')
+Pourcentage Place Libre : 48.75%
+
+
+
+Parking 12
+
+('Nom Parking', 'SABI')
+('Place Libre', '0307')
+('Place total', '0485')
+('Place occupée', '178')
+Pourcentage Place Libre : 63.29896907216495%
+
+
+
+Parking 13
+
+('Nom Parking', 'GARD')
+('Place Libre', '0294')
+('Place total', '0395')
+('Place occupée', '101')
+Pourcentage Place Libre : 74.43037974683544%
+
+
+
+Parking 14
+
+('Nom Parking', 'SABL')
+('Place Libre', '0206')
+('Place total', '0372')
+('Place occupée', '166')
+Pourcentage Place Libre : 55.376344086021504%
+
+
+
+Parking 15
+
+('Nom Parking', 'MOSS')
+('Place Libre', '0157')
+('Place total', '0423')
+('Place occupée', '266')
+Pourcentage Place Libre : 37.11583924349882%
+
+
+
+Parking 16
+
+('Nom Parking', 'SJLC')
+('Place Libre', '0202')
+('Place total', '0290')
+('Place occupée', '88')
+Pourcentage Place Libre : 69.65517241379311%
+
+
+
+Parking 17
+
+('Nom Parking', 'MEDC')
+('Place Libre', '0163')
+('Place total', '0255')
+('Place occupée', '92')
+Pourcentage Place Libre : 63.92156862745098%
+
+
+
+Parking 18
+
+('Nom Parking', 'OCCI')
+('Place Libre', '0574')
+('Place total', '0627')
+('Place occupée', '53')
+Pourcentage Place Libre : 91.54704944178629%
+
+
+
+Parking 19
+
+('Nom Parking', 'VICA')
+('Place Libre', '0051')
+('Place total', '0074')
+('Place occupée', '23')
+Pourcentage Place Libre : 68.91891891891892%
+
+
+
+Parking 20
+
+('Nom Parking', 'GAUMONT-EST')
+('Place Libre', '0057')
+('Place total', '0109')
+('Place occupée', '52')
+Pourcentage Place Libre : 52.293577981651374%
+
+
+
+Parking 21
+
+('Nom Parking', 'GAUMONT-OUEST')
+('Place Libre', '0007')
+('Place total', '0250')
+('Place occupée', '243')
+Pourcentage Place Libre : 2.8%
+
+
+
+Parking 22
+
+('Nom Parking', 'ARCE')
+('Place Libre', '0230')
+('Place total', '0230')
+('Place occupée', '0')
+Pourcentage Place Libre : 100.0%
+
+
+
+Parking 23
+
+('Nom Parking', 'POLY')
+('Place Libre', '1448')
+('Place total', '1911')
+('Place occupée', '463')
+Pourcentage Place Libre : 75.77184720041863%
+
+
+Moyenne de place occupée : 232.8695652173913
+
+Ecartype de cette moyenne : 156.0429997448658
+
+Pourcentage de place libre dans la ville : 54.87023929895518%
+
+Sat Jan 29 19:14:29 2022
+
+
+
+Parking 1
+
+('Nom Parking', 'ANTI')
+('Place Libre', '0128')
+('Place total', '0239')
+('Place occupée', '111')
+Pourcentage Place Libre : 53.55648535564853%
+
+
+
+Parking 2
+
+('Nom Parking', 'COME')
+('Place Libre', '0532')
+('Place total', '0835')
+('Place occupée', '303')
+Pourcentage Place Libre : 63.712574850299404%
+
+
+
+Parking 3
+
+('Nom Parking', 'CORU')
+('Place Libre', '0059')
+('Place total', '0430')
+('Place occupée', '371')
+Pourcentage Place Libre : 13.720930232558139%
+
+
+
+Parking 4
+
+('Nom Parking', 'EURO')
+('Place Libre', '0379')
+('Place total', '0593')
+('Place occupée', '214')
+Pourcentage Place Libre : 63.91231028667791%
+
+
+
+Parking 5
+
+('Nom Parking', 'FOCH')
+('Place Libre', '0105')
+('Place total', '0540')
+('Place occupée', '435')
+Pourcentage Place Libre : 19.444444444444443%
+
+
+
+Parking 6
+
+('Nom Parking', 'GAMB')
+('Place Libre', '0106')
+('Place total', '0470')
+('Place occupée', '364')
+Pourcentage Place Libre : 22.5531914893617%
+
+
+
+Parking 7
+
+('Nom Parking', 'GARE')
+('Place Libre', '336')
+('Place total', '656')
+('Place occupée', '320')
+Pourcentage Place Libre : 51.21951219512195%
+
+
+
+Parking 8
+
+('Nom Parking', 'Triangle')
+('Place Libre', '122')
+('Place total', '436')
+('Place occupée', '314')
+Pourcentage Place Libre : 27.98165137614679%
+
+
+
+Parking 9
+
+('Nom Parking', 'ARCT')
+('Place Libre', '0082')
+('Place total', '0460')
+('Place occupée', '378')
+Pourcentage Place Libre : 17.82608695652174%
+
+
+
+Parking 10
+
+('Nom Parking', 'Pitot')
+('Place Libre', '365')
+('Place total', '588')
+('Place occupée', '223')
+Pourcentage Place Libre : 62.074829931972786%
+
+
+
+Parking 11
+
+('Nom Parking', 'CIRC')
+('Place Libre', '0585')
+('Place total', '1200')
+('Place occupée', '615')
+Pourcentage Place Libre : 48.75%
+
+
+
+Parking 12
+
+('Nom Parking', 'SABI')
+('Place Libre', '0306')
+('Place total', '0485')
+('Place occupée', '179')
+Pourcentage Place Libre : 63.09278350515464%
+
+
+
+Parking 13
+
+('Nom Parking', 'GARD')
+('Place Libre', '0296')
+('Place total', '0395')
+('Place occupée', '99')
+Pourcentage Place Libre : 74.9367088607595%
+
+
+
+Parking 14
+
+('Nom Parking', 'SABL')
+('Place Libre', '0208')
+('Place total', '0372')
+('Place occupée', '164')
+Pourcentage Place Libre : 55.913978494623656%
+
+
+
+Parking 15
+
+('Nom Parking', 'MOSS')
+('Place Libre', '0161')
+('Place total', '0423')
+('Place occupée', '262')
+Pourcentage Place Libre : 38.061465721040186%
+
+
+
+Parking 16
+
+('Nom Parking', 'SJLC')
+('Place Libre', '0203')
+('Place total', '0290')
+('Place occupée', '87')
+Pourcentage Place Libre : 70.0%
+
+
+
+Parking 17
+
+('Nom Parking', 'MEDC')
+('Place Libre', '0164')
+('Place total', '0255')
+('Place occupée', '91')
+Pourcentage Place Libre : 64.31372549019608%
+
+
+
+Parking 18
+
+('Nom Parking', 'OCCI')
+('Place Libre', '0573')
+('Place total', '0627')
+('Place occupée', '54')
+Pourcentage Place Libre : 91.38755980861244%
+
+
+
+Parking 19
+
+('Nom Parking', 'VICA')
+('Place Libre', '0052')
+('Place total', '0074')
+('Place occupée', '22')
+Pourcentage Place Libre : 70.27027027027027%
+
+
+
+Parking 20
+
+('Nom Parking', 'GAUMONT-EST')
+('Place Libre', '0056')
+('Place total', '0109')
+('Place occupée', '53')
+Pourcentage Place Libre : 51.37614678899082%
+
+
+
+Parking 21
+
+('Nom Parking', 'GAUMONT-OUEST')
+('Place Libre', '0008')
+('Place total', '0250')
+('Place occupée', '242')
+Pourcentage Place Libre : 3.2%
+
+
+
+Parking 22
+
+('Nom Parking', 'ARCE')
+('Place Libre', '0230')
+('Place total', '0230')
+('Place occupée', '0')
+Pourcentage Place Libre : 100.0%
+
+
+
+Parking 23
+
+('Nom Parking', 'POLY')
+('Place Libre', '1448')
+('Place total', '1911')
+('Place occupée', '463')
+Pourcentage Place Libre : 75.77184720041863%
+
+
+Moyenne de place occupée : 233.2173913043478
+
+Ecartype de cette moyenne : 156.38830060815852
+
+Pourcentage de place libre dans la ville : 54.80283114256825%
+
+Sat Jan 29 19:24:31 2022
+
+
+
+Parking 1
+
+('Nom Parking', 'ANTI')
+('Place Libre', '0130')
+('Place total', '0239')
+('Place occupée', '109')
+Pourcentage Place Libre : 54.39330543933055%
+
+
+
+Parking 2
+
+('Nom Parking', 'COME')
+('Place Libre', '0539')
+('Place total', '0835')
+('Place occupée', '296')
+Pourcentage Place Libre : 64.55089820359281%
+
+
+
+Parking 3
+
+('Nom Parking', 'CORU')
+('Place Libre', '0049')
+('Place total', '0430')
+('Place occupée', '381')
+Pourcentage Place Libre : 11.395348837209303%
+
+
+
+Parking 4
+
+('Nom Parking', 'EURO')
+('Place Libre', '0384')
+('Place total', '0593')
+('Place occupée', '209')
+Pourcentage Place Libre : 64.75548060708263%
+
+
+
+Parking 5
+
+('Nom Parking', 'FOCH')
+('Place Libre', '0106')
+('Place total', '0540')
+('Place occupée', '434')
+Pourcentage Place Libre : 19.62962962962963%
+
+
+
+Parking 6
+
+('Nom Parking', 'GAMB')
+('Place Libre', '0105')
+('Place total', '0470')
+('Place occupée', '365')
+Pourcentage Place Libre : 22.340425531914892%
+
+
+
+Parking 7
+
+('Nom Parking', 'GARE')
+('Place Libre', '358')
+('Place total', '656')
+('Place occupée', '298')
+Pourcentage Place Libre : 54.573170731707314%
+
+
+
+Parking 8
+
+('Nom Parking', 'Triangle')
+('Place Libre', '131')
+('Place total', '436')
+('Place occupée', '305')
+Pourcentage Place Libre : 30.045871559633028%
+
+
+
+Parking 9
+
+('Nom Parking', 'ARCT')
+('Place Libre', '0080')
+('Place total', '0460')
+('Place occupée', '380')
+Pourcentage Place Libre : 17.391304347826086%
+
+
+
+Parking 10
+
+('Nom Parking', 'Pitot')
+('Place Libre', '363')
+('Place total', '588')
+('Place occupée', '225')
+Pourcentage Place Libre : 61.734693877551024%
+
+
+
+Parking 11
+
+('Nom Parking', 'CIRC')
+('Place Libre', '0585')
+('Place total', '1200')
+('Place occupée', '615')
+Pourcentage Place Libre : 48.75%
+
+
+
+Parking 12
+
+('Nom Parking', 'SABI')
+('Place Libre', '0312')
+('Place total', '0485')
+('Place occupée', '173')
+Pourcentage Place Libre : 64.3298969072165%
+
+
+
+Parking 13
+
+('Nom Parking', 'GARD')
+('Place Libre', '0298')
+('Place total', '0395')
+('Place occupée', '97')
+Pourcentage Place Libre : 75.44303797468355%
+
+
+
+Parking 14
+
+('Nom Parking', 'SABL')
+('Place Libre', '0208')
+('Place total', '0372')
+('Place occupée', '164')
+Pourcentage Place Libre : 55.913978494623656%
+
+
+
+Parking 15
+
+('Nom Parking', 'MOSS')
+('Place Libre', '0165')
+('Place total', '0423')
+('Place occupée', '258')
+Pourcentage Place Libre : 39.00709219858156%
+
+
+
+Parking 16
+
+('Nom Parking', 'SJLC')
+('Place Libre', '0202')
+('Place total', '0290')
+('Place occupée', '88')
+Pourcentage Place Libre : 69.65517241379311%
+
+
+
+Parking 17
+
+('Nom Parking', 'MEDC')
+('Place Libre', '0162')
+('Place total', '0255')
+('Place occupée', '93')
+Pourcentage Place Libre : 63.529411764705884%
+
+
+
+Parking 18
+
+('Nom Parking', 'OCCI')
+('Place Libre', '0576')
+('Place total', '0627')
+('Place occupée', '51')
+Pourcentage Place Libre : 91.86602870813397%
+
+
+
+Parking 19
+
+('Nom Parking', 'VICA')
+('Place Libre', '0053')
+('Place total', '0074')
+('Place occupée', '21')
+Pourcentage Place Libre : 71.62162162162163%
+
+
+
+Parking 20
+
+('Nom Parking', 'GAUMONT-EST')
+('Place Libre', '0053')
+('Place total', '0109')
+('Place occupée', '56')
+Pourcentage Place Libre : 48.62385321100918%
+
+
+
+Parking 21
+
+('Nom Parking', 'GAUMONT-OUEST')
+('Place Libre', '0007')
+('Place total', '0250')
+('Place occupée', '243')
+Pourcentage Place Libre : 2.8%
+
+
+
+Parking 22
+
+('Nom Parking', 'ARCE')
+('Place Libre', '0230')
+('Place total', '0230')
+('Place occupée', '0')
+Pourcentage Place Libre : 100.0%
+
+
+
+Parking 23
+
+('Nom Parking', 'POLY')
+('Place Libre', '1448')
+('Place total', '1911')
+('Place occupée', '463')
+Pourcentage Place Libre : 75.77184720041863%
+
+
+Moyenne de place occupée : 231.47826086956522
+
+Ecartype de cette moyenne : 156.2322322601051
+
+Pourcentage de place libre dans la ville : 55.13987192450286%
+
+Sat Jan 29 19:34:32 2022
+
+
+
+Parking 1
+
+('Nom Parking', 'ANTI')
+('Place Libre', '0132')
+('Place total', '0239')
+('Place occupée', '107')
+Pourcentage Place Libre : 55.23012552301255%
+
+
+
+Parking 2
+
+('Nom Parking', 'COME')
+('Place Libre', '0551')
+('Place total', '0835')
+('Place occupée', '284')
+Pourcentage Place Libre : 65.9880239520958%
+
+
+
+Parking 3
+
+('Nom Parking', 'CORU')
+('Place Libre', '0029')
+('Place total', '0430')
+('Place occupée', '401')
+Pourcentage Place Libre : 6.744186046511628%
+
+
+
+Parking 4
+
+('Nom Parking', 'EURO')
+('Place Libre', '0384')
+('Place total', '0593')
+('Place occupée', '209')
+Pourcentage Place Libre : 64.75548060708263%
+
+
+
+Parking 5
+
+('Nom Parking', 'FOCH')
+('Place Libre', '0097')
+('Place total', '0540')
+('Place occupée', '443')
+Pourcentage Place Libre : 17.962962962962962%
+
+
+
+Parking 6
+
+('Nom Parking', 'GAMB')
+('Place Libre', '0106')
+('Place total', '0470')
+('Place occupée', '364')
+Pourcentage Place Libre : 22.5531914893617%
+
+
+
+Parking 7
+
+('Nom Parking', 'GARE')
+('Place Libre', '346')
+('Place total', '656')
+('Place occupée', '310')
+Pourcentage Place Libre : 52.74390243902439%
+
+
+
+Parking 8
+
+('Nom Parking', 'Triangle')
+('Place Libre', '133')
+('Place total', '436')
+('Place occupée', '303')
+Pourcentage Place Libre : 30.504587155963304%
+
+
+
+Parking 9
+
+('Nom Parking', 'ARCT')
+('Place Libre', '0074')
+('Place total', '0460')
+('Place occupée', '386')
+Pourcentage Place Libre : 16.08695652173913%
+
+
+
+Parking 10
+
+('Nom Parking', 'Pitot')
+('Place Libre', '364')
+('Place total', '588')
+('Place occupée', '224')
+Pourcentage Place Libre : 61.904761904761905%
+
+
+
+Parking 11
+
+('Nom Parking', 'CIRC')
+('Place Libre', '0585')
+('Place total', '1200')
+('Place occupée', '615')
+Pourcentage Place Libre : 48.75%
+
+
+
+Parking 12
+
+('Nom Parking', 'SABI')
+('Place Libre', '0316')
+('Place total', '0485')
+('Place occupée', '169')
+Pourcentage Place Libre : 65.15463917525773%
+
+
+
+Parking 13
+
+('Nom Parking', 'GARD')
+('Place Libre', '0300')
+('Place total', '0395')
+('Place occupée', '95')
+Pourcentage Place Libre : 75.9493670886076%
+
+
+
+Parking 14
+
+('Nom Parking', 'SABL')
+('Place Libre', '0209')
+('Place total', '0372')
+('Place occupée', '163')
+Pourcentage Place Libre : 56.18279569892473%
+
+
+
+Parking 15
+
+('Nom Parking', 'MOSS')
+('Place Libre', '0165')
+('Place total', '0423')
+('Place occupée', '258')
+Pourcentage Place Libre : 39.00709219858156%
+
+
+
+Parking 16
+
+('Nom Parking', 'SJLC')
+('Place Libre', '0202')
+('Place total', '0290')
+('Place occupée', '88')
+Pourcentage Place Libre : 69.65517241379311%
+
+
+
+Parking 17
+
+('Nom Parking', 'MEDC')
+('Place Libre', '0163')
+('Place total', '0255')
+('Place occupée', '92')
+Pourcentage Place Libre : 63.92156862745098%
+
+
+
+Parking 18
+
+('Nom Parking', 'OCCI')
+('Place Libre', '0575')
+('Place total', '0627')
+('Place occupée', '52')
+Pourcentage Place Libre : 91.70653907496013%
+
+
+
+Parking 19
+
+('Nom Parking', 'VICA')
+('Place Libre', '0052')
+('Place total', '0074')
+('Place occupée', '22')
+Pourcentage Place Libre : 70.27027027027027%
+
+
+
+Parking 20
+
+('Nom Parking', 'GAUMONT-EST')
+('Place Libre', '0053')
+('Place total', '0109')
+('Place occupée', '56')
+Pourcentage Place Libre : 48.62385321100918%
+
+
+
+Parking 21
+
+('Nom Parking', 'GAUMONT-OUEST')
+('Place Libre', '0008')
+('Place total', '0250')
+('Place occupée', '242')
+Pourcentage Place Libre : 3.2%
+
+
+
+Parking 22
+
+('Nom Parking', 'ARCE')
+('Place Libre', '0230')
+('Place total', '0230')
+('Place occupée', '0')
+Pourcentage Place Libre : 100.0%
+
+
+
+Parking 23
+
+('Nom Parking', 'POLY')
+('Place Libre', '1448')
+('Place total', '1911')
+('Place occupée', '463')
+Pourcentage Place Libre : 75.77184720041863%
+
+
+Moyenne de place occupée : 232.43478260869566
+
+Ecartype de cette moyenne : 158.0073817997552
+
+Pourcentage de place libre dans la ville : 54.95449949443883%
+
+Sat Jan 29 19:44:34 2022
+
+
+
+Parking 1
+
+('Nom Parking', 'ANTI')
+('Place Libre', '0134')
+('Place total', '0239')
+('Place occupée', '105')
+Pourcentage Place Libre : 56.06694560669456%
+
+
+
+Parking 2
+
+('Nom Parking', 'COME')
+('Place Libre', '0551')
+('Place total', '0835')
+('Place occupée', '284')
+Pourcentage Place Libre : 65.9880239520958%
+
+
+
+Parking 3
+
+('Nom Parking', 'CORU')
+('Place Libre', '0010')
+('Place total', '0430')
+('Place occupée', '420')
+Pourcentage Place Libre : 2.3255813953488373%
+
+
+
+Parking 4
+
+('Nom Parking', 'EURO')
+('Place Libre', '0383')
+('Place total', '0593')
+('Place occupée', '210')
+Pourcentage Place Libre : 64.58684654300168%
+
+
+
+Parking 5
+
+('Nom Parking', 'FOCH')
+('Place Libre', '0084')
+('Place total', '0540')
+('Place occupée', '456')
+Pourcentage Place Libre : 15.555555555555555%
+
+
+
+Parking 6
+
+('Nom Parking', 'GAMB')
+('Place Libre', '0111')
+('Place total', '0470')
+('Place occupée', '359')
+Pourcentage Place Libre : 23.617021276595743%
+
+
+
+Parking 7
+
+('Nom Parking', 'GARE')
+('Place Libre', '352')
+('Place total', '656')
+('Place occupée', '304')
+Pourcentage Place Libre : 53.65853658536585%
+
+
+
+Parking 8
+
+('Nom Parking', 'Triangle')
+('Place Libre', '139')
+('Place total', '436')
+('Place occupée', '297')
+Pourcentage Place Libre : 31.880733944954127%
+
+
+
+Parking 9
+
+('Nom Parking', 'ARCT')
+('Place Libre', '0072')
+('Place total', '0460')
+('Place occupée', '388')
+Pourcentage Place Libre : 15.652173913043478%
+
+
+
+Parking 10
+
+('Nom Parking', 'Pitot')
+('Place Libre', '359')
+('Place total', '588')
+('Place occupée', '229')
+Pourcentage Place Libre : 61.054421768707485%
+
+
+
+Parking 11
+
+('Nom Parking', 'CIRC')
+('Place Libre', '0585')
+('Place total', '1200')
+('Place occupée', '615')
+Pourcentage Place Libre : 48.75%
+
+
+
+Parking 12
+
+('Nom Parking', 'SABI')
+('Place Libre', '0322')
+('Place total', '0485')
+('Place occupée', '163')
+Pourcentage Place Libre : 66.3917525773196%
+
+
+
+Parking 13
+
+('Nom Parking', 'GARD')
+('Place Libre', '0299')
+('Place total', '0395')
+('Place occupée', '96')
+Pourcentage Place Libre : 75.69620253164557%
+
+
+
+Parking 14
+
+('Nom Parking', 'SABL')
+('Place Libre', '0212')
+('Place total', '0372')
+('Place occupée', '160')
+Pourcentage Place Libre : 56.98924731182796%
+
+
+
+Parking 15
+
+('Nom Parking', 'MOSS')
+('Place Libre', '0163')
+('Place total', '0423')
+('Place occupée', '260')
+Pourcentage Place Libre : 38.53427895981088%
+
+
+
+Parking 16
+
+('Nom Parking', 'SJLC')
+('Place Libre', '0204')
+('Place total', '0290')
+('Place occupée', '86')
+Pourcentage Place Libre : 70.34482758620689%
+
+
+
+Parking 17
+
+('Nom Parking', 'MEDC')
+('Place Libre', '0163')
+('Place total', '0255')
+('Place occupée', '92')
+Pourcentage Place Libre : 63.92156862745098%
+
+
+
+Parking 18
+
+('Nom Parking', 'OCCI')
+('Place Libre', '0577')
+('Place total', '0627')
+('Place occupée', '50')
+Pourcentage Place Libre : 92.02551834130782%
+
+
+
+Parking 19
+
+('Nom Parking', 'VICA')
+('Place Libre', '0051')
+('Place total', '0074')
+('Place occupée', '23')
+Pourcentage Place Libre : 68.91891891891892%
+
+
+
+Parking 20
+
+('Nom Parking', 'GAUMONT-EST')
+('Place Libre', '0052')
+('Place total', '0109')
+('Place occupée', '57')
+Pourcentage Place Libre : 47.706422018348626%
+
+
+
+Parking 21
+
+('Nom Parking', 'GAUMONT-OUEST')
+('Place Libre', '0010')
+('Place total', '0250')
+('Place occupée', '240')
+Pourcentage Place Libre : 4.0%
+
+
+
+Parking 22
+
+('Nom Parking', 'ARCE')
+('Place Libre', '0230')
+('Place total', '0230')
+('Place occupée', '0')
+Pourcentage Place Libre : 100.0%
+
+
+
+Parking 23
+
+('Nom Parking', 'POLY')
+('Place Libre', '1448')
+('Place total', '1911')
+('Place occupée', '463')
+Pourcentage Place Libre : 75.77184720041863%
+
+
+Moyenne de place occupée : 232.91304347826087
+
+Ecartype de cette moyenne : 159.6476863061634
+
+Pourcentage de place libre dans la ville : 54.86181327940681%
+
+Sat Jan 29 19:54:36 2022
+
+
+
+Parking 1
+
+('Nom Parking', 'ANTI')
+('Place Libre', '0136')
+('Place total', '0239')
+('Place occupée', '103')
+Pourcentage Place Libre : 56.90376569037657%
+
+
+
+Parking 2
+
+('Nom Parking', 'COME')
+('Place Libre', '0553')
+('Place total', '0835')
+('Place occupée', '282')
+Pourcentage Place Libre : 66.22754491017965%
+
+
+
+Parking 3
+
+('Nom Parking', 'CORU')
+('Place Libre', '0001')
+('Place total', '0430')
+('Place occupée', '429')
+Pourcentage Place Libre : 0.23255813953488372%
+
+
+
+Parking 4
+
+('Nom Parking', 'EURO')
+('Place Libre', '0381')
+('Place total', '0593')
+('Place occupée', '212')
+Pourcentage Place Libre : 64.2495784148398%
+
+
+
+Parking 5
+
+('Nom Parking', 'FOCH')
+('Place Libre', '0060')
+('Place total', '0540')
+('Place occupée', '480')
+Pourcentage Place Libre : 11.11111111111111%
+
+
+
+Parking 6
+
+('Nom Parking', 'GAMB')
+('Place Libre', '0108')
+('Place total', '0470')
+('Place occupée', '362')
+Pourcentage Place Libre : 22.97872340425532%
+
+
+
+Parking 7
+
+('Nom Parking', 'GARE')
+('Place Libre', '334')
+('Place total', '656')
+('Place occupée', '322')
+Pourcentage Place Libre : 50.91463414634146%
+
+
+
+Parking 8
+
+('Nom Parking', 'Triangle')
+('Place Libre', '138')
+('Place total', '436')
+('Place occupée', '298')
+Pourcentage Place Libre : 31.65137614678899%
+
+
+
+Parking 9
+
+('Nom Parking', 'ARCT')
+('Place Libre', '0061')
+('Place total', '0460')
+('Place occupée', '399')
+Pourcentage Place Libre : 13.26086956521739%
+
+
+
+Parking 10
+
+('Nom Parking', 'Pitot')
+('Place Libre', '357')
+('Place total', '588')
+('Place occupée', '231')
+Pourcentage Place Libre : 60.714285714285715%
+
+
+
+Parking 11
+
+('Nom Parking', 'CIRC')
+('Place Libre', '0585')
+('Place total', '1200')
+('Place occupée', '615')
+Pourcentage Place Libre : 48.75%
+
+
+
+Parking 12
+
+('Nom Parking', 'SABI')
+('Place Libre', '0326')
+('Place total', '0485')
+('Place occupée', '159')
+Pourcentage Place Libre : 67.21649484536083%
+
+
+
+Parking 13
+
+('Nom Parking', 'GARD')
+('Place Libre', '0300')
+('Place total', '0395')
+('Place occupée', '95')
+Pourcentage Place Libre : 75.9493670886076%
+
+
+
+Parking 14
+
+('Nom Parking', 'SABL')
+('Place Libre', '0211')
+('Place total', '0372')
+('Place occupée', '161')
+Pourcentage Place Libre : 56.72043010752688%
+
+
+
+Parking 15
+
+('Nom Parking', 'MOSS')
+('Place Libre', '0164')
+('Place total', '0423')
+('Place occupée', '259')
+Pourcentage Place Libre : 38.77068557919622%
+
+
+
+Parking 16
+
+('Nom Parking', 'SJLC')
+('Place Libre', '0204')
+('Place total', '0290')
+('Place occupée', '86')
+Pourcentage Place Libre : 70.34482758620689%
+
+
+
+Parking 17
+
+('Nom Parking', 'MEDC')
+('Place Libre', '0164')
+('Place total', '0255')
+('Place occupée', '91')
+Pourcentage Place Libre : 64.31372549019608%
+
+
+
+Parking 18
+
+('Nom Parking', 'OCCI')
+('Place Libre', '0577')
+('Place total', '0627')
+('Place occupée', '50')
+Pourcentage Place Libre : 92.02551834130782%
+
+
+
+Parking 19
+
+('Nom Parking', 'VICA')
+('Place Libre', '0050')
+('Place total', '0074')
+('Place occupée', '24')
+Pourcentage Place Libre : 67.56756756756756%
+
+
+
+Parking 20
+
+('Nom Parking', 'GAUMONT-EST')
+('Place Libre', '0052')
+('Place total', '0109')
+('Place occupée', '57')
+Pourcentage Place Libre : 47.706422018348626%
+
+
+
+Parking 21
+
+('Nom Parking', 'GAUMONT-OUEST')
+('Place Libre', '0009')
+('Place total', '0250')
+('Place occupée', '241')
+Pourcentage Place Libre : 3.6%
+
+
+
+Parking 22
+
+('Nom Parking', 'ARCE')
+('Place Libre', '0230')
+('Place total', '0230')
+('Place occupée', '0')
+Pourcentage Place Libre : 100.0%
+
+
+
+Parking 23
+
+('Nom Parking', 'POLY')
+('Place Libre', '1448')
+('Place total', '1911')
+('Place occupée', '463')
+Pourcentage Place Libre : 75.77184720041863%
+
+
+Moyenne de place occupée : 235.6086956521739
+
+Ecartype de cette moyenne : 162.6991726898169
+
+Pourcentage de place libre dans la ville : 54.33940006740816%
+
+Sat Jan 29 20:04:37 2022
+
+
+
+Parking 1
+
+('Nom Parking', 'ANTI')
+('Place Libre', '0135')
+('Place total', '0239')
+('Place occupée', '104')
+Pourcentage Place Libre : 56.48535564853557%
+
+
+
+Parking 2
+
+('Nom Parking', 'COME')
+('Place Libre', '0558')
+('Place total', '0835')
+('Place occupée', '277')
+Pourcentage Place Libre : 66.82634730538922%
+
+
+
+Parking 3
+
+('Nom Parking', 'CORU')
+('Place Libre', '0013')
+('Place total', '0430')
+('Place occupée', '417')
+Pourcentage Place Libre : 3.0232558139534884%
+
+
+
+Parking 4
+
+('Nom Parking', 'EURO')
+('Place Libre', '0382')
+('Place total', '0593')
+('Place occupée', '211')
+Pourcentage Place Libre : 64.41821247892074%
+
+
+
+Parking 5
+
+('Nom Parking', 'FOCH')
+('Place Libre', '0030')
+('Place total', '0540')
+('Place occupée', '510')
+Pourcentage Place Libre : 5.555555555555555%
+
+
+
+Parking 6
+
+('Nom Parking', 'GAMB')
+('Place Libre', '0108')
+('Place total', '0470')
+('Place occupée', '362')
+Pourcentage Place Libre : 22.97872340425532%
+
+
+
+Parking 7
+
+('Nom Parking', 'GARE')
+('Place Libre', '307')
+('Place total', '656')
+('Place occupée', '349')
+Pourcentage Place Libre : 46.798780487804876%
+
+
+
+Parking 8
+
+('Nom Parking', 'Triangle')
+('Place Libre', '143')
+('Place total', '436')
+('Place occupée', '293')
+Pourcentage Place Libre : 32.79816513761468%
+
+
+
+Parking 9
+
+('Nom Parking', 'ARCT')
+('Place Libre', '0041')
+('Place total', '0460')
+('Place occupée', '419')
+Pourcentage Place Libre : 8.91304347826087%
+
+
+
+Parking 10
+
+('Nom Parking', 'Pitot')
+('Place Libre', '345')
+('Place total', '588')
+('Place occupée', '243')
+Pourcentage Place Libre : 58.673469387755105%
+
+
+
+Parking 11
+
+('Nom Parking', 'CIRC')
+('Place Libre', '0585')
+('Place total', '1200')
+('Place occupée', '615')
+Pourcentage Place Libre : 48.75%
+
+
+
+Parking 12
+
+('Nom Parking', 'SABI')
+('Place Libre', '0325')
+('Place total', '0485')
+('Place occupée', '160')
+Pourcentage Place Libre : 67.01030927835052%
+
+
+
+Parking 13
+
+('Nom Parking', 'GARD')
+('Place Libre', '0302')
+('Place total', '0395')
+('Place occupée', '93')
+Pourcentage Place Libre : 76.45569620253164%
+
+
+
+Parking 14
+
+('Nom Parking', 'SABL')
+('Place Libre', '0214')
+('Place total', '0372')
+('Place occupée', '158')
+Pourcentage Place Libre : 57.526881720430104%
+
+
+
+Parking 15
+
+('Nom Parking', 'MOSS')
+('Place Libre', '0167')
+('Place total', '0423')
+('Place occupée', '256')
+Pourcentage Place Libre : 39.479905437352244%
+
+
+
+Parking 16
+
+('Nom Parking', 'SJLC')
+('Place Libre', '0205')
+('Place total', '0290')
+('Place occupée', '85')
+Pourcentage Place Libre : 70.6896551724138%
+
+
+
+Parking 17
+
+('Nom Parking', 'MEDC')
+('Place Libre', '0165')
+('Place total', '0255')
+('Place occupée', '90')
+Pourcentage Place Libre : 64.70588235294117%
+
+
+
+Parking 18
+
+('Nom Parking', 'OCCI')
+('Place Libre', '0583')
+('Place total', '0627')
+('Place occupée', '44')
+Pourcentage Place Libre : 92.98245614035088%
+
+
+
+Parking 19
+
+('Nom Parking', 'VICA')
+('Place Libre', '0051')
+('Place total', '0074')
+('Place occupée', '23')
+Pourcentage Place Libre : 68.91891891891892%
+
+
+
+Parking 20
+
+('Nom Parking', 'GAUMONT-EST')
+('Place Libre', '0051')
+('Place total', '0109')
+('Place occupée', '58')
+Pourcentage Place Libre : 46.788990825688074%
+
+
+
+Parking 21
+
+('Nom Parking', 'GAUMONT-OUEST')
+('Place Libre', '0009')
+('Place total', '0250')
+('Place occupée', '241')
+Pourcentage Place Libre : 3.6%
+
+
+
+Parking 22
+
+('Nom Parking', 'ARCE')
+('Place Libre', '0230')
+('Place total', '0230')
+('Place occupée', '0')
+Pourcentage Place Libre : 100.0%
+
+
+
+Parking 23
+
+('Nom Parking', 'POLY')
+('Place Libre', '1448')
+('Place total', '1911')
+('Place occupée', '463')
+Pourcentage Place Libre : 75.77184720041863%
+
+
+Moyenne de place occupée : 237.8695652173913
+
+Ecartype de cette moyenne : 166.1001019154796
+
+Pourcentage de place libre dans la ville : 53.90124705089316%
+
+Sat Jan 29 20:14:39 2022
+
+
+
+Parking 1
+
+('Nom Parking', 'ANTI')
+('Place Libre', '0134')
+('Place total', '0239')
+('Place occupée', '105')
+Pourcentage Place Libre : 56.06694560669456%
+
+
+
+Parking 2
+
+('Nom Parking', 'COME')
+('Place Libre', '0559')
+('Place total', '0835')
+('Place occupée', '276')
+Pourcentage Place Libre : 66.94610778443113%
+
+
+
+Parking 3
+
+('Nom Parking', 'CORU')
+('Place Libre', '0000')
+('Place total', '0430')
+('Place occupée', '430')
+Pourcentage Place Libre : 0.0%
+
+
+
+Parking 4
+
+('Nom Parking', 'EURO')
+('Place Libre', '0382')
+('Place total', '0593')
+('Place occupée', '211')
+Pourcentage Place Libre : 64.41821247892074%
+
+
+
+Parking 5
+
+('Nom Parking', 'FOCH')
+('Place Libre', '0012')
+('Place total', '0540')
+('Place occupée', '528')
+Pourcentage Place Libre : 2.2222222222222223%
+
+
+
+Parking 6
+
+('Nom Parking', 'GAMB')
+('Place Libre', '0102')
+('Place total', '0470')
+('Place occupée', '368')
+Pourcentage Place Libre : 21.70212765957447%
+
+
+
+Parking 7
+
+('Nom Parking', 'GARE')
+('Place Libre', '319')
+('Place total', '656')
+('Place occupée', '337')
+Pourcentage Place Libre : 48.6280487804878%
+
+
+
+Parking 8
+
+('Nom Parking', 'Triangle')
+('Place Libre', '128')
+('Place total', '436')
+('Place occupée', '308')
+Pourcentage Place Libre : 29.357798165137616%
+
+
+
+Parking 9
+
+('Nom Parking', 'ARCT')
+('Place Libre', '0020')
+('Place total', '0460')
+('Place occupée', '440')
+Pourcentage Place Libre : 4.3478260869565215%
+
+
+
+Parking 10
+
+('Nom Parking', 'Pitot')
+('Place Libre', '334')
+('Place total', '588')
+('Place occupée', '254')
+Pourcentage Place Libre : 56.802721088435376%
+
+
+
+Parking 11
+
+('Nom Parking', 'CIRC')
+('Place Libre', '0585')
+('Place total', '1200')
+('Place occupée', '615')
+Pourcentage Place Libre : 48.75%
+
+
+
+Parking 12
+
+('Nom Parking', 'SABI')
+('Place Libre', '0328')
+('Place total', '0485')
+('Place occupée', '157')
+Pourcentage Place Libre : 67.62886597938144%
+
+
+
+Parking 13
+
+('Nom Parking', 'GARD')
+('Place Libre', '0302')
+('Place total', '0395')
+('Place occupée', '93')
+Pourcentage Place Libre : 76.45569620253164%
+
+
+
+Parking 14
+
+('Nom Parking', 'SABL')
+('Place Libre', '0214')
+('Place total', '0372')
+('Place occupée', '158')
+Pourcentage Place Libre : 57.526881720430104%
+
+
+
+Parking 15
+
+('Nom Parking', 'MOSS')
+('Place Libre', '0168')
+('Place total', '0423')
+('Place occupée', '255')
+Pourcentage Place Libre : 39.716312056737586%
+
+
+
+Parking 16
+
+('Nom Parking', 'SJLC')
+('Place Libre', '0205')
+('Place total', '0290')
+('Place occupée', '85')
+Pourcentage Place Libre : 70.6896551724138%
+
+
+
+Parking 17
+
+('Nom Parking', 'MEDC')
+('Place Libre', '0165')
+('Place total', '0255')
+('Place occupée', '90')
+Pourcentage Place Libre : 64.70588235294117%
+
+
+
+Parking 18
+
+('Nom Parking', 'OCCI')
+('Place Libre', '0585')
+('Place total', '0627')
+('Place occupée', '42')
+Pourcentage Place Libre : 93.30143540669856%
+
+
+
+Parking 19
+
+('Nom Parking', 'VICA')
+('Place Libre', '0051')
+('Place total', '0074')
+('Place occupée', '23')
+Pourcentage Place Libre : 68.91891891891892%
+
+
+
+Parking 20
+
+('Nom Parking', 'GAUMONT-EST')
+('Place Libre', '0051')
+('Place total', '0109')
+('Place occupée', '58')
+Pourcentage Place Libre : 46.788990825688074%
+
+
+
+Parking 21
+
+('Nom Parking', 'GAUMONT-OUEST')
+('Place Libre', '0011')
+('Place total', '0250')
+('Place occupée', '239')
+Pourcentage Place Libre : 4.4%
+
+
+
+Parking 22
+
+('Nom Parking', 'ARCE')
+('Place Libre', '0230')
+('Place total', '0230')
+('Place occupée', '0')
+Pourcentage Place Libre : 100.0%
+
+
+
+Parking 23
+
+('Nom Parking', 'POLY')
+('Place Libre', '1448')
+('Place total', '1911')
+('Place occupée', '463')
+Pourcentage Place Libre : 75.77184720041863%
+
+
+Moyenne de place occupée : 240.65217391304347
+
+Ecartype de cette moyenne : 169.31488768246658
+
+Pourcentage de place libre dans la ville : 53.361981799797775%
+
+Sat Jan 29 20:24:41 2022
+
+
+
+Parking 1
+
+('Nom Parking', 'ANTI')
+('Place Libre', '0138')
+('Place total', '0239')
+('Place occupée', '101')
+Pourcentage Place Libre : 57.74058577405858%
+
+
+
+Parking 2
+
+('Nom Parking', 'COME')
+('Place Libre', '0560')
+('Place total', '0835')
+('Place occupée', '275')
+Pourcentage Place Libre : 67.06586826347305%
+
+
+
+Parking 3
+
+('Nom Parking', 'CORU')
+('Place Libre', '0004')
+('Place total', '0430')
+('Place occupée', '426')
+Pourcentage Place Libre : 0.9302325581395349%
+
+
+
+Parking 4
+
+('Nom Parking', 'EURO')
+('Place Libre', '0381')
+('Place total', '0593')
+('Place occupée', '212')
+Pourcentage Place Libre : 64.2495784148398%
+
+
+
+Parking 5
+
+('Nom Parking', 'FOCH')
+('Place Libre', '0014')
+('Place total', '0540')
+('Place occupée', '526')
+Pourcentage Place Libre : 2.5925925925925926%
+
+
+
+Parking 6
+
+('Nom Parking', 'GAMB')
+('Place Libre', '0097')
+('Place total', '0470')
+('Place occupée', '373')
+Pourcentage Place Libre : 20.638297872340427%
+
+
+
+Parking 7
+
+('Nom Parking', 'GARE')
+('Place Libre', '296')
+('Place total', '656')
+('Place occupée', '360')
+Pourcentage Place Libre : 45.1219512195122%
+
+
+
+Parking 8
+
+('Nom Parking', 'Triangle')
+('Place Libre', '123')
+('Place total', '436')
+('Place occupée', '313')
+Pourcentage Place Libre : 28.211009174311926%
+
+
+
+Parking 9
+
+('Nom Parking', 'ARCT')
+('Place Libre', '0025')
+('Place total', '0460')
+('Place occupée', '435')
+Pourcentage Place Libre : 5.434782608695652%
+
+
+
+Parking 10
+
+('Nom Parking', 'Pitot')
+('Place Libre', '314')
+('Place total', '588')
+('Place occupée', '274')
+Pourcentage Place Libre : 53.40136054421769%
+
+
+
+Parking 11
+
+('Nom Parking', 'CIRC')
+('Place Libre', '0585')
+('Place total', '1200')
+('Place occupée', '615')
+Pourcentage Place Libre : 48.75%
+
+
+
+Parking 12
+
+('Nom Parking', 'SABI')
+('Place Libre', '0329')
+('Place total', '0485')
+('Place occupée', '156')
+Pourcentage Place Libre : 67.83505154639175%
+
+
+
+Parking 13
+
+('Nom Parking', 'GARD')
+('Place Libre', '0302')
+('Place total', '0395')
+('Place occupée', '93')
+Pourcentage Place Libre : 76.45569620253164%
+
+
+
+Parking 14
+
+('Nom Parking', 'SABL')
+('Place Libre', '0214')
+('Place total', '0372')
+('Place occupée', '158')
+Pourcentage Place Libre : 57.526881720430104%
+
+
+
+Parking 15
+
+('Nom Parking', 'MOSS')
+('Place Libre', '0168')
+('Place total', '0423')
+('Place occupée', '255')
+Pourcentage Place Libre : 39.716312056737586%
+
+
+
+Parking 16
+
+('Nom Parking', 'SJLC')
+('Place Libre', '0205')
+('Place total', '0290')
+('Place occupée', '85')
+Pourcentage Place Libre : 70.6896551724138%
+
+
+
+Parking 17
+
+('Nom Parking', 'MEDC')
+('Place Libre', '0165')
+('Place total', '0255')
+('Place occupée', '90')
+Pourcentage Place Libre : 64.70588235294117%
+
+
+
+Parking 18
+
+('Nom Parking', 'OCCI')
+('Place Libre', '0585')
+('Place total', '0627')
+('Place occupée', '42')
+Pourcentage Place Libre : 93.30143540669856%
+
+
+
+Parking 19
+
+('Nom Parking', 'VICA')
+('Place Libre', '0051')
+('Place total', '0074')
+('Place occupée', '23')
+Pourcentage Place Libre : 68.91891891891892%
+
+
+
+Parking 20
+
+('Nom Parking', 'GAUMONT-EST')
+('Place Libre', '0049')
+('Place total', '0109')
+('Place occupée', '60')
+Pourcentage Place Libre : 44.95412844036697%
+
+
+
+Parking 21
+
+('Nom Parking', 'GAUMONT-OUEST')
+('Place Libre', '0010')
+('Place total', '0250')
+('Place occupée', '240')
+Pourcentage Place Libre : 4.0%
+
+
+
+Parking 22
+
+('Nom Parking', 'ARCE')
+('Place Libre', '0230')
+('Place total', '0230')
+('Place occupée', '0')
+Pourcentage Place Libre : 100.0%
+
+
+
+Parking 23
+
+('Nom Parking', 'POLY')
+('Place Libre', '1448')
+('Place total', '1911')
+('Place occupée', '463')
+Pourcentage Place Libre : 75.77184720041863%
+
+
+Moyenne de place occupée : 242.3913043478261
+
+Ecartype de cette moyenne : 169.7793297016773
+
+Pourcentage de place libre dans la ville : 53.02494101786316%
+
+Sat Jan 29 20:34:42 2022
+
+
+
+Parking 1
+
+('Nom Parking', 'ANTI')
+('Place Libre', '0138')
+('Place total', '0239')
+('Place occupée', '101')
+Pourcentage Place Libre : 57.74058577405858%
+
+
+
+Parking 2
+
+('Nom Parking', 'COME')
+('Place Libre', '0561')
+('Place total', '0835')
+('Place occupée', '274')
+Pourcentage Place Libre : 67.18562874251496%
+
+
+
+Parking 3
+
+('Nom Parking', 'CORU')
+('Place Libre', '0010')
+('Place total', '0430')
+('Place occupée', '420')
+Pourcentage Place Libre : 2.3255813953488373%
+
+
+
+Parking 4
+
+('Nom Parking', 'EURO')
+('Place Libre', '0382')
+('Place total', '0593')
+('Place occupée', '211')
+Pourcentage Place Libre : 64.41821247892074%
+
+
+
+Parking 5
+
+('Nom Parking', 'FOCH')
+('Place Libre', '0017')
+('Place total', '0540')
+('Place occupée', '523')
+Pourcentage Place Libre : 3.1481481481481484%
+
+
+
+Parking 6
+
+('Nom Parking', 'GAMB')
+('Place Libre', '0093')
+('Place total', '0470')
+('Place occupée', '377')
+Pourcentage Place Libre : 19.78723404255319%
+
+
+
+Parking 7
+
+('Nom Parking', 'GARE')
+('Place Libre', '320')
+('Place total', '656')
+('Place occupée', '336')
+Pourcentage Place Libre : 48.78048780487805%
+
+
+
+Parking 8
+
+('Nom Parking', 'Triangle')
+('Place Libre', '110')
+('Place total', '436')
+('Place occupée', '326')
+Pourcentage Place Libre : 25.229357798165136%
+
+
+
+Parking 9
+
+('Nom Parking', 'ARCT')
+('Place Libre', '0020')
+('Place total', '0460')
+('Place occupée', '440')
+Pourcentage Place Libre : 4.3478260869565215%
+
+
+
+Parking 10
+
+('Nom Parking', 'Pitot')
+('Place Libre', '294')
+('Place total', '588')
+('Place occupée', '294')
+Pourcentage Place Libre : 50.0%
+
+
+
+Parking 11
+
+('Nom Parking', 'CIRC')
+('Place Libre', '0585')
+('Place total', '1200')
+('Place occupée', '615')
+Pourcentage Place Libre : 48.75%
+
+
+
+Parking 12
+
+('Nom Parking', 'SABI')
+('Place Libre', '0328')
+('Place total', '0485')
+('Place occupée', '157')
+Pourcentage Place Libre : 67.62886597938144%
+
+
+
+Parking 13
+
+('Nom Parking', 'GARD')
+('Place Libre', '0303')
+('Place total', '0395')
+('Place occupée', '92')
+Pourcentage Place Libre : 76.70886075949367%
+
+
+
+Parking 14
+
+('Nom Parking', 'SABL')
+('Place Libre', '0215')
+('Place total', '0372')
+('Place occupée', '157')
+Pourcentage Place Libre : 57.795698924731184%
+
+
+
+Parking 15
+
+('Nom Parking', 'MOSS')
+('Place Libre', '0169')
+('Place total', '0423')
+('Place occupée', '254')
+Pourcentage Place Libre : 39.952718676122934%
+
+
+
+Parking 16
+
+('Nom Parking', 'SJLC')
+('Place Libre', '0207')
+('Place total', '0290')
+('Place occupée', '83')
+Pourcentage Place Libre : 71.37931034482759%
+
+
+
+Parking 17
+
+('Nom Parking', 'MEDC')
+('Place Libre', '0165')
+('Place total', '0255')
+('Place occupée', '90')
+Pourcentage Place Libre : 64.70588235294117%
+
+
+
+Parking 18
+
+('Nom Parking', 'OCCI')
+('Place Libre', '0583')
+('Place total', '0627')
+('Place occupée', '44')
+Pourcentage Place Libre : 92.98245614035088%
+
+
+
+Parking 19
+
+('Nom Parking', 'VICA')
+('Place Libre', '0051')
+('Place total', '0074')
+('Place occupée', '23')
+Pourcentage Place Libre : 68.91891891891892%
+
+
+
+Parking 20
+
+('Nom Parking', 'GAUMONT-EST')
+('Place Libre', '0046')
+('Place total', '0109')
+('Place occupée', '63')
+Pourcentage Place Libre : 42.20183486238532%
+
+
+
+Parking 21
+
+('Nom Parking', 'GAUMONT-OUEST')
+('Place Libre', '0027')
+('Place total', '0250')
+('Place occupée', '223')
+Pourcentage Place Libre : 10.8%
+
+
+
+Parking 22
+
+('Nom Parking', 'ARCE')
+('Place Libre', '0230')
+('Place total', '0230')
+('Place occupée', '0')
+Pourcentage Place Libre : 100.0%
+
+
+
+Parking 23
+
+('Nom Parking', 'POLY')
+('Place Libre', '1448')
+('Place total', '1911')
+('Place occupée', '463')
+Pourcentage Place Libre : 75.77184720041863%
+
+
+Moyenne de place occupée : 242.0
+
+Ecartype de cette moyenne : 169.41279660100622
+
+Pourcentage de place libre dans la ville : 53.10077519379845%
+
+Sat Jan 29 20:44:44 2022
+
+
+
+Parking 1
+
+('Nom Parking', 'ANTI')
+('Place Libre', '0136')
+('Place total', '0239')
+('Place occupée', '103')
+Pourcentage Place Libre : 56.90376569037657%
+
+
+
+Parking 2
+
+('Nom Parking', 'COME')
+('Place Libre', '0564')
+('Place total', '0835')
+('Place occupée', '271')
+Pourcentage Place Libre : 67.54491017964072%
+
+
+
+Parking 3
+
+('Nom Parking', 'CORU')
+('Place Libre', '0009')
+('Place total', '0430')
+('Place occupée', '421')
+Pourcentage Place Libre : 2.0930232558139537%
+
+
+
+Parking 4
+
+('Nom Parking', 'EURO')
+('Place Libre', '0380')
+('Place total', '0593')
+('Place occupée', '213')
+Pourcentage Place Libre : 64.08094435075886%
+
+
+
+Parking 5
+
+('Nom Parking', 'FOCH')
+('Place Libre', '0017')
+('Place total', '0540')
+('Place occupée', '523')
+Pourcentage Place Libre : 3.1481481481481484%
+
+
+
+Parking 6
+
+('Nom Parking', 'GAMB')
+('Place Libre', '0092')
+('Place total', '0470')
+('Place occupée', '378')
+Pourcentage Place Libre : 19.574468085106382%
+
+
+
+Parking 7
+
+('Nom Parking', 'GARE')
+('Place Libre', '289')
+('Place total', '656')
+('Place occupée', '367')
+Pourcentage Place Libre : 44.05487804878049%
+
+
+
+Parking 8
+
+('Nom Parking', 'Triangle')
+('Place Libre', '102')
+('Place total', '436')
+('Place occupée', '334')
+Pourcentage Place Libre : 23.394495412844037%
+
+
+
+Parking 9
+
+('Nom Parking', 'ARCT')
+('Place Libre', '0017')
+('Place total', '0460')
+('Place occupée', '443')
+Pourcentage Place Libre : 3.6956521739130435%
+
+
+
+Parking 10
+
+('Nom Parking', 'Pitot')
+('Place Libre', '282')
+('Place total', '588')
+('Place occupée', '306')
+Pourcentage Place Libre : 47.95918367346939%
+
+
+
+Parking 11
+
+('Nom Parking', 'CIRC')
+('Place Libre', '0585')
+('Place total', '1200')
+('Place occupée', '615')
+Pourcentage Place Libre : 48.75%
+
+
+
+Parking 12
+
+('Nom Parking', 'SABI')
+('Place Libre', '0329')
+('Place total', '0485')
+('Place occupée', '156')
+Pourcentage Place Libre : 67.83505154639175%
+
+
+
+Parking 13
+
+('Nom Parking', 'GARD')
+('Place Libre', '0302')
+('Place total', '0395')
+('Place occupée', '93')
+Pourcentage Place Libre : 76.45569620253164%
+
+
+
+Parking 14
+
+('Nom Parking', 'SABL')
+('Place Libre', '0215')
+('Place total', '0372')
+('Place occupée', '157')
+Pourcentage Place Libre : 57.795698924731184%
+
+
+
+Parking 15
+
+('Nom Parking', 'MOSS')
+('Place Libre', '0169')
+('Place total', '0423')
+('Place occupée', '254')
+Pourcentage Place Libre : 39.952718676122934%
+
+
+
+Parking 16
+
+('Nom Parking', 'SJLC')
+('Place Libre', '0207')
+('Place total', '0290')
+('Place occupée', '83')
+Pourcentage Place Libre : 71.37931034482759%
+
+
+
+Parking 17
+
+('Nom Parking', 'MEDC')
+('Place Libre', '0165')
+('Place total', '0255')
+('Place occupée', '90')
+Pourcentage Place Libre : 64.70588235294117%
+
+
+
+Parking 18
+
+('Nom Parking', 'OCCI')
+('Place Libre', '0585')
+('Place total', '0627')
+('Place occupée', '42')
+Pourcentage Place Libre : 93.30143540669856%
+
+
+
+Parking 19
+
+('Nom Parking', 'VICA')
+('Place Libre', '0051')
+('Place total', '0074')
+('Place occupée', '23')
+Pourcentage Place Libre : 68.91891891891892%
+
+
+
+Parking 20
+
+('Nom Parking', 'GAUMONT-EST')
+('Place Libre', '0046')
+('Place total', '0109')
+('Place occupée', '63')
+Pourcentage Place Libre : 42.20183486238532%
+
+
+
+Parking 21
+
+('Nom Parking', 'GAUMONT-OUEST')
+('Place Libre', '0016')
+('Place total', '0250')
+('Place occupée', '234')
+Pourcentage Place Libre : 6.4%
+
+
+
+Parking 22
+
+('Nom Parking', 'ARCE')
+('Place Libre', '0230')
+('Place total', '0230')
+('Place occupée', '0')
+Pourcentage Place Libre : 100.0%
+
+
+
+Parking 23
+
+('Nom Parking', 'POLY')
+('Place Libre', '1448')
+('Place total', '1911')
+('Place occupée', '463')
+Pourcentage Place Libre : 75.77184720041863%
+
+
+Moyenne de place occupée : 244.8695652173913
+
+Ecartype de cette moyenne : 170.78445717586376
+
+Pourcentage de place libre dans la ville : 52.544657903606335%
+
+Sat Jan 29 20:54:44 2022
+
+
+
+Parking 1
+
+('Nom Parking', 'ANTI')
+('Place Libre', '0137')
+('Place total', '0239')
+('Place occupée', '102')
+Pourcentage Place Libre : 57.32217573221757%
+
+
+
+Parking 2
+
+('Nom Parking', 'COME')
+('Place Libre', '0565')
+('Place total', '0835')
+('Place occupée', '270')
+Pourcentage Place Libre : 67.66467065868264%
+
+
+
+Parking 3
+
+('Nom Parking', 'CORU')
+('Place Libre', '0017')
+('Place total', '0430')
+('Place occupée', '413')
+Pourcentage Place Libre : 3.953488372093023%
+
+
+
+Parking 4
+
+('Nom Parking', 'EURO')
+('Place Libre', '0380')
+('Place total', '0593')
+('Place occupée', '213')
+Pourcentage Place Libre : 64.08094435075886%
+
+
+
+Parking 5
+
+('Nom Parking', 'FOCH')
+('Place Libre', '0014')
+('Place total', '0540')
+('Place occupée', '526')
+Pourcentage Place Libre : 2.5925925925925926%
+
+
+
+Parking 6
+
+('Nom Parking', 'GAMB')
+('Place Libre', '0094')
+('Place total', '0470')
+('Place occupée', '376')
+Pourcentage Place Libre : 20.0%
+
+
+
+Parking 7
+
+('Nom Parking', 'GARE')
+('Place Libre', '303')
+('Place total', '656')
+('Place occupée', '353')
+Pourcentage Place Libre : 46.1890243902439%
+
+
+
+Parking 8
+
+('Nom Parking', 'Triangle')
+('Place Libre', '93')
+('Place total', '436')
+('Place occupée', '343')
+Pourcentage Place Libre : 21.3302752293578%
+
+
+
+Parking 9
+
+('Nom Parking', 'ARCT')
+('Place Libre', '0015')
+('Place total', '0460')
+('Place occupée', '445')
+Pourcentage Place Libre : 3.260869565217391%
+
+
+
+Parking 10
+
+('Nom Parking', 'Pitot')
+('Place Libre', '261')
+('Place total', '588')
+('Place occupée', '327')
+Pourcentage Place Libre : 44.38775510204081%
+
+
+
+Parking 11
+
+('Nom Parking', 'CIRC')
+('Place Libre', '0585')
+('Place total', '1200')
+('Place occupée', '615')
+Pourcentage Place Libre : 48.75%
+
+
+
+Parking 12
+
+('Nom Parking', 'SABI')
+('Place Libre', '0331')
+('Place total', '0485')
+('Place occupée', '154')
+Pourcentage Place Libre : 68.24742268041237%
+
+
+
+Parking 13
+
+('Nom Parking', 'GARD')
+('Place Libre', '0300')
+('Place total', '0395')
+('Place occupée', '95')
+Pourcentage Place Libre : 75.9493670886076%
+
+
+
+Parking 14
+
+('Nom Parking', 'SABL')
+('Place Libre', '0216')
+('Place total', '0372')
+('Place occupée', '156')
+Pourcentage Place Libre : 58.064516129032256%
+
+
+
+Parking 15
+
+('Nom Parking', 'MOSS')
+('Place Libre', '0169')
+('Place total', '0423')
+('Place occupée', '254')
+Pourcentage Place Libre : 39.952718676122934%
+
+
+
+Parking 16
+
+('Nom Parking', 'SJLC')
+('Place Libre', '0208')
+('Place total', '0290')
+('Place occupée', '82')
+Pourcentage Place Libre : 71.72413793103448%
+
+
+
+Parking 17
+
+('Nom Parking', 'MEDC')
+('Place Libre', '0165')
+('Place total', '0255')
+('Place occupée', '90')
+Pourcentage Place Libre : 64.70588235294117%
+
+
+
+Parking 18
+
+('Nom Parking', 'OCCI')
+('Place Libre', '0585')
+('Place total', '0627')
+('Place occupée', '42')
+Pourcentage Place Libre : 93.30143540669856%
+
+
+
+Parking 19
+
+('Nom Parking', 'VICA')
+('Place Libre', '0050')
+('Place total', '0074')
+('Place occupée', '24')
+Pourcentage Place Libre : 67.56756756756756%
+
+
+
+Parking 20
+
+('Nom Parking', 'GAUMONT-EST')
+('Place Libre', '0047')
+('Place total', '0109')
+('Place occupée', '62')
+Pourcentage Place Libre : 43.11926605504587%
+
+
+
+Parking 21
+
+('Nom Parking', 'GAUMONT-OUEST')
+('Place Libre', '0013')
+('Place total', '0250')
+('Place occupée', '237')
+Pourcentage Place Libre : 5.2%
+
+
+
+Parking 22
+
+('Nom Parking', 'ARCE')
+('Place Libre', '0230')
+('Place total', '0230')
+('Place occupée', '0')
+Pourcentage Place Libre : 100.0%
+
+
+
+Parking 23
+
+('Nom Parking', 'POLY')
+('Place Libre', '1448')
+('Place total', '1911')
+('Place occupée', '463')
+Pourcentage Place Libre : 75.77184720041863%
+
+
+Moyenne de place occupée : 245.30434782608697
+
+Ecartype de cette moyenne : 170.91351354275994
+
+Pourcentage de place libre dans la ville : 52.460397708122684%
+
+Sat Jan 29 21:04:46 2022
+
+
+
+Parking 1
+
+('Nom Parking', 'ANTI')
+('Place Libre', '0137')
+('Place total', '0239')
+('Place occupée', '102')
+Pourcentage Place Libre : 57.32217573221757%
+
+
+
+Parking 2
+
+('Nom Parking', 'COME')
+('Place Libre', '0566')
+('Place total', '0835')
+('Place occupée', '269')
+Pourcentage Place Libre : 67.78443113772455%
+
+
+
+Parking 3
+
+('Nom Parking', 'CORU')
+('Place Libre', '0019')
+('Place total', '0430')
+('Place occupée', '411')
+Pourcentage Place Libre : 4.4186046511627906%
+
+
+
+Parking 4
+
+('Nom Parking', 'EURO')
+('Place Libre', '0381')
+('Place total', '0593')
+('Place occupée', '212')
+Pourcentage Place Libre : 64.2495784148398%
+
+
+
+Parking 5
+
+('Nom Parking', 'FOCH')
+('Place Libre', '0019')
+('Place total', '0540')
+('Place occupée', '521')
+Pourcentage Place Libre : 3.5185185185185186%
+
+
+
+Parking 6
+
+('Nom Parking', 'GAMB')
+('Place Libre', '0091')
+('Place total', '0470')
+('Place occupée', '379')
+Pourcentage Place Libre : 19.361702127659573%
+
+
+
+Parking 7
+
+('Nom Parking', 'GARE')
+('Place Libre', '281')
+('Place total', '656')
+('Place occupée', '375')
+Pourcentage Place Libre : 42.83536585365854%
+
+
+
+Parking 8
+
+('Nom Parking', 'Triangle')
+('Place Libre', '83')
+('Place total', '436')
+('Place occupée', '353')
+Pourcentage Place Libre : 19.03669724770642%
+
+
+
+Parking 9
+
+('Nom Parking', 'ARCT')
+('Place Libre', '0013')
+('Place total', '0460')
+('Place occupée', '447')
+Pourcentage Place Libre : 2.8260869565217392%
+
+
+
+Parking 10
+
+('Nom Parking', 'Pitot')
+('Place Libre', '249')
+('Place total', '588')
+('Place occupée', '339')
+Pourcentage Place Libre : 42.3469387755102%
+
+
+
+Parking 11
+
+('Nom Parking', 'CIRC')
+('Place Libre', '0585')
+('Place total', '1200')
+('Place occupée', '615')
+Pourcentage Place Libre : 48.75%
+
+
+
+Parking 12
+
+('Nom Parking', 'SABI')
+('Place Libre', '0332')
+('Place total', '0485')
+('Place occupée', '153')
+Pourcentage Place Libre : 68.45360824742268%
+
+
+
+Parking 13
+
+('Nom Parking', 'GARD')
+('Place Libre', '0300')
+('Place total', '0395')
+('Place occupée', '95')
+Pourcentage Place Libre : 75.9493670886076%
+
+
+
+Parking 14
+
+('Nom Parking', 'SABL')
+('Place Libre', '0217')
+('Place total', '0372')
+('Place occupée', '155')
+Pourcentage Place Libre : 58.333333333333336%
+
+
+
+Parking 15
+
+('Nom Parking', 'MOSS')
+('Place Libre', '0169')
+('Place total', '0423')
+('Place occupée', '254')
+Pourcentage Place Libre : 39.952718676122934%
+
+
+
+Parking 16
+
+('Nom Parking', 'SJLC')
+('Place Libre', '0210')
+('Place total', '0290')
+('Place occupée', '80')
+Pourcentage Place Libre : 72.41379310344827%
+
+
+
+Parking 17
+
+('Nom Parking', 'MEDC')
+('Place Libre', '0165')
+('Place total', '0255')
+('Place occupée', '90')
+Pourcentage Place Libre : 64.70588235294117%
+
+
+
+Parking 18
+
+('Nom Parking', 'OCCI')
+('Place Libre', '0585')
+('Place total', '0627')
+('Place occupée', '42')
+Pourcentage Place Libre : 93.30143540669856%
+
+
+
+Parking 19
+
+('Nom Parking', 'VICA')
+('Place Libre', '0049')
+('Place total', '0074')
+('Place occupée', '25')
+Pourcentage Place Libre : 66.21621621621621%
+
+
+
+Parking 20
+
+('Nom Parking', 'GAUMONT-EST')
+('Place Libre', '0047')
+('Place total', '0109')
+('Place occupée', '62')
+Pourcentage Place Libre : 43.11926605504587%
+
+
+
+Parking 21
+
+('Nom Parking', 'GAUMONT-OUEST')
+('Place Libre', '0014')
+('Place total', '0250')
+('Place occupée', '236')
+Pourcentage Place Libre : 5.6%
+
+
+
+Parking 22
+
+('Nom Parking', 'ARCE')
+('Place Libre', '0230')
+('Place total', '0230')
+('Place occupée', '0')
+Pourcentage Place Libre : 100.0%
+
+
+
+Parking 23
+
+('Nom Parking', 'POLY')
+('Place Libre', '1448')
+('Place total', '1911')
+('Place occupée', '463')
+Pourcentage Place Libre : 75.77184720041863%
+
+
+Moyenne de place occupée : 246.8695652173913
+
+Ecartype de cette moyenne : 171.9388931765221
+
+Pourcentage de place libre dans la ville : 52.15706100438153%
+
+Sat Jan 29 21:14:47 2022
+
+
+
+Parking 1
+
+('Nom Parking', 'ANTI')
+('Place Libre', '0138')
+('Place total', '0239')
+('Place occupée', '101')
+Pourcentage Place Libre : 57.74058577405858%
+
+
+
+Parking 2
+
+('Nom Parking', 'COME')
+('Place Libre', '0569')
+('Place total', '0835')
+('Place occupée', '266')
+Pourcentage Place Libre : 68.1437125748503%
+
+
+
+Parking 3
+
+('Nom Parking', 'CORU')
+('Place Libre', '0009')
+('Place total', '0430')
+('Place occupée', '421')
+Pourcentage Place Libre : 2.0930232558139537%
+
+
+
+Parking 4
+
+('Nom Parking', 'EURO')
+('Place Libre', '0382')
+('Place total', '0593')
+('Place occupée', '211')
+Pourcentage Place Libre : 64.41821247892074%
+
+
+
+Parking 5
+
+('Nom Parking', 'FOCH')
+('Place Libre', '0013')
+('Place total', '0540')
+('Place occupée', '527')
+Pourcentage Place Libre : 2.4074074074074074%
+
+
+
+Parking 6
+
+('Nom Parking', 'GAMB')
+('Place Libre', '0089')
+('Place total', '0470')
+('Place occupée', '381')
+Pourcentage Place Libre : 18.93617021276596%
+
+
+
+Parking 7
+
+('Nom Parking', 'GARE')
+('Place Libre', '295')
+('Place total', '656')
+('Place occupée', '361')
+Pourcentage Place Libre : 44.96951219512195%
+
+
+
+Parking 8
+
+('Nom Parking', 'Triangle')
+('Place Libre', '64')
+('Place total', '436')
+('Place occupée', '372')
+Pourcentage Place Libre : 14.678899082568808%
+
+
+
+Parking 9
+
+('Nom Parking', 'ARCT')
+('Place Libre', '0015')
+('Place total', '0460')
+('Place occupée', '445')
+Pourcentage Place Libre : 3.260869565217391%
+
+
+
+Parking 10
+
+('Nom Parking', 'Pitot')
+('Place Libre', '243')
+('Place total', '588')
+('Place occupée', '345')
+Pourcentage Place Libre : 41.326530612244895%
+
+
+
+Parking 11
+
+('Nom Parking', 'CIRC')
+('Place Libre', '0585')
+('Place total', '1200')
+('Place occupée', '615')
+Pourcentage Place Libre : 48.75%
+
+
+
+Parking 12
+
+('Nom Parking', 'SABI')
+('Place Libre', '0333')
+('Place total', '0485')
+('Place occupée', '152')
+Pourcentage Place Libre : 68.65979381443299%
+
+
+
+Parking 13
+
+('Nom Parking', 'GARD')
+('Place Libre', '0300')
+('Place total', '0395')
+('Place occupée', '95')
+Pourcentage Place Libre : 75.9493670886076%
+
+
+
+Parking 14
+
+('Nom Parking', 'SABL')
+('Place Libre', '0220')
+('Place total', '0372')
+('Place occupée', '152')
+Pourcentage Place Libre : 59.13978494623656%
+
+
+
+Parking 15
+
+('Nom Parking', 'MOSS')
+('Place Libre', '0171')
+('Place total', '0423')
+('Place occupée', '252')
+Pourcentage Place Libre : 40.42553191489362%
+
+
+
+Parking 16
+
+('Nom Parking', 'SJLC')
+('Place Libre', '0210')
+('Place total', '0290')
+('Place occupée', '80')
+Pourcentage Place Libre : 72.41379310344827%
+
+
+
+Parking 17
+
+('Nom Parking', 'MEDC')
+('Place Libre', '0165')
+('Place total', '0255')
+('Place occupée', '90')
+Pourcentage Place Libre : 64.70588235294117%
+
+
+
+Parking 18
+
+('Nom Parking', 'OCCI')
+('Place Libre', '0585')
+('Place total', '0627')
+('Place occupée', '42')
+Pourcentage Place Libre : 93.30143540669856%
+
+
+
+Parking 19
+
+('Nom Parking', 'VICA')
+('Place Libre', '0051')
+('Place total', '0074')
+('Place occupée', '23')
+Pourcentage Place Libre : 68.91891891891892%
+
+
+
+Parking 20
+
+('Nom Parking', 'GAUMONT-EST')
+('Place Libre', '0047')
+('Place total', '0109')
+('Place occupée', '62')
+Pourcentage Place Libre : 43.11926605504587%
+
+
+
+Parking 21
+
+('Nom Parking', 'GAUMONT-OUEST')
+('Place Libre', '0016')
+('Place total', '0250')
+('Place occupée', '234')
+Pourcentage Place Libre : 6.4%
+
+
+
+Parking 22
+
+('Nom Parking', 'ARCE')
+('Place Libre', '0230')
+('Place total', '0230')
+('Place occupée', '0')
+Pourcentage Place Libre : 100.0%
+
+
+
+Parking 23
+
+('Nom Parking', 'POLY')
+('Place Libre', '1448')
+('Place total', '1911')
+('Place occupée', '463')
+Pourcentage Place Libre : 75.77184720041863%
+
+
+Moyenne de place occupée : 247.3913043478261
+
+Ecartype de cette moyenne : 173.25922753026933
+
+Pourcentage de place libre dans la ville : 52.05594876980115%
+
+Sat Jan 29 21:24:49 2022
+
+
+
+Parking 1
+
+('Nom Parking', 'ANTI')
+('Place Libre', '0139')
+('Place total', '0239')
+('Place occupée', '100')
+Pourcentage Place Libre : 58.15899581589958%
+
+
+
+Parking 2
+
+('Nom Parking', 'COME')
+('Place Libre', '0570')
+('Place total', '0835')
+('Place occupée', '265')
+Pourcentage Place Libre : 68.26347305389221%
+
+
+
+Parking 3
+
+('Nom Parking', 'CORU')
+('Place Libre', '0012')
+('Place total', '0430')
+('Place occupée', '418')
+Pourcentage Place Libre : 2.7906976744186047%
+
+
+
+Parking 4
+
+('Nom Parking', 'EURO')
+('Place Libre', '0382')
+('Place total', '0593')
+('Place occupée', '211')
+Pourcentage Place Libre : 64.41821247892074%
+
+
+
+Parking 5
+
+('Nom Parking', 'FOCH')
+('Place Libre', '0012')
+('Place total', '0540')
+('Place occupée', '528')
+Pourcentage Place Libre : 2.2222222222222223%
+
+
+
+Parking 6
+
+('Nom Parking', 'GAMB')
+('Place Libre', '0087')
+('Place total', '0470')
+('Place occupée', '383')
+Pourcentage Place Libre : 18.51063829787234%
+
+
+
+Parking 7
+
+('Nom Parking', 'GARE')
+('Place Libre', '279')
+('Place total', '656')
+('Place occupée', '377')
+Pourcentage Place Libre : 42.53048780487805%
+
+
+
+Parking 8
+
+('Nom Parking', 'Triangle')
+('Place Libre', '55')
+('Place total', '436')
+('Place occupée', '381')
+Pourcentage Place Libre : 12.614678899082568%
+
+
+
+Parking 9
+
+('Nom Parking', 'ARCT')
+('Place Libre', '0016')
+('Place total', '0460')
+('Place occupée', '444')
+Pourcentage Place Libre : 3.4782608695652173%
+
+
+
+Parking 10
+
+('Nom Parking', 'Pitot')
+('Place Libre', '237')
+('Place total', '588')
+('Place occupée', '351')
+Pourcentage Place Libre : 40.30612244897959%
+
+
+
+Parking 11
+
+('Nom Parking', 'CIRC')
+('Place Libre', '0585')
+('Place total', '1200')
+('Place occupée', '615')
+Pourcentage Place Libre : 48.75%
+
+
+
+Parking 12
+
+('Nom Parking', 'SABI')
+('Place Libre', '0333')
+('Place total', '0485')
+('Place occupée', '152')
+Pourcentage Place Libre : 68.65979381443299%
+
+
+
+Parking 13
+
+('Nom Parking', 'GARD')
+('Place Libre', '0300')
+('Place total', '0395')
+('Place occupée', '95')
+Pourcentage Place Libre : 75.9493670886076%
+
+
+
+Parking 14
+
+('Nom Parking', 'SABL')
+('Place Libre', '0221')
+('Place total', '0372')
+('Place occupée', '151')
+Pourcentage Place Libre : 59.40860215053763%
+
+
+
+Parking 15
+
+('Nom Parking', 'MOSS')
+('Place Libre', '0171')
+('Place total', '0423')
+('Place occupée', '252')
+Pourcentage Place Libre : 40.42553191489362%
+
+
+
+Parking 16
+
+('Nom Parking', 'SJLC')
+('Place Libre', '0210')
+('Place total', '0290')
+('Place occupée', '80')
+Pourcentage Place Libre : 72.41379310344827%
+
+
+
+Parking 17
+
+('Nom Parking', 'MEDC')
+('Place Libre', '0165')
+('Place total', '0255')
+('Place occupée', '90')
+Pourcentage Place Libre : 64.70588235294117%
+
+
+
+Parking 18
+
+('Nom Parking', 'OCCI')
+('Place Libre', '0584')
+('Place total', '0627')
+('Place occupée', '43')
+Pourcentage Place Libre : 93.14194577352472%
+
+
+
+Parking 19
+
+('Nom Parking', 'VICA')
+('Place Libre', '0051')
+('Place total', '0074')
+('Place occupée', '23')
+Pourcentage Place Libre : 68.91891891891892%
+
+
+
+Parking 20
+
+('Nom Parking', 'GAUMONT-EST')
+('Place Libre', '0051')
+('Place total', '0109')
+('Place occupée', '58')
+Pourcentage Place Libre : 46.788990825688074%
+
+
+
+Parking 21
+
+('Nom Parking', 'GAUMONT-OUEST')
+('Place Libre', '0019')
+('Place total', '0250')
+('Place occupée', '231')
+Pourcentage Place Libre : 7.6%
+
+
+
+Parking 22
+
+('Nom Parking', 'ARCE')
+('Place Libre', '0230')
+('Place total', '0230')
+('Place occupée', '0')
+Pourcentage Place Libre : 100.0%
+
+
+
+Parking 23
+
+('Nom Parking', 'POLY')
+('Place Libre', '1448')
+('Place total', '1911')
+('Place occupée', '463')
+Pourcentage Place Libre : 75.77184720041863%
+
+
+Moyenne de place occupée : 248.30434782608697
+
+Ecartype de cette moyenne : 174.34783692941528
+
+Pourcentage de place libre dans la ville : 51.87900235928547%
+

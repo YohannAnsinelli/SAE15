@@ -1,0 +1,8580 @@
+Sat Jan 29 16:33:50 2022
+Nom Parking : 001 Rue Jules Ferry - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 12
+Place total : 12
+
+Nom Parking : 002 Comédie
+Nbr Place occup : 11
+Nbr Place libre : 13
+Place total : 24
+
+Nom Parking : 003 Esplanade
+Nbr Place occup : 1
+Nbr Place libre : 31
+Place total : 32
+
+Nom Parking : 004 Hôtel de Ville
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 005 Corum
+Nbr Place occup : 9
+Nbr Place libre : 3
+Place total : 12
+
+Nom Parking : 006 Place Albert 1er - St Charles
+Nbr Place occup : 9
+Nbr Place libre : 22
+Place total : 31
+
+Nom Parking : 007 Foch
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 008 Halles Castellane
+Nbr Place occup : 7
+Nbr Place libre : 5
+Place total : 12
+
+Nom Parking : 009 Observatoire
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 010 Rondelet
+Nbr Place occup : 12
+Nbr Place libre : 4
+Place total : 16
+
+Nom Parking : 011 Plan Cabanes
+Nbr Place occup : 3
+Nbr Place libre : 9
+Place total : 12
+
+Nom Parking : 012 Boutonnet
+Nbr Place occup : 3
+Nbr Place libre : 9
+Place total : 12
+
+Nom Parking : 013 Emile Combes
+Nbr Place occup : 8
+Nbr Place libre : 0
+Place total : 8
+
+Nom Parking : 014 Beaux-Arts
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 015 Les Aubes
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 016 Antigone centre
+Nbr Place occup : 4
+Nbr Place libre : 12
+Place total : 16
+
+Nom Parking : 017 Médiathèque Emile Zola
+Nbr Place occup : 2
+Nbr Place libre : 14
+Place total : 16
+
+Nom Parking : 018 Nombre d'Or
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 019 Louis Blanc
+Nbr Place occup : 8
+Nbr Place libre : 8
+Place total : 16
+
+Nom Parking : 020 Gambetta
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 021 Port Marianne
+Nbr Place occup : 0
+Nbr Place libre : 16
+Place total : 16
+
+Nom Parking : 022 Clemenceau
+Nbr Place occup : 5
+Nbr Place libre : 7
+Place total : 12
+
+Nom Parking : 023 Les Arceaux
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 024 Cité Mion
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 025 Nouveau Saint-Roch
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 026 Renouvier
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 027 Odysseum
+Nbr Place occup : 6
+Nbr Place libre : 2
+Place total : 8
+
+Nom Parking : 028 Saint-Denis
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 029 Richter
+Nbr Place occup : 4
+Nbr Place libre : 12
+Place total : 16
+
+Nom Parking : 030 Charles Flahault
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 031 Voltaire
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 032 Prés d'Arènes
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 033 Garcia Lorca
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 034 Vert Bois
+Nbr Place occup : 0
+Nbr Place libre : 16
+Place total : 16
+
+Nom Parking : 035 Malbosc
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 036 Occitanie
+Nbr Place occup : 3
+Nbr Place libre : 29
+Place total : 32
+
+Nom Parking : 037 FacdesSciences
+Nbr Place occup : 2
+Nbr Place libre : 22
+Place total : 24
+
+Nom Parking : 038 Fac de Lettres
+Nbr Place occup : 5
+Nbr Place libre : 11
+Place total : 16
+
+Nom Parking : 039 Aiguelongue
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 040 Jeu de Mail des Abbés
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 041 Euromédecine
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 042 Marie Caizergues
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 043 Sabines
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Nom Parking : 044 Celleneuve
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 045 Jardin de la Lironde
+Nbr Place occup : 6
+Nbr Place libre : 2
+Place total : 8
+
+Nom Parking : 046 Père Soulas
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Nom Parking : 047 Place Viala
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 048 Hôtel du Département
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 049 Tonnelles
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 050 Parvis Jules Ferry - Gare Saint-Roch
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 051 Pont de Lattes - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 12
+Place total : 12
+
+Nom Parking : 053 Deux Ponts - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 054 Providence - Ovalie
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 055 Pérols Etang de l'Or
+Nbr Place occup : 7
+Nbr Place libre : 61
+Place total : 68
+
+Nom Parking : 056 Albert 1er - Cathédrale
+Nbr Place occup : 2
+Nbr Place libre : 10
+Place total : 12
+
+Nom Parking : 057 Saint-Guilhem - Courreau
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 059 Sud De France
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Sat Jan 29 16:43:52 2022
+Nom Parking : 001 Rue Jules Ferry - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 12
+Place total : 12
+
+Nom Parking : 002 Comédie
+Nbr Place occup : 11
+Nbr Place libre : 13
+Place total : 24
+
+Nom Parking : 003 Esplanade
+Nbr Place occup : 1
+Nbr Place libre : 31
+Place total : 32
+
+Nom Parking : 004 Hôtel de Ville
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 005 Corum
+Nbr Place occup : 9
+Nbr Place libre : 3
+Place total : 12
+
+Nom Parking : 006 Place Albert 1er - St Charles
+Nbr Place occup : 9
+Nbr Place libre : 22
+Place total : 31
+
+Nom Parking : 007 Foch
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 008 Halles Castellane
+Nbr Place occup : 7
+Nbr Place libre : 5
+Place total : 12
+
+Nom Parking : 009 Observatoire
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 010 Rondelet
+Nbr Place occup : 12
+Nbr Place libre : 4
+Place total : 16
+
+Nom Parking : 011 Plan Cabanes
+Nbr Place occup : 3
+Nbr Place libre : 9
+Place total : 12
+
+Nom Parking : 012 Boutonnet
+Nbr Place occup : 3
+Nbr Place libre : 9
+Place total : 12
+
+Nom Parking : 013 Emile Combes
+Nbr Place occup : 8
+Nbr Place libre : 0
+Place total : 8
+
+Nom Parking : 014 Beaux-Arts
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 015 Les Aubes
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 016 Antigone centre
+Nbr Place occup : 4
+Nbr Place libre : 12
+Place total : 16
+
+Nom Parking : 017 Médiathèque Emile Zola
+Nbr Place occup : 2
+Nbr Place libre : 14
+Place total : 16
+
+Nom Parking : 018 Nombre d'Or
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 019 Louis Blanc
+Nbr Place occup : 8
+Nbr Place libre : 8
+Place total : 16
+
+Nom Parking : 020 Gambetta
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 021 Port Marianne
+Nbr Place occup : 0
+Nbr Place libre : 16
+Place total : 16
+
+Nom Parking : 022 Clemenceau
+Nbr Place occup : 5
+Nbr Place libre : 7
+Place total : 12
+
+Nom Parking : 023 Les Arceaux
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 024 Cité Mion
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 025 Nouveau Saint-Roch
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 026 Renouvier
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 027 Odysseum
+Nbr Place occup : 6
+Nbr Place libre : 2
+Place total : 8
+
+Nom Parking : 028 Saint-Denis
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 029 Richter
+Nbr Place occup : 4
+Nbr Place libre : 12
+Place total : 16
+
+Nom Parking : 030 Charles Flahault
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 031 Voltaire
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 032 Prés d'Arènes
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 033 Garcia Lorca
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 034 Vert Bois
+Nbr Place occup : 0
+Nbr Place libre : 16
+Place total : 16
+
+Nom Parking : 035 Malbosc
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 036 Occitanie
+Nbr Place occup : 3
+Nbr Place libre : 29
+Place total : 32
+
+Nom Parking : 037 FacdesSciences
+Nbr Place occup : 2
+Nbr Place libre : 22
+Place total : 24
+
+Nom Parking : 038 Fac de Lettres
+Nbr Place occup : 5
+Nbr Place libre : 11
+Place total : 16
+
+Nom Parking : 039 Aiguelongue
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 040 Jeu de Mail des Abbés
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 041 Euromédecine
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 042 Marie Caizergues
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 043 Sabines
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Nom Parking : 044 Celleneuve
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 045 Jardin de la Lironde
+Nbr Place occup : 6
+Nbr Place libre : 2
+Place total : 8
+
+Nom Parking : 046 Père Soulas
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Nom Parking : 047 Place Viala
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 048 Hôtel du Département
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 049 Tonnelles
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 050 Parvis Jules Ferry - Gare Saint-Roch
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 051 Pont de Lattes - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 12
+Place total : 12
+
+Nom Parking : 053 Deux Ponts - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 054 Providence - Ovalie
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 055 Pérols Etang de l'Or
+Nbr Place occup : 7
+Nbr Place libre : 61
+Place total : 68
+
+Nom Parking : 056 Albert 1er - Cathédrale
+Nbr Place occup : 2
+Nbr Place libre : 10
+Place total : 12
+
+Nom Parking : 057 Saint-Guilhem - Courreau
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 059 Sud De France
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Sat Jan 29 16:53:54 2022
+Nom Parking : 001 Rue Jules Ferry - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 12
+Place total : 12
+
+Nom Parking : 002 Comédie
+Nbr Place occup : 11
+Nbr Place libre : 13
+Place total : 24
+
+Nom Parking : 003 Esplanade
+Nbr Place occup : 1
+Nbr Place libre : 31
+Place total : 32
+
+Nom Parking : 004 Hôtel de Ville
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 005 Corum
+Nbr Place occup : 9
+Nbr Place libre : 3
+Place total : 12
+
+Nom Parking : 006 Place Albert 1er - St Charles
+Nbr Place occup : 9
+Nbr Place libre : 22
+Place total : 31
+
+Nom Parking : 007 Foch
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 008 Halles Castellane
+Nbr Place occup : 7
+Nbr Place libre : 5
+Place total : 12
+
+Nom Parking : 009 Observatoire
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 010 Rondelet
+Nbr Place occup : 12
+Nbr Place libre : 4
+Place total : 16
+
+Nom Parking : 011 Plan Cabanes
+Nbr Place occup : 3
+Nbr Place libre : 9
+Place total : 12
+
+Nom Parking : 012 Boutonnet
+Nbr Place occup : 3
+Nbr Place libre : 9
+Place total : 12
+
+Nom Parking : 013 Emile Combes
+Nbr Place occup : 8
+Nbr Place libre : 0
+Place total : 8
+
+Nom Parking : 014 Beaux-Arts
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 015 Les Aubes
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 016 Antigone centre
+Nbr Place occup : 4
+Nbr Place libre : 12
+Place total : 16
+
+Nom Parking : 017 Médiathèque Emile Zola
+Nbr Place occup : 2
+Nbr Place libre : 14
+Place total : 16
+
+Nom Parking : 018 Nombre d'Or
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 019 Louis Blanc
+Nbr Place occup : 8
+Nbr Place libre : 8
+Place total : 16
+
+Nom Parking : 020 Gambetta
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 021 Port Marianne
+Nbr Place occup : 0
+Nbr Place libre : 16
+Place total : 16
+
+Nom Parking : 022 Clemenceau
+Nbr Place occup : 5
+Nbr Place libre : 7
+Place total : 12
+
+Nom Parking : 023 Les Arceaux
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 024 Cité Mion
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 025 Nouveau Saint-Roch
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 026 Renouvier
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 027 Odysseum
+Nbr Place occup : 6
+Nbr Place libre : 2
+Place total : 8
+
+Nom Parking : 028 Saint-Denis
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 029 Richter
+Nbr Place occup : 4
+Nbr Place libre : 12
+Place total : 16
+
+Nom Parking : 030 Charles Flahault
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 031 Voltaire
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 032 Prés d'Arènes
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 033 Garcia Lorca
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 034 Vert Bois
+Nbr Place occup : 0
+Nbr Place libre : 16
+Place total : 16
+
+Nom Parking : 035 Malbosc
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 036 Occitanie
+Nbr Place occup : 3
+Nbr Place libre : 29
+Place total : 32
+
+Nom Parking : 037 FacdesSciences
+Nbr Place occup : 2
+Nbr Place libre : 22
+Place total : 24
+
+Nom Parking : 038 Fac de Lettres
+Nbr Place occup : 5
+Nbr Place libre : 11
+Place total : 16
+
+Nom Parking : 039 Aiguelongue
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 040 Jeu de Mail des Abbés
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 041 Euromédecine
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 042 Marie Caizergues
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 043 Sabines
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Nom Parking : 044 Celleneuve
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 045 Jardin de la Lironde
+Nbr Place occup : 6
+Nbr Place libre : 2
+Place total : 8
+
+Nom Parking : 046 Père Soulas
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Nom Parking : 047 Place Viala
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 048 Hôtel du Département
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 049 Tonnelles
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 050 Parvis Jules Ferry - Gare Saint-Roch
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 051 Pont de Lattes - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 12
+Place total : 12
+
+Nom Parking : 053 Deux Ponts - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 054 Providence - Ovalie
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 055 Pérols Etang de l'Or
+Nbr Place occup : 7
+Nbr Place libre : 61
+Place total : 68
+
+Nom Parking : 056 Albert 1er - Cathédrale
+Nbr Place occup : 2
+Nbr Place libre : 10
+Place total : 12
+
+Nom Parking : 057 Saint-Guilhem - Courreau
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 059 Sud De France
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Sat Jan 29 17:03:56 2022
+Nom Parking : 001 Rue Jules Ferry - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 12
+Place total : 12
+
+Nom Parking : 002 Comédie
+Nbr Place occup : 11
+Nbr Place libre : 13
+Place total : 24
+
+Nom Parking : 003 Esplanade
+Nbr Place occup : 1
+Nbr Place libre : 31
+Place total : 32
+
+Nom Parking : 004 Hôtel de Ville
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 005 Corum
+Nbr Place occup : 9
+Nbr Place libre : 3
+Place total : 12
+
+Nom Parking : 006 Place Albert 1er - St Charles
+Nbr Place occup : 9
+Nbr Place libre : 22
+Place total : 31
+
+Nom Parking : 007 Foch
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 008 Halles Castellane
+Nbr Place occup : 7
+Nbr Place libre : 5
+Place total : 12
+
+Nom Parking : 009 Observatoire
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 010 Rondelet
+Nbr Place occup : 12
+Nbr Place libre : 4
+Place total : 16
+
+Nom Parking : 011 Plan Cabanes
+Nbr Place occup : 3
+Nbr Place libre : 9
+Place total : 12
+
+Nom Parking : 012 Boutonnet
+Nbr Place occup : 3
+Nbr Place libre : 9
+Place total : 12
+
+Nom Parking : 013 Emile Combes
+Nbr Place occup : 8
+Nbr Place libre : 0
+Place total : 8
+
+Nom Parking : 014 Beaux-Arts
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 015 Les Aubes
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 016 Antigone centre
+Nbr Place occup : 4
+Nbr Place libre : 12
+Place total : 16
+
+Nom Parking : 017 Médiathèque Emile Zola
+Nbr Place occup : 2
+Nbr Place libre : 14
+Place total : 16
+
+Nom Parking : 018 Nombre d'Or
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 019 Louis Blanc
+Nbr Place occup : 8
+Nbr Place libre : 8
+Place total : 16
+
+Nom Parking : 020 Gambetta
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 021 Port Marianne
+Nbr Place occup : 0
+Nbr Place libre : 16
+Place total : 16
+
+Nom Parking : 022 Clemenceau
+Nbr Place occup : 5
+Nbr Place libre : 7
+Place total : 12
+
+Nom Parking : 023 Les Arceaux
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 024 Cité Mion
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 025 Nouveau Saint-Roch
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 026 Renouvier
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 027 Odysseum
+Nbr Place occup : 6
+Nbr Place libre : 2
+Place total : 8
+
+Nom Parking : 028 Saint-Denis
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 029 Richter
+Nbr Place occup : 4
+Nbr Place libre : 12
+Place total : 16
+
+Nom Parking : 030 Charles Flahault
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 031 Voltaire
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 032 Prés d'Arènes
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 033 Garcia Lorca
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 034 Vert Bois
+Nbr Place occup : 0
+Nbr Place libre : 16
+Place total : 16
+
+Nom Parking : 035 Malbosc
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 036 Occitanie
+Nbr Place occup : 3
+Nbr Place libre : 29
+Place total : 32
+
+Nom Parking : 037 FacdesSciences
+Nbr Place occup : 2
+Nbr Place libre : 22
+Place total : 24
+
+Nom Parking : 038 Fac de Lettres
+Nbr Place occup : 5
+Nbr Place libre : 11
+Place total : 16
+
+Nom Parking : 039 Aiguelongue
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 040 Jeu de Mail des Abbés
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 041 Euromédecine
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 042 Marie Caizergues
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 043 Sabines
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Nom Parking : 044 Celleneuve
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 045 Jardin de la Lironde
+Nbr Place occup : 6
+Nbr Place libre : 2
+Place total : 8
+
+Nom Parking : 046 Père Soulas
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Nom Parking : 047 Place Viala
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 048 Hôtel du Département
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 049 Tonnelles
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 050 Parvis Jules Ferry - Gare Saint-Roch
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 051 Pont de Lattes - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 12
+Place total : 12
+
+Nom Parking : 053 Deux Ponts - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 054 Providence - Ovalie
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 055 Pérols Etang de l'Or
+Nbr Place occup : 7
+Nbr Place libre : 61
+Place total : 68
+
+Nom Parking : 056 Albert 1er - Cathédrale
+Nbr Place occup : 2
+Nbr Place libre : 10
+Place total : 12
+
+Nom Parking : 057 Saint-Guilhem - Courreau
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 059 Sud De France
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Sat Jan 29 17:13:58 2022
+Nom Parking : 001 Rue Jules Ferry - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 12
+Place total : 12
+
+Nom Parking : 002 Comédie
+Nbr Place occup : 11
+Nbr Place libre : 13
+Place total : 24
+
+Nom Parking : 003 Esplanade
+Nbr Place occup : 1
+Nbr Place libre : 31
+Place total : 32
+
+Nom Parking : 004 Hôtel de Ville
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 005 Corum
+Nbr Place occup : 9
+Nbr Place libre : 3
+Place total : 12
+
+Nom Parking : 006 Place Albert 1er - St Charles
+Nbr Place occup : 9
+Nbr Place libre : 22
+Place total : 31
+
+Nom Parking : 007 Foch
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 008 Halles Castellane
+Nbr Place occup : 7
+Nbr Place libre : 5
+Place total : 12
+
+Nom Parking : 009 Observatoire
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 010 Rondelet
+Nbr Place occup : 12
+Nbr Place libre : 4
+Place total : 16
+
+Nom Parking : 011 Plan Cabanes
+Nbr Place occup : 3
+Nbr Place libre : 9
+Place total : 12
+
+Nom Parking : 012 Boutonnet
+Nbr Place occup : 3
+Nbr Place libre : 9
+Place total : 12
+
+Nom Parking : 013 Emile Combes
+Nbr Place occup : 8
+Nbr Place libre : 0
+Place total : 8
+
+Nom Parking : 014 Beaux-Arts
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 015 Les Aubes
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 016 Antigone centre
+Nbr Place occup : 4
+Nbr Place libre : 12
+Place total : 16
+
+Nom Parking : 017 Médiathèque Emile Zola
+Nbr Place occup : 2
+Nbr Place libre : 14
+Place total : 16
+
+Nom Parking : 018 Nombre d'Or
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 019 Louis Blanc
+Nbr Place occup : 8
+Nbr Place libre : 8
+Place total : 16
+
+Nom Parking : 020 Gambetta
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 021 Port Marianne
+Nbr Place occup : 0
+Nbr Place libre : 16
+Place total : 16
+
+Nom Parking : 022 Clemenceau
+Nbr Place occup : 5
+Nbr Place libre : 7
+Place total : 12
+
+Nom Parking : 023 Les Arceaux
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 024 Cité Mion
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 025 Nouveau Saint-Roch
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 026 Renouvier
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 027 Odysseum
+Nbr Place occup : 6
+Nbr Place libre : 2
+Place total : 8
+
+Nom Parking : 028 Saint-Denis
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 029 Richter
+Nbr Place occup : 4
+Nbr Place libre : 12
+Place total : 16
+
+Nom Parking : 030 Charles Flahault
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 031 Voltaire
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 032 Prés d'Arènes
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 033 Garcia Lorca
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 034 Vert Bois
+Nbr Place occup : 0
+Nbr Place libre : 16
+Place total : 16
+
+Nom Parking : 035 Malbosc
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 036 Occitanie
+Nbr Place occup : 3
+Nbr Place libre : 29
+Place total : 32
+
+Nom Parking : 037 FacdesSciences
+Nbr Place occup : 2
+Nbr Place libre : 22
+Place total : 24
+
+Nom Parking : 038 Fac de Lettres
+Nbr Place occup : 5
+Nbr Place libre : 11
+Place total : 16
+
+Nom Parking : 039 Aiguelongue
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 040 Jeu de Mail des Abbés
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 041 Euromédecine
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 042 Marie Caizergues
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 043 Sabines
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Nom Parking : 044 Celleneuve
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 045 Jardin de la Lironde
+Nbr Place occup : 6
+Nbr Place libre : 2
+Place total : 8
+
+Nom Parking : 046 Père Soulas
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Nom Parking : 047 Place Viala
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 048 Hôtel du Département
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 049 Tonnelles
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 050 Parvis Jules Ferry - Gare Saint-Roch
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 051 Pont de Lattes - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 12
+Place total : 12
+
+Nom Parking : 053 Deux Ponts - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 054 Providence - Ovalie
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 055 Pérols Etang de l'Or
+Nbr Place occup : 7
+Nbr Place libre : 61
+Place total : 68
+
+Nom Parking : 056 Albert 1er - Cathédrale
+Nbr Place occup : 2
+Nbr Place libre : 10
+Place total : 12
+
+Nom Parking : 057 Saint-Guilhem - Courreau
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 059 Sud De France
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Sat Jan 29 17:24:00 2022
+Nom Parking : 001 Rue Jules Ferry - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 12
+Place total : 12
+
+Nom Parking : 002 Comédie
+Nbr Place occup : 11
+Nbr Place libre : 13
+Place total : 24
+
+Nom Parking : 003 Esplanade
+Nbr Place occup : 1
+Nbr Place libre : 31
+Place total : 32
+
+Nom Parking : 004 Hôtel de Ville
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 005 Corum
+Nbr Place occup : 9
+Nbr Place libre : 3
+Place total : 12
+
+Nom Parking : 006 Place Albert 1er - St Charles
+Nbr Place occup : 9
+Nbr Place libre : 22
+Place total : 31
+
+Nom Parking : 007 Foch
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 008 Halles Castellane
+Nbr Place occup : 7
+Nbr Place libre : 5
+Place total : 12
+
+Nom Parking : 009 Observatoire
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 010 Rondelet
+Nbr Place occup : 12
+Nbr Place libre : 4
+Place total : 16
+
+Nom Parking : 011 Plan Cabanes
+Nbr Place occup : 3
+Nbr Place libre : 9
+Place total : 12
+
+Nom Parking : 012 Boutonnet
+Nbr Place occup : 3
+Nbr Place libre : 9
+Place total : 12
+
+Nom Parking : 013 Emile Combes
+Nbr Place occup : 8
+Nbr Place libre : 0
+Place total : 8
+
+Nom Parking : 014 Beaux-Arts
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 015 Les Aubes
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 016 Antigone centre
+Nbr Place occup : 4
+Nbr Place libre : 12
+Place total : 16
+
+Nom Parking : 017 Médiathèque Emile Zola
+Nbr Place occup : 2
+Nbr Place libre : 14
+Place total : 16
+
+Nom Parking : 018 Nombre d'Or
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 019 Louis Blanc
+Nbr Place occup : 8
+Nbr Place libre : 8
+Place total : 16
+
+Nom Parking : 020 Gambetta
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 021 Port Marianne
+Nbr Place occup : 0
+Nbr Place libre : 16
+Place total : 16
+
+Nom Parking : 022 Clemenceau
+Nbr Place occup : 5
+Nbr Place libre : 7
+Place total : 12
+
+Nom Parking : 023 Les Arceaux
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 024 Cité Mion
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 025 Nouveau Saint-Roch
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 026 Renouvier
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 027 Odysseum
+Nbr Place occup : 6
+Nbr Place libre : 2
+Place total : 8
+
+Nom Parking : 028 Saint-Denis
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 029 Richter
+Nbr Place occup : 4
+Nbr Place libre : 12
+Place total : 16
+
+Nom Parking : 030 Charles Flahault
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 031 Voltaire
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 032 Prés d'Arènes
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 033 Garcia Lorca
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 034 Vert Bois
+Nbr Place occup : 0
+Nbr Place libre : 16
+Place total : 16
+
+Nom Parking : 035 Malbosc
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 036 Occitanie
+Nbr Place occup : 3
+Nbr Place libre : 29
+Place total : 32
+
+Nom Parking : 037 FacdesSciences
+Nbr Place occup : 2
+Nbr Place libre : 22
+Place total : 24
+
+Nom Parking : 038 Fac de Lettres
+Nbr Place occup : 5
+Nbr Place libre : 11
+Place total : 16
+
+Nom Parking : 039 Aiguelongue
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 040 Jeu de Mail des Abbés
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 041 Euromédecine
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 042 Marie Caizergues
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 043 Sabines
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Nom Parking : 044 Celleneuve
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 045 Jardin de la Lironde
+Nbr Place occup : 6
+Nbr Place libre : 2
+Place total : 8
+
+Nom Parking : 046 Père Soulas
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Nom Parking : 047 Place Viala
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 048 Hôtel du Département
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 049 Tonnelles
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 050 Parvis Jules Ferry - Gare Saint-Roch
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 051 Pont de Lattes - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 12
+Place total : 12
+
+Nom Parking : 053 Deux Ponts - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 054 Providence - Ovalie
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 055 Pérols Etang de l'Or
+Nbr Place occup : 7
+Nbr Place libre : 61
+Place total : 68
+
+Nom Parking : 056 Albert 1er - Cathédrale
+Nbr Place occup : 2
+Nbr Place libre : 10
+Place total : 12
+
+Nom Parking : 057 Saint-Guilhem - Courreau
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 059 Sud De France
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Sat Jan 29 17:34:02 2022
+Nom Parking : 001 Rue Jules Ferry - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 12
+Place total : 12
+
+Nom Parking : 002 Comédie
+Nbr Place occup : 11
+Nbr Place libre : 13
+Place total : 24
+
+Nom Parking : 003 Esplanade
+Nbr Place occup : 1
+Nbr Place libre : 31
+Place total : 32
+
+Nom Parking : 004 Hôtel de Ville
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 005 Corum
+Nbr Place occup : 9
+Nbr Place libre : 3
+Place total : 12
+
+Nom Parking : 006 Place Albert 1er - St Charles
+Nbr Place occup : 9
+Nbr Place libre : 22
+Place total : 31
+
+Nom Parking : 007 Foch
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 008 Halles Castellane
+Nbr Place occup : 7
+Nbr Place libre : 5
+Place total : 12
+
+Nom Parking : 009 Observatoire
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 010 Rondelet
+Nbr Place occup : 12
+Nbr Place libre : 4
+Place total : 16
+
+Nom Parking : 011 Plan Cabanes
+Nbr Place occup : 3
+Nbr Place libre : 9
+Place total : 12
+
+Nom Parking : 012 Boutonnet
+Nbr Place occup : 3
+Nbr Place libre : 9
+Place total : 12
+
+Nom Parking : 013 Emile Combes
+Nbr Place occup : 8
+Nbr Place libre : 0
+Place total : 8
+
+Nom Parking : 014 Beaux-Arts
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 015 Les Aubes
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 016 Antigone centre
+Nbr Place occup : 4
+Nbr Place libre : 12
+Place total : 16
+
+Nom Parking : 017 Médiathèque Emile Zola
+Nbr Place occup : 2
+Nbr Place libre : 14
+Place total : 16
+
+Nom Parking : 018 Nombre d'Or
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 019 Louis Blanc
+Nbr Place occup : 8
+Nbr Place libre : 8
+Place total : 16
+
+Nom Parking : 020 Gambetta
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 021 Port Marianne
+Nbr Place occup : 0
+Nbr Place libre : 16
+Place total : 16
+
+Nom Parking : 022 Clemenceau
+Nbr Place occup : 5
+Nbr Place libre : 7
+Place total : 12
+
+Nom Parking : 023 Les Arceaux
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 024 Cité Mion
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 025 Nouveau Saint-Roch
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 026 Renouvier
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 027 Odysseum
+Nbr Place occup : 6
+Nbr Place libre : 2
+Place total : 8
+
+Nom Parking : 028 Saint-Denis
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 029 Richter
+Nbr Place occup : 4
+Nbr Place libre : 12
+Place total : 16
+
+Nom Parking : 030 Charles Flahault
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 031 Voltaire
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 032 Prés d'Arènes
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 033 Garcia Lorca
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 034 Vert Bois
+Nbr Place occup : 0
+Nbr Place libre : 16
+Place total : 16
+
+Nom Parking : 035 Malbosc
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 036 Occitanie
+Nbr Place occup : 3
+Nbr Place libre : 29
+Place total : 32
+
+Nom Parking : 037 FacdesSciences
+Nbr Place occup : 2
+Nbr Place libre : 22
+Place total : 24
+
+Nom Parking : 038 Fac de Lettres
+Nbr Place occup : 5
+Nbr Place libre : 11
+Place total : 16
+
+Nom Parking : 039 Aiguelongue
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 040 Jeu de Mail des Abbés
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 041 Euromédecine
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 042 Marie Caizergues
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 043 Sabines
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Nom Parking : 044 Celleneuve
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 045 Jardin de la Lironde
+Nbr Place occup : 6
+Nbr Place libre : 2
+Place total : 8
+
+Nom Parking : 046 Père Soulas
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Nom Parking : 047 Place Viala
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 048 Hôtel du Département
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 049 Tonnelles
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 050 Parvis Jules Ferry - Gare Saint-Roch
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 051 Pont de Lattes - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 12
+Place total : 12
+
+Nom Parking : 053 Deux Ponts - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 054 Providence - Ovalie
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 055 Pérols Etang de l'Or
+Nbr Place occup : 7
+Nbr Place libre : 61
+Place total : 68
+
+Nom Parking : 056 Albert 1er - Cathédrale
+Nbr Place occup : 2
+Nbr Place libre : 10
+Place total : 12
+
+Nom Parking : 057 Saint-Guilhem - Courreau
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 059 Sud De France
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Sat Jan 29 17:44:04 2022
+Nom Parking : 001 Rue Jules Ferry - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 12
+Place total : 12
+
+Nom Parking : 002 Comédie
+Nbr Place occup : 11
+Nbr Place libre : 13
+Place total : 24
+
+Nom Parking : 003 Esplanade
+Nbr Place occup : 1
+Nbr Place libre : 31
+Place total : 32
+
+Nom Parking : 004 Hôtel de Ville
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 005 Corum
+Nbr Place occup : 9
+Nbr Place libre : 3
+Place total : 12
+
+Nom Parking : 006 Place Albert 1er - St Charles
+Nbr Place occup : 9
+Nbr Place libre : 22
+Place total : 31
+
+Nom Parking : 007 Foch
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 008 Halles Castellane
+Nbr Place occup : 7
+Nbr Place libre : 5
+Place total : 12
+
+Nom Parking : 009 Observatoire
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 010 Rondelet
+Nbr Place occup : 12
+Nbr Place libre : 4
+Place total : 16
+
+Nom Parking : 011 Plan Cabanes
+Nbr Place occup : 3
+Nbr Place libre : 9
+Place total : 12
+
+Nom Parking : 012 Boutonnet
+Nbr Place occup : 3
+Nbr Place libre : 9
+Place total : 12
+
+Nom Parking : 013 Emile Combes
+Nbr Place occup : 8
+Nbr Place libre : 0
+Place total : 8
+
+Nom Parking : 014 Beaux-Arts
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 015 Les Aubes
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 016 Antigone centre
+Nbr Place occup : 4
+Nbr Place libre : 12
+Place total : 16
+
+Nom Parking : 017 Médiathèque Emile Zola
+Nbr Place occup : 2
+Nbr Place libre : 14
+Place total : 16
+
+Nom Parking : 018 Nombre d'Or
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 019 Louis Blanc
+Nbr Place occup : 8
+Nbr Place libre : 8
+Place total : 16
+
+Nom Parking : 020 Gambetta
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 021 Port Marianne
+Nbr Place occup : 0
+Nbr Place libre : 16
+Place total : 16
+
+Nom Parking : 022 Clemenceau
+Nbr Place occup : 5
+Nbr Place libre : 7
+Place total : 12
+
+Nom Parking : 023 Les Arceaux
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 024 Cité Mion
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 025 Nouveau Saint-Roch
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 026 Renouvier
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 027 Odysseum
+Nbr Place occup : 6
+Nbr Place libre : 2
+Place total : 8
+
+Nom Parking : 028 Saint-Denis
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 029 Richter
+Nbr Place occup : 4
+Nbr Place libre : 12
+Place total : 16
+
+Nom Parking : 030 Charles Flahault
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 031 Voltaire
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 032 Prés d'Arènes
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 033 Garcia Lorca
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 034 Vert Bois
+Nbr Place occup : 0
+Nbr Place libre : 16
+Place total : 16
+
+Nom Parking : 035 Malbosc
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 036 Occitanie
+Nbr Place occup : 3
+Nbr Place libre : 29
+Place total : 32
+
+Nom Parking : 037 FacdesSciences
+Nbr Place occup : 2
+Nbr Place libre : 22
+Place total : 24
+
+Nom Parking : 038 Fac de Lettres
+Nbr Place occup : 5
+Nbr Place libre : 11
+Place total : 16
+
+Nom Parking : 039 Aiguelongue
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 040 Jeu de Mail des Abbés
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 041 Euromédecine
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 042 Marie Caizergues
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 043 Sabines
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Nom Parking : 044 Celleneuve
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 045 Jardin de la Lironde
+Nbr Place occup : 6
+Nbr Place libre : 2
+Place total : 8
+
+Nom Parking : 046 Père Soulas
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Nom Parking : 047 Place Viala
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 048 Hôtel du Département
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 049 Tonnelles
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 050 Parvis Jules Ferry - Gare Saint-Roch
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 051 Pont de Lattes - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 12
+Place total : 12
+
+Nom Parking : 053 Deux Ponts - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 054 Providence - Ovalie
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 055 Pérols Etang de l'Or
+Nbr Place occup : 7
+Nbr Place libre : 61
+Place total : 68
+
+Nom Parking : 056 Albert 1er - Cathédrale
+Nbr Place occup : 2
+Nbr Place libre : 10
+Place total : 12
+
+Nom Parking : 057 Saint-Guilhem - Courreau
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 059 Sud De France
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Sat Jan 29 17:54:05 2022
+Nom Parking : 001 Rue Jules Ferry - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 12
+Place total : 12
+
+Nom Parking : 002 Comédie
+Nbr Place occup : 11
+Nbr Place libre : 13
+Place total : 24
+
+Nom Parking : 003 Esplanade
+Nbr Place occup : 1
+Nbr Place libre : 31
+Place total : 32
+
+Nom Parking : 004 Hôtel de Ville
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 005 Corum
+Nbr Place occup : 9
+Nbr Place libre : 3
+Place total : 12
+
+Nom Parking : 006 Place Albert 1er - St Charles
+Nbr Place occup : 9
+Nbr Place libre : 22
+Place total : 31
+
+Nom Parking : 007 Foch
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 008 Halles Castellane
+Nbr Place occup : 7
+Nbr Place libre : 5
+Place total : 12
+
+Nom Parking : 009 Observatoire
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 010 Rondelet
+Nbr Place occup : 12
+Nbr Place libre : 4
+Place total : 16
+
+Nom Parking : 011 Plan Cabanes
+Nbr Place occup : 3
+Nbr Place libre : 9
+Place total : 12
+
+Nom Parking : 012 Boutonnet
+Nbr Place occup : 3
+Nbr Place libre : 9
+Place total : 12
+
+Nom Parking : 013 Emile Combes
+Nbr Place occup : 8
+Nbr Place libre : 0
+Place total : 8
+
+Nom Parking : 014 Beaux-Arts
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 015 Les Aubes
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 016 Antigone centre
+Nbr Place occup : 4
+Nbr Place libre : 12
+Place total : 16
+
+Nom Parking : 017 Médiathèque Emile Zola
+Nbr Place occup : 2
+Nbr Place libre : 14
+Place total : 16
+
+Nom Parking : 018 Nombre d'Or
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 019 Louis Blanc
+Nbr Place occup : 8
+Nbr Place libre : 8
+Place total : 16
+
+Nom Parking : 020 Gambetta
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 021 Port Marianne
+Nbr Place occup : 0
+Nbr Place libre : 16
+Place total : 16
+
+Nom Parking : 022 Clemenceau
+Nbr Place occup : 5
+Nbr Place libre : 7
+Place total : 12
+
+Nom Parking : 023 Les Arceaux
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 024 Cité Mion
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 025 Nouveau Saint-Roch
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 026 Renouvier
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 027 Odysseum
+Nbr Place occup : 6
+Nbr Place libre : 2
+Place total : 8
+
+Nom Parking : 028 Saint-Denis
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 029 Richter
+Nbr Place occup : 4
+Nbr Place libre : 12
+Place total : 16
+
+Nom Parking : 030 Charles Flahault
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 031 Voltaire
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 032 Prés d'Arènes
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 033 Garcia Lorca
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 034 Vert Bois
+Nbr Place occup : 0
+Nbr Place libre : 16
+Place total : 16
+
+Nom Parking : 035 Malbosc
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 036 Occitanie
+Nbr Place occup : 3
+Nbr Place libre : 29
+Place total : 32
+
+Nom Parking : 037 FacdesSciences
+Nbr Place occup : 2
+Nbr Place libre : 22
+Place total : 24
+
+Nom Parking : 038 Fac de Lettres
+Nbr Place occup : 5
+Nbr Place libre : 11
+Place total : 16
+
+Nom Parking : 039 Aiguelongue
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 040 Jeu de Mail des Abbés
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 041 Euromédecine
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 042 Marie Caizergues
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 043 Sabines
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Nom Parking : 044 Celleneuve
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 045 Jardin de la Lironde
+Nbr Place occup : 6
+Nbr Place libre : 2
+Place total : 8
+
+Nom Parking : 046 Père Soulas
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Nom Parking : 047 Place Viala
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 048 Hôtel du Département
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 049 Tonnelles
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 050 Parvis Jules Ferry - Gare Saint-Roch
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 051 Pont de Lattes - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 12
+Place total : 12
+
+Nom Parking : 053 Deux Ponts - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 054 Providence - Ovalie
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 055 Pérols Etang de l'Or
+Nbr Place occup : 7
+Nbr Place libre : 61
+Place total : 68
+
+Nom Parking : 056 Albert 1er - Cathédrale
+Nbr Place occup : 2
+Nbr Place libre : 10
+Place total : 12
+
+Nom Parking : 057 Saint-Guilhem - Courreau
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 059 Sud De France
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Sat Jan 29 18:04:07 2022
+Nom Parking : 001 Rue Jules Ferry - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 12
+Place total : 12
+
+Nom Parking : 002 Comédie
+Nbr Place occup : 11
+Nbr Place libre : 13
+Place total : 24
+
+Nom Parking : 003 Esplanade
+Nbr Place occup : 1
+Nbr Place libre : 31
+Place total : 32
+
+Nom Parking : 004 Hôtel de Ville
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 005 Corum
+Nbr Place occup : 9
+Nbr Place libre : 3
+Place total : 12
+
+Nom Parking : 006 Place Albert 1er - St Charles
+Nbr Place occup : 9
+Nbr Place libre : 22
+Place total : 31
+
+Nom Parking : 007 Foch
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 008 Halles Castellane
+Nbr Place occup : 7
+Nbr Place libre : 5
+Place total : 12
+
+Nom Parking : 009 Observatoire
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 010 Rondelet
+Nbr Place occup : 12
+Nbr Place libre : 4
+Place total : 16
+
+Nom Parking : 011 Plan Cabanes
+Nbr Place occup : 3
+Nbr Place libre : 9
+Place total : 12
+
+Nom Parking : 012 Boutonnet
+Nbr Place occup : 3
+Nbr Place libre : 9
+Place total : 12
+
+Nom Parking : 013 Emile Combes
+Nbr Place occup : 8
+Nbr Place libre : 0
+Place total : 8
+
+Nom Parking : 014 Beaux-Arts
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 015 Les Aubes
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 016 Antigone centre
+Nbr Place occup : 4
+Nbr Place libre : 12
+Place total : 16
+
+Nom Parking : 017 Médiathèque Emile Zola
+Nbr Place occup : 2
+Nbr Place libre : 14
+Place total : 16
+
+Nom Parking : 018 Nombre d'Or
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 019 Louis Blanc
+Nbr Place occup : 8
+Nbr Place libre : 8
+Place total : 16
+
+Nom Parking : 020 Gambetta
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 021 Port Marianne
+Nbr Place occup : 0
+Nbr Place libre : 16
+Place total : 16
+
+Nom Parking : 022 Clemenceau
+Nbr Place occup : 5
+Nbr Place libre : 7
+Place total : 12
+
+Nom Parking : 023 Les Arceaux
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 024 Cité Mion
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 025 Nouveau Saint-Roch
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 026 Renouvier
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 027 Odysseum
+Nbr Place occup : 6
+Nbr Place libre : 2
+Place total : 8
+
+Nom Parking : 028 Saint-Denis
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 029 Richter
+Nbr Place occup : 4
+Nbr Place libre : 12
+Place total : 16
+
+Nom Parking : 030 Charles Flahault
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 031 Voltaire
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 032 Prés d'Arènes
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 033 Garcia Lorca
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 034 Vert Bois
+Nbr Place occup : 0
+Nbr Place libre : 16
+Place total : 16
+
+Nom Parking : 035 Malbosc
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 036 Occitanie
+Nbr Place occup : 3
+Nbr Place libre : 29
+Place total : 32
+
+Nom Parking : 037 FacdesSciences
+Nbr Place occup : 2
+Nbr Place libre : 22
+Place total : 24
+
+Nom Parking : 038 Fac de Lettres
+Nbr Place occup : 5
+Nbr Place libre : 11
+Place total : 16
+
+Nom Parking : 039 Aiguelongue
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 040 Jeu de Mail des Abbés
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 041 Euromédecine
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 042 Marie Caizergues
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 043 Sabines
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Nom Parking : 044 Celleneuve
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 045 Jardin de la Lironde
+Nbr Place occup : 6
+Nbr Place libre : 2
+Place total : 8
+
+Nom Parking : 046 Père Soulas
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Nom Parking : 047 Place Viala
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 048 Hôtel du Département
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 049 Tonnelles
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 050 Parvis Jules Ferry - Gare Saint-Roch
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 051 Pont de Lattes - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 12
+Place total : 12
+
+Nom Parking : 053 Deux Ponts - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 054 Providence - Ovalie
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 055 Pérols Etang de l'Or
+Nbr Place occup : 7
+Nbr Place libre : 61
+Place total : 68
+
+Nom Parking : 056 Albert 1er - Cathédrale
+Nbr Place occup : 2
+Nbr Place libre : 10
+Place total : 12
+
+Nom Parking : 057 Saint-Guilhem - Courreau
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 059 Sud De France
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Sat Jan 29 18:14:09 2022
+Nom Parking : 001 Rue Jules Ferry - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 12
+Place total : 12
+
+Nom Parking : 002 Comédie
+Nbr Place occup : 11
+Nbr Place libre : 13
+Place total : 24
+
+Nom Parking : 003 Esplanade
+Nbr Place occup : 1
+Nbr Place libre : 31
+Place total : 32
+
+Nom Parking : 004 Hôtel de Ville
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 005 Corum
+Nbr Place occup : 9
+Nbr Place libre : 3
+Place total : 12
+
+Nom Parking : 006 Place Albert 1er - St Charles
+Nbr Place occup : 9
+Nbr Place libre : 22
+Place total : 31
+
+Nom Parking : 007 Foch
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 008 Halles Castellane
+Nbr Place occup : 7
+Nbr Place libre : 5
+Place total : 12
+
+Nom Parking : 009 Observatoire
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 010 Rondelet
+Nbr Place occup : 12
+Nbr Place libre : 4
+Place total : 16
+
+Nom Parking : 011 Plan Cabanes
+Nbr Place occup : 3
+Nbr Place libre : 9
+Place total : 12
+
+Nom Parking : 012 Boutonnet
+Nbr Place occup : 3
+Nbr Place libre : 9
+Place total : 12
+
+Nom Parking : 013 Emile Combes
+Nbr Place occup : 8
+Nbr Place libre : 0
+Place total : 8
+
+Nom Parking : 014 Beaux-Arts
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 015 Les Aubes
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 016 Antigone centre
+Nbr Place occup : 4
+Nbr Place libre : 12
+Place total : 16
+
+Nom Parking : 017 Médiathèque Emile Zola
+Nbr Place occup : 2
+Nbr Place libre : 14
+Place total : 16
+
+Nom Parking : 018 Nombre d'Or
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 019 Louis Blanc
+Nbr Place occup : 8
+Nbr Place libre : 8
+Place total : 16
+
+Nom Parking : 020 Gambetta
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 021 Port Marianne
+Nbr Place occup : 0
+Nbr Place libre : 16
+Place total : 16
+
+Nom Parking : 022 Clemenceau
+Nbr Place occup : 5
+Nbr Place libre : 7
+Place total : 12
+
+Nom Parking : 023 Les Arceaux
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 024 Cité Mion
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 025 Nouveau Saint-Roch
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 026 Renouvier
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 027 Odysseum
+Nbr Place occup : 6
+Nbr Place libre : 2
+Place total : 8
+
+Nom Parking : 028 Saint-Denis
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 029 Richter
+Nbr Place occup : 4
+Nbr Place libre : 12
+Place total : 16
+
+Nom Parking : 030 Charles Flahault
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 031 Voltaire
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 032 Prés d'Arènes
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 033 Garcia Lorca
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 034 Vert Bois
+Nbr Place occup : 0
+Nbr Place libre : 16
+Place total : 16
+
+Nom Parking : 035 Malbosc
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 036 Occitanie
+Nbr Place occup : 3
+Nbr Place libre : 29
+Place total : 32
+
+Nom Parking : 037 FacdesSciences
+Nbr Place occup : 2
+Nbr Place libre : 22
+Place total : 24
+
+Nom Parking : 038 Fac de Lettres
+Nbr Place occup : 5
+Nbr Place libre : 11
+Place total : 16
+
+Nom Parking : 039 Aiguelongue
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 040 Jeu de Mail des Abbés
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 041 Euromédecine
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 042 Marie Caizergues
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 043 Sabines
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Nom Parking : 044 Celleneuve
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 045 Jardin de la Lironde
+Nbr Place occup : 6
+Nbr Place libre : 2
+Place total : 8
+
+Nom Parking : 046 Père Soulas
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Nom Parking : 047 Place Viala
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 048 Hôtel du Département
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 049 Tonnelles
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 050 Parvis Jules Ferry - Gare Saint-Roch
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 051 Pont de Lattes - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 12
+Place total : 12
+
+Nom Parking : 053 Deux Ponts - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 054 Providence - Ovalie
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 055 Pérols Etang de l'Or
+Nbr Place occup : 7
+Nbr Place libre : 61
+Place total : 68
+
+Nom Parking : 056 Albert 1er - Cathédrale
+Nbr Place occup : 2
+Nbr Place libre : 10
+Place total : 12
+
+Nom Parking : 057 Saint-Guilhem - Courreau
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 059 Sud De France
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Sat Jan 29 18:24:13 2022
+Nom Parking : 001 Rue Jules Ferry - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 12
+Place total : 12
+
+Nom Parking : 002 Comédie
+Nbr Place occup : 11
+Nbr Place libre : 13
+Place total : 24
+
+Nom Parking : 003 Esplanade
+Nbr Place occup : 1
+Nbr Place libre : 31
+Place total : 32
+
+Nom Parking : 004 Hôtel de Ville
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 005 Corum
+Nbr Place occup : 9
+Nbr Place libre : 3
+Place total : 12
+
+Nom Parking : 006 Place Albert 1er - St Charles
+Nbr Place occup : 9
+Nbr Place libre : 22
+Place total : 31
+
+Nom Parking : 007 Foch
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 008 Halles Castellane
+Nbr Place occup : 7
+Nbr Place libre : 5
+Place total : 12
+
+Nom Parking : 009 Observatoire
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 010 Rondelet
+Nbr Place occup : 12
+Nbr Place libre : 4
+Place total : 16
+
+Nom Parking : 011 Plan Cabanes
+Nbr Place occup : 3
+Nbr Place libre : 9
+Place total : 12
+
+Nom Parking : 012 Boutonnet
+Nbr Place occup : 3
+Nbr Place libre : 9
+Place total : 12
+
+Nom Parking : 013 Emile Combes
+Nbr Place occup : 8
+Nbr Place libre : 0
+Place total : 8
+
+Nom Parking : 014 Beaux-Arts
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 015 Les Aubes
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 016 Antigone centre
+Nbr Place occup : 4
+Nbr Place libre : 12
+Place total : 16
+
+Nom Parking : 017 Médiathèque Emile Zola
+Nbr Place occup : 2
+Nbr Place libre : 14
+Place total : 16
+
+Nom Parking : 018 Nombre d'Or
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 019 Louis Blanc
+Nbr Place occup : 8
+Nbr Place libre : 8
+Place total : 16
+
+Nom Parking : 020 Gambetta
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 021 Port Marianne
+Nbr Place occup : 0
+Nbr Place libre : 16
+Place total : 16
+
+Nom Parking : 022 Clemenceau
+Nbr Place occup : 5
+Nbr Place libre : 7
+Place total : 12
+
+Nom Parking : 023 Les Arceaux
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 024 Cité Mion
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 025 Nouveau Saint-Roch
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 026 Renouvier
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 027 Odysseum
+Nbr Place occup : 6
+Nbr Place libre : 2
+Place total : 8
+
+Nom Parking : 028 Saint-Denis
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 029 Richter
+Nbr Place occup : 4
+Nbr Place libre : 12
+Place total : 16
+
+Nom Parking : 030 Charles Flahault
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 031 Voltaire
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 032 Prés d'Arènes
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 033 Garcia Lorca
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 034 Vert Bois
+Nbr Place occup : 0
+Nbr Place libre : 16
+Place total : 16
+
+Nom Parking : 035 Malbosc
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 036 Occitanie
+Nbr Place occup : 3
+Nbr Place libre : 29
+Place total : 32
+
+Nom Parking : 037 FacdesSciences
+Nbr Place occup : 2
+Nbr Place libre : 22
+Place total : 24
+
+Nom Parking : 038 Fac de Lettres
+Nbr Place occup : 5
+Nbr Place libre : 11
+Place total : 16
+
+Nom Parking : 039 Aiguelongue
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 040 Jeu de Mail des Abbés
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 041 Euromédecine
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 042 Marie Caizergues
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 043 Sabines
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Nom Parking : 044 Celleneuve
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 045 Jardin de la Lironde
+Nbr Place occup : 6
+Nbr Place libre : 2
+Place total : 8
+
+Nom Parking : 046 Père Soulas
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Nom Parking : 047 Place Viala
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 048 Hôtel du Département
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 049 Tonnelles
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 050 Parvis Jules Ferry - Gare Saint-Roch
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 051 Pont de Lattes - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 12
+Place total : 12
+
+Nom Parking : 053 Deux Ponts - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 054 Providence - Ovalie
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 055 Pérols Etang de l'Or
+Nbr Place occup : 7
+Nbr Place libre : 61
+Place total : 68
+
+Nom Parking : 056 Albert 1er - Cathédrale
+Nbr Place occup : 2
+Nbr Place libre : 10
+Place total : 12
+
+Nom Parking : 057 Saint-Guilhem - Courreau
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 059 Sud De France
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Sat Jan 29 18:34:15 2022
+Nom Parking : 001 Rue Jules Ferry - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 12
+Place total : 12
+
+Nom Parking : 002 Comédie
+Nbr Place occup : 11
+Nbr Place libre : 13
+Place total : 24
+
+Nom Parking : 003 Esplanade
+Nbr Place occup : 1
+Nbr Place libre : 31
+Place total : 32
+
+Nom Parking : 004 Hôtel de Ville
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 005 Corum
+Nbr Place occup : 9
+Nbr Place libre : 3
+Place total : 12
+
+Nom Parking : 006 Place Albert 1er - St Charles
+Nbr Place occup : 9
+Nbr Place libre : 22
+Place total : 31
+
+Nom Parking : 007 Foch
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 008 Halles Castellane
+Nbr Place occup : 7
+Nbr Place libre : 5
+Place total : 12
+
+Nom Parking : 009 Observatoire
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 010 Rondelet
+Nbr Place occup : 12
+Nbr Place libre : 4
+Place total : 16
+
+Nom Parking : 011 Plan Cabanes
+Nbr Place occup : 3
+Nbr Place libre : 9
+Place total : 12
+
+Nom Parking : 012 Boutonnet
+Nbr Place occup : 3
+Nbr Place libre : 9
+Place total : 12
+
+Nom Parking : 013 Emile Combes
+Nbr Place occup : 8
+Nbr Place libre : 0
+Place total : 8
+
+Nom Parking : 014 Beaux-Arts
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 015 Les Aubes
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 016 Antigone centre
+Nbr Place occup : 4
+Nbr Place libre : 12
+Place total : 16
+
+Nom Parking : 017 Médiathèque Emile Zola
+Nbr Place occup : 2
+Nbr Place libre : 14
+Place total : 16
+
+Nom Parking : 018 Nombre d'Or
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 019 Louis Blanc
+Nbr Place occup : 8
+Nbr Place libre : 8
+Place total : 16
+
+Nom Parking : 020 Gambetta
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 021 Port Marianne
+Nbr Place occup : 0
+Nbr Place libre : 16
+Place total : 16
+
+Nom Parking : 022 Clemenceau
+Nbr Place occup : 5
+Nbr Place libre : 7
+Place total : 12
+
+Nom Parking : 023 Les Arceaux
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 024 Cité Mion
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 025 Nouveau Saint-Roch
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 026 Renouvier
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 027 Odysseum
+Nbr Place occup : 6
+Nbr Place libre : 2
+Place total : 8
+
+Nom Parking : 028 Saint-Denis
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 029 Richter
+Nbr Place occup : 4
+Nbr Place libre : 12
+Place total : 16
+
+Nom Parking : 030 Charles Flahault
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 031 Voltaire
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 032 Prés d'Arènes
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 033 Garcia Lorca
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 034 Vert Bois
+Nbr Place occup : 0
+Nbr Place libre : 16
+Place total : 16
+
+Nom Parking : 035 Malbosc
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 036 Occitanie
+Nbr Place occup : 3
+Nbr Place libre : 29
+Place total : 32
+
+Nom Parking : 037 FacdesSciences
+Nbr Place occup : 2
+Nbr Place libre : 22
+Place total : 24
+
+Nom Parking : 038 Fac de Lettres
+Nbr Place occup : 5
+Nbr Place libre : 11
+Place total : 16
+
+Nom Parking : 039 Aiguelongue
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 040 Jeu de Mail des Abbés
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 041 Euromédecine
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 042 Marie Caizergues
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 043 Sabines
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Nom Parking : 044 Celleneuve
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 045 Jardin de la Lironde
+Nbr Place occup : 6
+Nbr Place libre : 2
+Place total : 8
+
+Nom Parking : 046 Père Soulas
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Nom Parking : 047 Place Viala
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 048 Hôtel du Département
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 049 Tonnelles
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 050 Parvis Jules Ferry - Gare Saint-Roch
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 051 Pont de Lattes - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 12
+Place total : 12
+
+Nom Parking : 053 Deux Ponts - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 054 Providence - Ovalie
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 055 Pérols Etang de l'Or
+Nbr Place occup : 7
+Nbr Place libre : 61
+Place total : 68
+
+Nom Parking : 056 Albert 1er - Cathédrale
+Nbr Place occup : 2
+Nbr Place libre : 10
+Place total : 12
+
+Nom Parking : 057 Saint-Guilhem - Courreau
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 059 Sud De France
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Sat Jan 29 18:44:22 2022
+Nom Parking : 001 Rue Jules Ferry - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 12
+Place total : 12
+
+Nom Parking : 002 Comédie
+Nbr Place occup : 11
+Nbr Place libre : 13
+Place total : 24
+
+Nom Parking : 003 Esplanade
+Nbr Place occup : 1
+Nbr Place libre : 31
+Place total : 32
+
+Nom Parking : 004 Hôtel de Ville
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 005 Corum
+Nbr Place occup : 9
+Nbr Place libre : 3
+Place total : 12
+
+Nom Parking : 006 Place Albert 1er - St Charles
+Nbr Place occup : 9
+Nbr Place libre : 22
+Place total : 31
+
+Nom Parking : 007 Foch
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 008 Halles Castellane
+Nbr Place occup : 7
+Nbr Place libre : 5
+Place total : 12
+
+Nom Parking : 009 Observatoire
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 010 Rondelet
+Nbr Place occup : 12
+Nbr Place libre : 4
+Place total : 16
+
+Nom Parking : 011 Plan Cabanes
+Nbr Place occup : 3
+Nbr Place libre : 9
+Place total : 12
+
+Nom Parking : 012 Boutonnet
+Nbr Place occup : 3
+Nbr Place libre : 9
+Place total : 12
+
+Nom Parking : 013 Emile Combes
+Nbr Place occup : 8
+Nbr Place libre : 0
+Place total : 8
+
+Nom Parking : 014 Beaux-Arts
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 015 Les Aubes
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 016 Antigone centre
+Nbr Place occup : 4
+Nbr Place libre : 12
+Place total : 16
+
+Nom Parking : 017 Médiathèque Emile Zola
+Nbr Place occup : 2
+Nbr Place libre : 14
+Place total : 16
+
+Nom Parking : 018 Nombre d'Or
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 019 Louis Blanc
+Nbr Place occup : 8
+Nbr Place libre : 8
+Place total : 16
+
+Nom Parking : 020 Gambetta
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 021 Port Marianne
+Nbr Place occup : 0
+Nbr Place libre : 16
+Place total : 16
+
+Nom Parking : 022 Clemenceau
+Nbr Place occup : 5
+Nbr Place libre : 7
+Place total : 12
+
+Nom Parking : 023 Les Arceaux
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 024 Cité Mion
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 025 Nouveau Saint-Roch
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 026 Renouvier
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 027 Odysseum
+Nbr Place occup : 6
+Nbr Place libre : 2
+Place total : 8
+
+Nom Parking : 028 Saint-Denis
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 029 Richter
+Nbr Place occup : 4
+Nbr Place libre : 12
+Place total : 16
+
+Nom Parking : 030 Charles Flahault
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 031 Voltaire
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 032 Prés d'Arènes
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 033 Garcia Lorca
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 034 Vert Bois
+Nbr Place occup : 0
+Nbr Place libre : 16
+Place total : 16
+
+Nom Parking : 035 Malbosc
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 036 Occitanie
+Nbr Place occup : 3
+Nbr Place libre : 29
+Place total : 32
+
+Nom Parking : 037 FacdesSciences
+Nbr Place occup : 2
+Nbr Place libre : 22
+Place total : 24
+
+Nom Parking : 038 Fac de Lettres
+Nbr Place occup : 5
+Nbr Place libre : 11
+Place total : 16
+
+Nom Parking : 039 Aiguelongue
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 040 Jeu de Mail des Abbés
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 041 Euromédecine
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 042 Marie Caizergues
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 043 Sabines
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Nom Parking : 044 Celleneuve
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 045 Jardin de la Lironde
+Nbr Place occup : 6
+Nbr Place libre : 2
+Place total : 8
+
+Nom Parking : 046 Père Soulas
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Nom Parking : 047 Place Viala
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 048 Hôtel du Département
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 049 Tonnelles
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 050 Parvis Jules Ferry - Gare Saint-Roch
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 051 Pont de Lattes - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 12
+Place total : 12
+
+Nom Parking : 053 Deux Ponts - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 054 Providence - Ovalie
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 055 Pérols Etang de l'Or
+Nbr Place occup : 7
+Nbr Place libre : 61
+Place total : 68
+
+Nom Parking : 056 Albert 1er - Cathédrale
+Nbr Place occup : 2
+Nbr Place libre : 10
+Place total : 12
+
+Nom Parking : 057 Saint-Guilhem - Courreau
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 059 Sud De France
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Sat Jan 29 18:54:25 2022
+Nom Parking : 001 Rue Jules Ferry - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 12
+Place total : 12
+
+Nom Parking : 002 Comédie
+Nbr Place occup : 11
+Nbr Place libre : 13
+Place total : 24
+
+Nom Parking : 003 Esplanade
+Nbr Place occup : 1
+Nbr Place libre : 31
+Place total : 32
+
+Nom Parking : 004 Hôtel de Ville
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 005 Corum
+Nbr Place occup : 9
+Nbr Place libre : 3
+Place total : 12
+
+Nom Parking : 006 Place Albert 1er - St Charles
+Nbr Place occup : 9
+Nbr Place libre : 22
+Place total : 31
+
+Nom Parking : 007 Foch
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 008 Halles Castellane
+Nbr Place occup : 7
+Nbr Place libre : 5
+Place total : 12
+
+Nom Parking : 009 Observatoire
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 010 Rondelet
+Nbr Place occup : 12
+Nbr Place libre : 4
+Place total : 16
+
+Nom Parking : 011 Plan Cabanes
+Nbr Place occup : 3
+Nbr Place libre : 9
+Place total : 12
+
+Nom Parking : 012 Boutonnet
+Nbr Place occup : 3
+Nbr Place libre : 9
+Place total : 12
+
+Nom Parking : 013 Emile Combes
+Nbr Place occup : 8
+Nbr Place libre : 0
+Place total : 8
+
+Nom Parking : 014 Beaux-Arts
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 015 Les Aubes
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 016 Antigone centre
+Nbr Place occup : 4
+Nbr Place libre : 12
+Place total : 16
+
+Nom Parking : 017 Médiathèque Emile Zola
+Nbr Place occup : 2
+Nbr Place libre : 14
+Place total : 16
+
+Nom Parking : 018 Nombre d'Or
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 019 Louis Blanc
+Nbr Place occup : 8
+Nbr Place libre : 8
+Place total : 16
+
+Nom Parking : 020 Gambetta
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 021 Port Marianne
+Nbr Place occup : 0
+Nbr Place libre : 16
+Place total : 16
+
+Nom Parking : 022 Clemenceau
+Nbr Place occup : 5
+Nbr Place libre : 7
+Place total : 12
+
+Nom Parking : 023 Les Arceaux
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 024 Cité Mion
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 025 Nouveau Saint-Roch
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 026 Renouvier
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 027 Odysseum
+Nbr Place occup : 6
+Nbr Place libre : 2
+Place total : 8
+
+Nom Parking : 028 Saint-Denis
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 029 Richter
+Nbr Place occup : 4
+Nbr Place libre : 12
+Place total : 16
+
+Nom Parking : 030 Charles Flahault
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 031 Voltaire
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 032 Prés d'Arènes
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 033 Garcia Lorca
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 034 Vert Bois
+Nbr Place occup : 0
+Nbr Place libre : 16
+Place total : 16
+
+Nom Parking : 035 Malbosc
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 036 Occitanie
+Nbr Place occup : 3
+Nbr Place libre : 29
+Place total : 32
+
+Nom Parking : 037 FacdesSciences
+Nbr Place occup : 2
+Nbr Place libre : 22
+Place total : 24
+
+Nom Parking : 038 Fac de Lettres
+Nbr Place occup : 5
+Nbr Place libre : 11
+Place total : 16
+
+Nom Parking : 039 Aiguelongue
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 040 Jeu de Mail des Abbés
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 041 Euromédecine
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 042 Marie Caizergues
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 043 Sabines
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Nom Parking : 044 Celleneuve
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 045 Jardin de la Lironde
+Nbr Place occup : 6
+Nbr Place libre : 2
+Place total : 8
+
+Nom Parking : 046 Père Soulas
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Nom Parking : 047 Place Viala
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 048 Hôtel du Département
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 049 Tonnelles
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 050 Parvis Jules Ferry - Gare Saint-Roch
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 051 Pont de Lattes - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 12
+Place total : 12
+
+Nom Parking : 053 Deux Ponts - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 054 Providence - Ovalie
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 055 Pérols Etang de l'Or
+Nbr Place occup : 7
+Nbr Place libre : 61
+Place total : 68
+
+Nom Parking : 056 Albert 1er - Cathédrale
+Nbr Place occup : 2
+Nbr Place libre : 10
+Place total : 12
+
+Nom Parking : 057 Saint-Guilhem - Courreau
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 059 Sud De France
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Sat Jan 29 19:04:26 2022
+Nom Parking : 001 Rue Jules Ferry - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 12
+Place total : 12
+
+Nom Parking : 002 Comédie
+Nbr Place occup : 11
+Nbr Place libre : 13
+Place total : 24
+
+Nom Parking : 003 Esplanade
+Nbr Place occup : 1
+Nbr Place libre : 31
+Place total : 32
+
+Nom Parking : 004 Hôtel de Ville
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 005 Corum
+Nbr Place occup : 9
+Nbr Place libre : 3
+Place total : 12
+
+Nom Parking : 006 Place Albert 1er - St Charles
+Nbr Place occup : 9
+Nbr Place libre : 22
+Place total : 31
+
+Nom Parking : 007 Foch
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 008 Halles Castellane
+Nbr Place occup : 7
+Nbr Place libre : 5
+Place total : 12
+
+Nom Parking : 009 Observatoire
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 010 Rondelet
+Nbr Place occup : 12
+Nbr Place libre : 4
+Place total : 16
+
+Nom Parking : 011 Plan Cabanes
+Nbr Place occup : 3
+Nbr Place libre : 9
+Place total : 12
+
+Nom Parking : 012 Boutonnet
+Nbr Place occup : 3
+Nbr Place libre : 9
+Place total : 12
+
+Nom Parking : 013 Emile Combes
+Nbr Place occup : 8
+Nbr Place libre : 0
+Place total : 8
+
+Nom Parking : 014 Beaux-Arts
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 015 Les Aubes
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 016 Antigone centre
+Nbr Place occup : 4
+Nbr Place libre : 12
+Place total : 16
+
+Nom Parking : 017 Médiathèque Emile Zola
+Nbr Place occup : 2
+Nbr Place libre : 14
+Place total : 16
+
+Nom Parking : 018 Nombre d'Or
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 019 Louis Blanc
+Nbr Place occup : 8
+Nbr Place libre : 8
+Place total : 16
+
+Nom Parking : 020 Gambetta
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 021 Port Marianne
+Nbr Place occup : 0
+Nbr Place libre : 16
+Place total : 16
+
+Nom Parking : 022 Clemenceau
+Nbr Place occup : 5
+Nbr Place libre : 7
+Place total : 12
+
+Nom Parking : 023 Les Arceaux
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 024 Cité Mion
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 025 Nouveau Saint-Roch
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 026 Renouvier
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 027 Odysseum
+Nbr Place occup : 6
+Nbr Place libre : 2
+Place total : 8
+
+Nom Parking : 028 Saint-Denis
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 029 Richter
+Nbr Place occup : 4
+Nbr Place libre : 12
+Place total : 16
+
+Nom Parking : 030 Charles Flahault
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 031 Voltaire
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 032 Prés d'Arènes
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 033 Garcia Lorca
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 034 Vert Bois
+Nbr Place occup : 0
+Nbr Place libre : 16
+Place total : 16
+
+Nom Parking : 035 Malbosc
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 036 Occitanie
+Nbr Place occup : 3
+Nbr Place libre : 29
+Place total : 32
+
+Nom Parking : 037 FacdesSciences
+Nbr Place occup : 2
+Nbr Place libre : 22
+Place total : 24
+
+Nom Parking : 038 Fac de Lettres
+Nbr Place occup : 5
+Nbr Place libre : 11
+Place total : 16
+
+Nom Parking : 039 Aiguelongue
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 040 Jeu de Mail des Abbés
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 041 Euromédecine
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 042 Marie Caizergues
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 043 Sabines
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Nom Parking : 044 Celleneuve
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 045 Jardin de la Lironde
+Nbr Place occup : 6
+Nbr Place libre : 2
+Place total : 8
+
+Nom Parking : 046 Père Soulas
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Nom Parking : 047 Place Viala
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 048 Hôtel du Département
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 049 Tonnelles
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 050 Parvis Jules Ferry - Gare Saint-Roch
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 051 Pont de Lattes - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 12
+Place total : 12
+
+Nom Parking : 053 Deux Ponts - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 054 Providence - Ovalie
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 055 Pérols Etang de l'Or
+Nbr Place occup : 7
+Nbr Place libre : 61
+Place total : 68
+
+Nom Parking : 056 Albert 1er - Cathédrale
+Nbr Place occup : 2
+Nbr Place libre : 10
+Place total : 12
+
+Nom Parking : 057 Saint-Guilhem - Courreau
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 059 Sud De France
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Sat Jan 29 19:14:29 2022
+Nom Parking : 001 Rue Jules Ferry - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 12
+Place total : 12
+
+Nom Parking : 002 Comédie
+Nbr Place occup : 11
+Nbr Place libre : 13
+Place total : 24
+
+Nom Parking : 003 Esplanade
+Nbr Place occup : 1
+Nbr Place libre : 31
+Place total : 32
+
+Nom Parking : 004 Hôtel de Ville
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 005 Corum
+Nbr Place occup : 9
+Nbr Place libre : 3
+Place total : 12
+
+Nom Parking : 006 Place Albert 1er - St Charles
+Nbr Place occup : 9
+Nbr Place libre : 22
+Place total : 31
+
+Nom Parking : 007 Foch
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 008 Halles Castellane
+Nbr Place occup : 7
+Nbr Place libre : 5
+Place total : 12
+
+Nom Parking : 009 Observatoire
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 010 Rondelet
+Nbr Place occup : 12
+Nbr Place libre : 4
+Place total : 16
+
+Nom Parking : 011 Plan Cabanes
+Nbr Place occup : 3
+Nbr Place libre : 9
+Place total : 12
+
+Nom Parking : 012 Boutonnet
+Nbr Place occup : 3
+Nbr Place libre : 9
+Place total : 12
+
+Nom Parking : 013 Emile Combes
+Nbr Place occup : 8
+Nbr Place libre : 0
+Place total : 8
+
+Nom Parking : 014 Beaux-Arts
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 015 Les Aubes
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 016 Antigone centre
+Nbr Place occup : 4
+Nbr Place libre : 12
+Place total : 16
+
+Nom Parking : 017 Médiathèque Emile Zola
+Nbr Place occup : 2
+Nbr Place libre : 14
+Place total : 16
+
+Nom Parking : 018 Nombre d'Or
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 019 Louis Blanc
+Nbr Place occup : 8
+Nbr Place libre : 8
+Place total : 16
+
+Nom Parking : 020 Gambetta
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 021 Port Marianne
+Nbr Place occup : 0
+Nbr Place libre : 16
+Place total : 16
+
+Nom Parking : 022 Clemenceau
+Nbr Place occup : 5
+Nbr Place libre : 7
+Place total : 12
+
+Nom Parking : 023 Les Arceaux
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 024 Cité Mion
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 025 Nouveau Saint-Roch
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 026 Renouvier
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 027 Odysseum
+Nbr Place occup : 6
+Nbr Place libre : 2
+Place total : 8
+
+Nom Parking : 028 Saint-Denis
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 029 Richter
+Nbr Place occup : 4
+Nbr Place libre : 12
+Place total : 16
+
+Nom Parking : 030 Charles Flahault
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 031 Voltaire
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 032 Prés d'Arènes
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 033 Garcia Lorca
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 034 Vert Bois
+Nbr Place occup : 0
+Nbr Place libre : 16
+Place total : 16
+
+Nom Parking : 035 Malbosc
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 036 Occitanie
+Nbr Place occup : 3
+Nbr Place libre : 29
+Place total : 32
+
+Nom Parking : 037 FacdesSciences
+Nbr Place occup : 2
+Nbr Place libre : 22
+Place total : 24
+
+Nom Parking : 038 Fac de Lettres
+Nbr Place occup : 5
+Nbr Place libre : 11
+Place total : 16
+
+Nom Parking : 039 Aiguelongue
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 040 Jeu de Mail des Abbés
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 041 Euromédecine
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 042 Marie Caizergues
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 043 Sabines
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Nom Parking : 044 Celleneuve
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 045 Jardin de la Lironde
+Nbr Place occup : 6
+Nbr Place libre : 2
+Place total : 8
+
+Nom Parking : 046 Père Soulas
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Nom Parking : 047 Place Viala
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 048 Hôtel du Département
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 049 Tonnelles
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 050 Parvis Jules Ferry - Gare Saint-Roch
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 051 Pont de Lattes - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 12
+Place total : 12
+
+Nom Parking : 053 Deux Ponts - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 054 Providence - Ovalie
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 055 Pérols Etang de l'Or
+Nbr Place occup : 7
+Nbr Place libre : 61
+Place total : 68
+
+Nom Parking : 056 Albert 1er - Cathédrale
+Nbr Place occup : 2
+Nbr Place libre : 10
+Place total : 12
+
+Nom Parking : 057 Saint-Guilhem - Courreau
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 059 Sud De France
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Sat Jan 29 19:24:31 2022
+Nom Parking : 001 Rue Jules Ferry - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 12
+Place total : 12
+
+Nom Parking : 002 Comédie
+Nbr Place occup : 11
+Nbr Place libre : 13
+Place total : 24
+
+Nom Parking : 003 Esplanade
+Nbr Place occup : 1
+Nbr Place libre : 31
+Place total : 32
+
+Nom Parking : 004 Hôtel de Ville
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 005 Corum
+Nbr Place occup : 9
+Nbr Place libre : 3
+Place total : 12
+
+Nom Parking : 006 Place Albert 1er - St Charles
+Nbr Place occup : 9
+Nbr Place libre : 22
+Place total : 31
+
+Nom Parking : 007 Foch
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 008 Halles Castellane
+Nbr Place occup : 7
+Nbr Place libre : 5
+Place total : 12
+
+Nom Parking : 009 Observatoire
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 010 Rondelet
+Nbr Place occup : 12
+Nbr Place libre : 4
+Place total : 16
+
+Nom Parking : 011 Plan Cabanes
+Nbr Place occup : 3
+Nbr Place libre : 9
+Place total : 12
+
+Nom Parking : 012 Boutonnet
+Nbr Place occup : 3
+Nbr Place libre : 9
+Place total : 12
+
+Nom Parking : 013 Emile Combes
+Nbr Place occup : 8
+Nbr Place libre : 0
+Place total : 8
+
+Nom Parking : 014 Beaux-Arts
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 015 Les Aubes
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 016 Antigone centre
+Nbr Place occup : 4
+Nbr Place libre : 12
+Place total : 16
+
+Nom Parking : 017 Médiathèque Emile Zola
+Nbr Place occup : 2
+Nbr Place libre : 14
+Place total : 16
+
+Nom Parking : 018 Nombre d'Or
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 019 Louis Blanc
+Nbr Place occup : 8
+Nbr Place libre : 8
+Place total : 16
+
+Nom Parking : 020 Gambetta
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 021 Port Marianne
+Nbr Place occup : 0
+Nbr Place libre : 16
+Place total : 16
+
+Nom Parking : 022 Clemenceau
+Nbr Place occup : 5
+Nbr Place libre : 7
+Place total : 12
+
+Nom Parking : 023 Les Arceaux
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 024 Cité Mion
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 025 Nouveau Saint-Roch
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 026 Renouvier
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 027 Odysseum
+Nbr Place occup : 6
+Nbr Place libre : 2
+Place total : 8
+
+Nom Parking : 028 Saint-Denis
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 029 Richter
+Nbr Place occup : 4
+Nbr Place libre : 12
+Place total : 16
+
+Nom Parking : 030 Charles Flahault
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 031 Voltaire
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 032 Prés d'Arènes
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 033 Garcia Lorca
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 034 Vert Bois
+Nbr Place occup : 0
+Nbr Place libre : 16
+Place total : 16
+
+Nom Parking : 035 Malbosc
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 036 Occitanie
+Nbr Place occup : 3
+Nbr Place libre : 29
+Place total : 32
+
+Nom Parking : 037 FacdesSciences
+Nbr Place occup : 2
+Nbr Place libre : 22
+Place total : 24
+
+Nom Parking : 038 Fac de Lettres
+Nbr Place occup : 5
+Nbr Place libre : 11
+Place total : 16
+
+Nom Parking : 039 Aiguelongue
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 040 Jeu de Mail des Abbés
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 041 Euromédecine
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 042 Marie Caizergues
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 043 Sabines
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Nom Parking : 044 Celleneuve
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 045 Jardin de la Lironde
+Nbr Place occup : 6
+Nbr Place libre : 2
+Place total : 8
+
+Nom Parking : 046 Père Soulas
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Nom Parking : 047 Place Viala
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 048 Hôtel du Département
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 049 Tonnelles
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 050 Parvis Jules Ferry - Gare Saint-Roch
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 051 Pont de Lattes - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 12
+Place total : 12
+
+Nom Parking : 053 Deux Ponts - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 054 Providence - Ovalie
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 055 Pérols Etang de l'Or
+Nbr Place occup : 7
+Nbr Place libre : 61
+Place total : 68
+
+Nom Parking : 056 Albert 1er - Cathédrale
+Nbr Place occup : 2
+Nbr Place libre : 10
+Place total : 12
+
+Nom Parking : 057 Saint-Guilhem - Courreau
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 059 Sud De France
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Sat Jan 29 19:34:32 2022
+Nom Parking : 001 Rue Jules Ferry - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 12
+Place total : 12
+
+Nom Parking : 002 Comédie
+Nbr Place occup : 11
+Nbr Place libre : 13
+Place total : 24
+
+Nom Parking : 003 Esplanade
+Nbr Place occup : 1
+Nbr Place libre : 31
+Place total : 32
+
+Nom Parking : 004 Hôtel de Ville
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 005 Corum
+Nbr Place occup : 9
+Nbr Place libre : 3
+Place total : 12
+
+Nom Parking : 006 Place Albert 1er - St Charles
+Nbr Place occup : 9
+Nbr Place libre : 22
+Place total : 31
+
+Nom Parking : 007 Foch
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 008 Halles Castellane
+Nbr Place occup : 7
+Nbr Place libre : 5
+Place total : 12
+
+Nom Parking : 009 Observatoire
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 010 Rondelet
+Nbr Place occup : 12
+Nbr Place libre : 4
+Place total : 16
+
+Nom Parking : 011 Plan Cabanes
+Nbr Place occup : 3
+Nbr Place libre : 9
+Place total : 12
+
+Nom Parking : 012 Boutonnet
+Nbr Place occup : 3
+Nbr Place libre : 9
+Place total : 12
+
+Nom Parking : 013 Emile Combes
+Nbr Place occup : 8
+Nbr Place libre : 0
+Place total : 8
+
+Nom Parking : 014 Beaux-Arts
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 015 Les Aubes
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 016 Antigone centre
+Nbr Place occup : 4
+Nbr Place libre : 12
+Place total : 16
+
+Nom Parking : 017 Médiathèque Emile Zola
+Nbr Place occup : 2
+Nbr Place libre : 14
+Place total : 16
+
+Nom Parking : 018 Nombre d'Or
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 019 Louis Blanc
+Nbr Place occup : 8
+Nbr Place libre : 8
+Place total : 16
+
+Nom Parking : 020 Gambetta
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 021 Port Marianne
+Nbr Place occup : 0
+Nbr Place libre : 16
+Place total : 16
+
+Nom Parking : 022 Clemenceau
+Nbr Place occup : 5
+Nbr Place libre : 7
+Place total : 12
+
+Nom Parking : 023 Les Arceaux
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 024 Cité Mion
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 025 Nouveau Saint-Roch
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 026 Renouvier
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 027 Odysseum
+Nbr Place occup : 6
+Nbr Place libre : 2
+Place total : 8
+
+Nom Parking : 028 Saint-Denis
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 029 Richter
+Nbr Place occup : 4
+Nbr Place libre : 12
+Place total : 16
+
+Nom Parking : 030 Charles Flahault
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 031 Voltaire
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 032 Prés d'Arènes
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 033 Garcia Lorca
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 034 Vert Bois
+Nbr Place occup : 0
+Nbr Place libre : 16
+Place total : 16
+
+Nom Parking : 035 Malbosc
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 036 Occitanie
+Nbr Place occup : 3
+Nbr Place libre : 29
+Place total : 32
+
+Nom Parking : 037 FacdesSciences
+Nbr Place occup : 2
+Nbr Place libre : 22
+Place total : 24
+
+Nom Parking : 038 Fac de Lettres
+Nbr Place occup : 5
+Nbr Place libre : 11
+Place total : 16
+
+Nom Parking : 039 Aiguelongue
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 040 Jeu de Mail des Abbés
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 041 Euromédecine
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 042 Marie Caizergues
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 043 Sabines
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Nom Parking : 044 Celleneuve
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 045 Jardin de la Lironde
+Nbr Place occup : 6
+Nbr Place libre : 2
+Place total : 8
+
+Nom Parking : 046 Père Soulas
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Nom Parking : 047 Place Viala
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 048 Hôtel du Département
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 049 Tonnelles
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 050 Parvis Jules Ferry - Gare Saint-Roch
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 051 Pont de Lattes - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 12
+Place total : 12
+
+Nom Parking : 053 Deux Ponts - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 054 Providence - Ovalie
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 055 Pérols Etang de l'Or
+Nbr Place occup : 7
+Nbr Place libre : 61
+Place total : 68
+
+Nom Parking : 056 Albert 1er - Cathédrale
+Nbr Place occup : 2
+Nbr Place libre : 10
+Place total : 12
+
+Nom Parking : 057 Saint-Guilhem - Courreau
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 059 Sud De France
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Sat Jan 29 19:44:34 2022
+Nom Parking : 001 Rue Jules Ferry - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 12
+Place total : 12
+
+Nom Parking : 002 Comédie
+Nbr Place occup : 11
+Nbr Place libre : 13
+Place total : 24
+
+Nom Parking : 003 Esplanade
+Nbr Place occup : 1
+Nbr Place libre : 31
+Place total : 32
+
+Nom Parking : 004 Hôtel de Ville
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 005 Corum
+Nbr Place occup : 9
+Nbr Place libre : 3
+Place total : 12
+
+Nom Parking : 006 Place Albert 1er - St Charles
+Nbr Place occup : 9
+Nbr Place libre : 22
+Place total : 31
+
+Nom Parking : 007 Foch
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 008 Halles Castellane
+Nbr Place occup : 7
+Nbr Place libre : 5
+Place total : 12
+
+Nom Parking : 009 Observatoire
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 010 Rondelet
+Nbr Place occup : 12
+Nbr Place libre : 4
+Place total : 16
+
+Nom Parking : 011 Plan Cabanes
+Nbr Place occup : 3
+Nbr Place libre : 9
+Place total : 12
+
+Nom Parking : 012 Boutonnet
+Nbr Place occup : 3
+Nbr Place libre : 9
+Place total : 12
+
+Nom Parking : 013 Emile Combes
+Nbr Place occup : 8
+Nbr Place libre : 0
+Place total : 8
+
+Nom Parking : 014 Beaux-Arts
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 015 Les Aubes
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 016 Antigone centre
+Nbr Place occup : 4
+Nbr Place libre : 12
+Place total : 16
+
+Nom Parking : 017 Médiathèque Emile Zola
+Nbr Place occup : 2
+Nbr Place libre : 14
+Place total : 16
+
+Nom Parking : 018 Nombre d'Or
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 019 Louis Blanc
+Nbr Place occup : 8
+Nbr Place libre : 8
+Place total : 16
+
+Nom Parking : 020 Gambetta
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 021 Port Marianne
+Nbr Place occup : 0
+Nbr Place libre : 16
+Place total : 16
+
+Nom Parking : 022 Clemenceau
+Nbr Place occup : 5
+Nbr Place libre : 7
+Place total : 12
+
+Nom Parking : 023 Les Arceaux
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 024 Cité Mion
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 025 Nouveau Saint-Roch
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 026 Renouvier
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 027 Odysseum
+Nbr Place occup : 6
+Nbr Place libre : 2
+Place total : 8
+
+Nom Parking : 028 Saint-Denis
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 029 Richter
+Nbr Place occup : 4
+Nbr Place libre : 12
+Place total : 16
+
+Nom Parking : 030 Charles Flahault
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 031 Voltaire
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 032 Prés d'Arènes
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 033 Garcia Lorca
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 034 Vert Bois
+Nbr Place occup : 0
+Nbr Place libre : 16
+Place total : 16
+
+Nom Parking : 035 Malbosc
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 036 Occitanie
+Nbr Place occup : 3
+Nbr Place libre : 29
+Place total : 32
+
+Nom Parking : 037 FacdesSciences
+Nbr Place occup : 2
+Nbr Place libre : 22
+Place total : 24
+
+Nom Parking : 038 Fac de Lettres
+Nbr Place occup : 5
+Nbr Place libre : 11
+Place total : 16
+
+Nom Parking : 039 Aiguelongue
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 040 Jeu de Mail des Abbés
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 041 Euromédecine
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 042 Marie Caizergues
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 043 Sabines
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Nom Parking : 044 Celleneuve
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 045 Jardin de la Lironde
+Nbr Place occup : 6
+Nbr Place libre : 2
+Place total : 8
+
+Nom Parking : 046 Père Soulas
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Nom Parking : 047 Place Viala
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 048 Hôtel du Département
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 049 Tonnelles
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 050 Parvis Jules Ferry - Gare Saint-Roch
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 051 Pont de Lattes - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 12
+Place total : 12
+
+Nom Parking : 053 Deux Ponts - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 054 Providence - Ovalie
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 055 Pérols Etang de l'Or
+Nbr Place occup : 7
+Nbr Place libre : 61
+Place total : 68
+
+Nom Parking : 056 Albert 1er - Cathédrale
+Nbr Place occup : 2
+Nbr Place libre : 10
+Place total : 12
+
+Nom Parking : 057 Saint-Guilhem - Courreau
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 059 Sud De France
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Sat Jan 29 19:54:36 2022
+Nom Parking : 001 Rue Jules Ferry - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 12
+Place total : 12
+
+Nom Parking : 002 Comédie
+Nbr Place occup : 11
+Nbr Place libre : 13
+Place total : 24
+
+Nom Parking : 003 Esplanade
+Nbr Place occup : 1
+Nbr Place libre : 31
+Place total : 32
+
+Nom Parking : 004 Hôtel de Ville
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 005 Corum
+Nbr Place occup : 9
+Nbr Place libre : 3
+Place total : 12
+
+Nom Parking : 006 Place Albert 1er - St Charles
+Nbr Place occup : 9
+Nbr Place libre : 22
+Place total : 31
+
+Nom Parking : 007 Foch
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 008 Halles Castellane
+Nbr Place occup : 7
+Nbr Place libre : 5
+Place total : 12
+
+Nom Parking : 009 Observatoire
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 010 Rondelet
+Nbr Place occup : 12
+Nbr Place libre : 4
+Place total : 16
+
+Nom Parking : 011 Plan Cabanes
+Nbr Place occup : 3
+Nbr Place libre : 9
+Place total : 12
+
+Nom Parking : 012 Boutonnet
+Nbr Place occup : 3
+Nbr Place libre : 9
+Place total : 12
+
+Nom Parking : 013 Emile Combes
+Nbr Place occup : 8
+Nbr Place libre : 0
+Place total : 8
+
+Nom Parking : 014 Beaux-Arts
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 015 Les Aubes
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 016 Antigone centre
+Nbr Place occup : 4
+Nbr Place libre : 12
+Place total : 16
+
+Nom Parking : 017 Médiathèque Emile Zola
+Nbr Place occup : 2
+Nbr Place libre : 14
+Place total : 16
+
+Nom Parking : 018 Nombre d'Or
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 019 Louis Blanc
+Nbr Place occup : 8
+Nbr Place libre : 8
+Place total : 16
+
+Nom Parking : 020 Gambetta
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 021 Port Marianne
+Nbr Place occup : 0
+Nbr Place libre : 16
+Place total : 16
+
+Nom Parking : 022 Clemenceau
+Nbr Place occup : 5
+Nbr Place libre : 7
+Place total : 12
+
+Nom Parking : 023 Les Arceaux
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 024 Cité Mion
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 025 Nouveau Saint-Roch
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 026 Renouvier
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 027 Odysseum
+Nbr Place occup : 6
+Nbr Place libre : 2
+Place total : 8
+
+Nom Parking : 028 Saint-Denis
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 029 Richter
+Nbr Place occup : 4
+Nbr Place libre : 12
+Place total : 16
+
+Nom Parking : 030 Charles Flahault
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 031 Voltaire
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 032 Prés d'Arènes
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 033 Garcia Lorca
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 034 Vert Bois
+Nbr Place occup : 0
+Nbr Place libre : 16
+Place total : 16
+
+Nom Parking : 035 Malbosc
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 036 Occitanie
+Nbr Place occup : 3
+Nbr Place libre : 29
+Place total : 32
+
+Nom Parking : 037 FacdesSciences
+Nbr Place occup : 2
+Nbr Place libre : 22
+Place total : 24
+
+Nom Parking : 038 Fac de Lettres
+Nbr Place occup : 5
+Nbr Place libre : 11
+Place total : 16
+
+Nom Parking : 039 Aiguelongue
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 040 Jeu de Mail des Abbés
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 041 Euromédecine
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 042 Marie Caizergues
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 043 Sabines
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Nom Parking : 044 Celleneuve
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 045 Jardin de la Lironde
+Nbr Place occup : 6
+Nbr Place libre : 2
+Place total : 8
+
+Nom Parking : 046 Père Soulas
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Nom Parking : 047 Place Viala
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 048 Hôtel du Département
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 049 Tonnelles
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 050 Parvis Jules Ferry - Gare Saint-Roch
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 051 Pont de Lattes - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 12
+Place total : 12
+
+Nom Parking : 053 Deux Ponts - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 054 Providence - Ovalie
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 055 Pérols Etang de l'Or
+Nbr Place occup : 7
+Nbr Place libre : 61
+Place total : 68
+
+Nom Parking : 056 Albert 1er - Cathédrale
+Nbr Place occup : 2
+Nbr Place libre : 10
+Place total : 12
+
+Nom Parking : 057 Saint-Guilhem - Courreau
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 059 Sud De France
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Sat Jan 29 20:04:37 2022
+Nom Parking : 001 Rue Jules Ferry - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 12
+Place total : 12
+
+Nom Parking : 002 Comédie
+Nbr Place occup : 11
+Nbr Place libre : 13
+Place total : 24
+
+Nom Parking : 003 Esplanade
+Nbr Place occup : 1
+Nbr Place libre : 31
+Place total : 32
+
+Nom Parking : 004 Hôtel de Ville
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 005 Corum
+Nbr Place occup : 9
+Nbr Place libre : 3
+Place total : 12
+
+Nom Parking : 006 Place Albert 1er - St Charles
+Nbr Place occup : 9
+Nbr Place libre : 22
+Place total : 31
+
+Nom Parking : 007 Foch
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 008 Halles Castellane
+Nbr Place occup : 7
+Nbr Place libre : 5
+Place total : 12
+
+Nom Parking : 009 Observatoire
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 010 Rondelet
+Nbr Place occup : 12
+Nbr Place libre : 4
+Place total : 16
+
+Nom Parking : 011 Plan Cabanes
+Nbr Place occup : 3
+Nbr Place libre : 9
+Place total : 12
+
+Nom Parking : 012 Boutonnet
+Nbr Place occup : 3
+Nbr Place libre : 9
+Place total : 12
+
+Nom Parking : 013 Emile Combes
+Nbr Place occup : 8
+Nbr Place libre : 0
+Place total : 8
+
+Nom Parking : 014 Beaux-Arts
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 015 Les Aubes
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 016 Antigone centre
+Nbr Place occup : 4
+Nbr Place libre : 12
+Place total : 16
+
+Nom Parking : 017 Médiathèque Emile Zola
+Nbr Place occup : 2
+Nbr Place libre : 14
+Place total : 16
+
+Nom Parking : 018 Nombre d'Or
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 019 Louis Blanc
+Nbr Place occup : 8
+Nbr Place libre : 8
+Place total : 16
+
+Nom Parking : 020 Gambetta
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 021 Port Marianne
+Nbr Place occup : 0
+Nbr Place libre : 16
+Place total : 16
+
+Nom Parking : 022 Clemenceau
+Nbr Place occup : 5
+Nbr Place libre : 7
+Place total : 12
+
+Nom Parking : 023 Les Arceaux
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 024 Cité Mion
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 025 Nouveau Saint-Roch
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 026 Renouvier
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 027 Odysseum
+Nbr Place occup : 6
+Nbr Place libre : 2
+Place total : 8
+
+Nom Parking : 028 Saint-Denis
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 029 Richter
+Nbr Place occup : 4
+Nbr Place libre : 12
+Place total : 16
+
+Nom Parking : 030 Charles Flahault
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 031 Voltaire
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 032 Prés d'Arènes
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 033 Garcia Lorca
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 034 Vert Bois
+Nbr Place occup : 0
+Nbr Place libre : 16
+Place total : 16
+
+Nom Parking : 035 Malbosc
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 036 Occitanie
+Nbr Place occup : 3
+Nbr Place libre : 29
+Place total : 32
+
+Nom Parking : 037 FacdesSciences
+Nbr Place occup : 2
+Nbr Place libre : 22
+Place total : 24
+
+Nom Parking : 038 Fac de Lettres
+Nbr Place occup : 5
+Nbr Place libre : 11
+Place total : 16
+
+Nom Parking : 039 Aiguelongue
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 040 Jeu de Mail des Abbés
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 041 Euromédecine
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 042 Marie Caizergues
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 043 Sabines
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Nom Parking : 044 Celleneuve
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 045 Jardin de la Lironde
+Nbr Place occup : 6
+Nbr Place libre : 2
+Place total : 8
+
+Nom Parking : 046 Père Soulas
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Nom Parking : 047 Place Viala
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 048 Hôtel du Département
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 049 Tonnelles
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 050 Parvis Jules Ferry - Gare Saint-Roch
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 051 Pont de Lattes - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 12
+Place total : 12
+
+Nom Parking : 053 Deux Ponts - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 054 Providence - Ovalie
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 055 Pérols Etang de l'Or
+Nbr Place occup : 7
+Nbr Place libre : 61
+Place total : 68
+
+Nom Parking : 056 Albert 1er - Cathédrale
+Nbr Place occup : 2
+Nbr Place libre : 10
+Place total : 12
+
+Nom Parking : 057 Saint-Guilhem - Courreau
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 059 Sud De France
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Sat Jan 29 20:14:39 2022
+Nom Parking : 001 Rue Jules Ferry - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 12
+Place total : 12
+
+Nom Parking : 002 Comédie
+Nbr Place occup : 11
+Nbr Place libre : 13
+Place total : 24
+
+Nom Parking : 003 Esplanade
+Nbr Place occup : 1
+Nbr Place libre : 31
+Place total : 32
+
+Nom Parking : 004 Hôtel de Ville
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 005 Corum
+Nbr Place occup : 9
+Nbr Place libre : 3
+Place total : 12
+
+Nom Parking : 006 Place Albert 1er - St Charles
+Nbr Place occup : 9
+Nbr Place libre : 22
+Place total : 31
+
+Nom Parking : 007 Foch
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 008 Halles Castellane
+Nbr Place occup : 7
+Nbr Place libre : 5
+Place total : 12
+
+Nom Parking : 009 Observatoire
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 010 Rondelet
+Nbr Place occup : 12
+Nbr Place libre : 4
+Place total : 16
+
+Nom Parking : 011 Plan Cabanes
+Nbr Place occup : 3
+Nbr Place libre : 9
+Place total : 12
+
+Nom Parking : 012 Boutonnet
+Nbr Place occup : 3
+Nbr Place libre : 9
+Place total : 12
+
+Nom Parking : 013 Emile Combes
+Nbr Place occup : 8
+Nbr Place libre : 0
+Place total : 8
+
+Nom Parking : 014 Beaux-Arts
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 015 Les Aubes
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 016 Antigone centre
+Nbr Place occup : 4
+Nbr Place libre : 12
+Place total : 16
+
+Nom Parking : 017 Médiathèque Emile Zola
+Nbr Place occup : 2
+Nbr Place libre : 14
+Place total : 16
+
+Nom Parking : 018 Nombre d'Or
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 019 Louis Blanc
+Nbr Place occup : 8
+Nbr Place libre : 8
+Place total : 16
+
+Nom Parking : 020 Gambetta
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 021 Port Marianne
+Nbr Place occup : 0
+Nbr Place libre : 16
+Place total : 16
+
+Nom Parking : 022 Clemenceau
+Nbr Place occup : 5
+Nbr Place libre : 7
+Place total : 12
+
+Nom Parking : 023 Les Arceaux
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 024 Cité Mion
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 025 Nouveau Saint-Roch
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 026 Renouvier
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 027 Odysseum
+Nbr Place occup : 6
+Nbr Place libre : 2
+Place total : 8
+
+Nom Parking : 028 Saint-Denis
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 029 Richter
+Nbr Place occup : 4
+Nbr Place libre : 12
+Place total : 16
+
+Nom Parking : 030 Charles Flahault
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 031 Voltaire
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 032 Prés d'Arènes
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 033 Garcia Lorca
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 034 Vert Bois
+Nbr Place occup : 0
+Nbr Place libre : 16
+Place total : 16
+
+Nom Parking : 035 Malbosc
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 036 Occitanie
+Nbr Place occup : 3
+Nbr Place libre : 29
+Place total : 32
+
+Nom Parking : 037 FacdesSciences
+Nbr Place occup : 2
+Nbr Place libre : 22
+Place total : 24
+
+Nom Parking : 038 Fac de Lettres
+Nbr Place occup : 5
+Nbr Place libre : 11
+Place total : 16
+
+Nom Parking : 039 Aiguelongue
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 040 Jeu de Mail des Abbés
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 041 Euromédecine
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 042 Marie Caizergues
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 043 Sabines
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Nom Parking : 044 Celleneuve
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 045 Jardin de la Lironde
+Nbr Place occup : 6
+Nbr Place libre : 2
+Place total : 8
+
+Nom Parking : 046 Père Soulas
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Nom Parking : 047 Place Viala
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 048 Hôtel du Département
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 049 Tonnelles
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 050 Parvis Jules Ferry - Gare Saint-Roch
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 051 Pont de Lattes - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 12
+Place total : 12
+
+Nom Parking : 053 Deux Ponts - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 054 Providence - Ovalie
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 055 Pérols Etang de l'Or
+Nbr Place occup : 7
+Nbr Place libre : 61
+Place total : 68
+
+Nom Parking : 056 Albert 1er - Cathédrale
+Nbr Place occup : 2
+Nbr Place libre : 10
+Place total : 12
+
+Nom Parking : 057 Saint-Guilhem - Courreau
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 059 Sud De France
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Sat Jan 29 20:24:41 2022
+Nom Parking : 001 Rue Jules Ferry - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 12
+Place total : 12
+
+Nom Parking : 002 Comédie
+Nbr Place occup : 11
+Nbr Place libre : 13
+Place total : 24
+
+Nom Parking : 003 Esplanade
+Nbr Place occup : 1
+Nbr Place libre : 31
+Place total : 32
+
+Nom Parking : 004 Hôtel de Ville
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 005 Corum
+Nbr Place occup : 9
+Nbr Place libre : 3
+Place total : 12
+
+Nom Parking : 006 Place Albert 1er - St Charles
+Nbr Place occup : 9
+Nbr Place libre : 22
+Place total : 31
+
+Nom Parking : 007 Foch
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 008 Halles Castellane
+Nbr Place occup : 7
+Nbr Place libre : 5
+Place total : 12
+
+Nom Parking : 009 Observatoire
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 010 Rondelet
+Nbr Place occup : 12
+Nbr Place libre : 4
+Place total : 16
+
+Nom Parking : 011 Plan Cabanes
+Nbr Place occup : 3
+Nbr Place libre : 9
+Place total : 12
+
+Nom Parking : 012 Boutonnet
+Nbr Place occup : 3
+Nbr Place libre : 9
+Place total : 12
+
+Nom Parking : 013 Emile Combes
+Nbr Place occup : 8
+Nbr Place libre : 0
+Place total : 8
+
+Nom Parking : 014 Beaux-Arts
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 015 Les Aubes
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 016 Antigone centre
+Nbr Place occup : 4
+Nbr Place libre : 12
+Place total : 16
+
+Nom Parking : 017 Médiathèque Emile Zola
+Nbr Place occup : 2
+Nbr Place libre : 14
+Place total : 16
+
+Nom Parking : 018 Nombre d'Or
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 019 Louis Blanc
+Nbr Place occup : 8
+Nbr Place libre : 8
+Place total : 16
+
+Nom Parking : 020 Gambetta
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 021 Port Marianne
+Nbr Place occup : 0
+Nbr Place libre : 16
+Place total : 16
+
+Nom Parking : 022 Clemenceau
+Nbr Place occup : 5
+Nbr Place libre : 7
+Place total : 12
+
+Nom Parking : 023 Les Arceaux
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 024 Cité Mion
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 025 Nouveau Saint-Roch
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 026 Renouvier
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 027 Odysseum
+Nbr Place occup : 6
+Nbr Place libre : 2
+Place total : 8
+
+Nom Parking : 028 Saint-Denis
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 029 Richter
+Nbr Place occup : 4
+Nbr Place libre : 12
+Place total : 16
+
+Nom Parking : 030 Charles Flahault
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 031 Voltaire
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 032 Prés d'Arènes
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 033 Garcia Lorca
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 034 Vert Bois
+Nbr Place occup : 0
+Nbr Place libre : 16
+Place total : 16
+
+Nom Parking : 035 Malbosc
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 036 Occitanie
+Nbr Place occup : 3
+Nbr Place libre : 29
+Place total : 32
+
+Nom Parking : 037 FacdesSciences
+Nbr Place occup : 2
+Nbr Place libre : 22
+Place total : 24
+
+Nom Parking : 038 Fac de Lettres
+Nbr Place occup : 5
+Nbr Place libre : 11
+Place total : 16
+
+Nom Parking : 039 Aiguelongue
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 040 Jeu de Mail des Abbés
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 041 Euromédecine
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 042 Marie Caizergues
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 043 Sabines
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Nom Parking : 044 Celleneuve
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 045 Jardin de la Lironde
+Nbr Place occup : 6
+Nbr Place libre : 2
+Place total : 8
+
+Nom Parking : 046 Père Soulas
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Nom Parking : 047 Place Viala
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 048 Hôtel du Département
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 049 Tonnelles
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 050 Parvis Jules Ferry - Gare Saint-Roch
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 051 Pont de Lattes - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 12
+Place total : 12
+
+Nom Parking : 053 Deux Ponts - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 054 Providence - Ovalie
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 055 Pérols Etang de l'Or
+Nbr Place occup : 7
+Nbr Place libre : 61
+Place total : 68
+
+Nom Parking : 056 Albert 1er - Cathédrale
+Nbr Place occup : 2
+Nbr Place libre : 10
+Place total : 12
+
+Nom Parking : 057 Saint-Guilhem - Courreau
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 059 Sud De France
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Sat Jan 29 20:34:42 2022
+Nom Parking : 001 Rue Jules Ferry - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 12
+Place total : 12
+
+Nom Parking : 002 Comédie
+Nbr Place occup : 11
+Nbr Place libre : 13
+Place total : 24
+
+Nom Parking : 003 Esplanade
+Nbr Place occup : 1
+Nbr Place libre : 31
+Place total : 32
+
+Nom Parking : 004 Hôtel de Ville
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 005 Corum
+Nbr Place occup : 9
+Nbr Place libre : 3
+Place total : 12
+
+Nom Parking : 006 Place Albert 1er - St Charles
+Nbr Place occup : 9
+Nbr Place libre : 22
+Place total : 31
+
+Nom Parking : 007 Foch
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 008 Halles Castellane
+Nbr Place occup : 7
+Nbr Place libre : 5
+Place total : 12
+
+Nom Parking : 009 Observatoire
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 010 Rondelet
+Nbr Place occup : 12
+Nbr Place libre : 4
+Place total : 16
+
+Nom Parking : 011 Plan Cabanes
+Nbr Place occup : 3
+Nbr Place libre : 9
+Place total : 12
+
+Nom Parking : 012 Boutonnet
+Nbr Place occup : 3
+Nbr Place libre : 9
+Place total : 12
+
+Nom Parking : 013 Emile Combes
+Nbr Place occup : 8
+Nbr Place libre : 0
+Place total : 8
+
+Nom Parking : 014 Beaux-Arts
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 015 Les Aubes
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 016 Antigone centre
+Nbr Place occup : 4
+Nbr Place libre : 12
+Place total : 16
+
+Nom Parking : 017 Médiathèque Emile Zola
+Nbr Place occup : 2
+Nbr Place libre : 14
+Place total : 16
+
+Nom Parking : 018 Nombre d'Or
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 019 Louis Blanc
+Nbr Place occup : 8
+Nbr Place libre : 8
+Place total : 16
+
+Nom Parking : 020 Gambetta
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 021 Port Marianne
+Nbr Place occup : 0
+Nbr Place libre : 16
+Place total : 16
+
+Nom Parking : 022 Clemenceau
+Nbr Place occup : 5
+Nbr Place libre : 7
+Place total : 12
+
+Nom Parking : 023 Les Arceaux
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 024 Cité Mion
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 025 Nouveau Saint-Roch
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 026 Renouvier
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 027 Odysseum
+Nbr Place occup : 6
+Nbr Place libre : 2
+Place total : 8
+
+Nom Parking : 028 Saint-Denis
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 029 Richter
+Nbr Place occup : 4
+Nbr Place libre : 12
+Place total : 16
+
+Nom Parking : 030 Charles Flahault
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 031 Voltaire
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 032 Prés d'Arènes
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 033 Garcia Lorca
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 034 Vert Bois
+Nbr Place occup : 0
+Nbr Place libre : 16
+Place total : 16
+
+Nom Parking : 035 Malbosc
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 036 Occitanie
+Nbr Place occup : 3
+Nbr Place libre : 29
+Place total : 32
+
+Nom Parking : 037 FacdesSciences
+Nbr Place occup : 2
+Nbr Place libre : 22
+Place total : 24
+
+Nom Parking : 038 Fac de Lettres
+Nbr Place occup : 5
+Nbr Place libre : 11
+Place total : 16
+
+Nom Parking : 039 Aiguelongue
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 040 Jeu de Mail des Abbés
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 041 Euromédecine
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 042 Marie Caizergues
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 043 Sabines
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Nom Parking : 044 Celleneuve
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 045 Jardin de la Lironde
+Nbr Place occup : 6
+Nbr Place libre : 2
+Place total : 8
+
+Nom Parking : 046 Père Soulas
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Nom Parking : 047 Place Viala
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 048 Hôtel du Département
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 049 Tonnelles
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 050 Parvis Jules Ferry - Gare Saint-Roch
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 051 Pont de Lattes - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 12
+Place total : 12
+
+Nom Parking : 053 Deux Ponts - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 054 Providence - Ovalie
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 055 Pérols Etang de l'Or
+Nbr Place occup : 7
+Nbr Place libre : 61
+Place total : 68
+
+Nom Parking : 056 Albert 1er - Cathédrale
+Nbr Place occup : 2
+Nbr Place libre : 10
+Place total : 12
+
+Nom Parking : 057 Saint-Guilhem - Courreau
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 059 Sud De France
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Sat Jan 29 20:44:44 2022
+Nom Parking : 001 Rue Jules Ferry - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 12
+Place total : 12
+
+Nom Parking : 002 Comédie
+Nbr Place occup : 11
+Nbr Place libre : 13
+Place total : 24
+
+Nom Parking : 003 Esplanade
+Nbr Place occup : 1
+Nbr Place libre : 31
+Place total : 32
+
+Nom Parking : 004 Hôtel de Ville
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 005 Corum
+Nbr Place occup : 9
+Nbr Place libre : 3
+Place total : 12
+
+Nom Parking : 006 Place Albert 1er - St Charles
+Nbr Place occup : 9
+Nbr Place libre : 22
+Place total : 31
+
+Nom Parking : 007 Foch
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 008 Halles Castellane
+Nbr Place occup : 7
+Nbr Place libre : 5
+Place total : 12
+
+Nom Parking : 009 Observatoire
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 010 Rondelet
+Nbr Place occup : 12
+Nbr Place libre : 4
+Place total : 16
+
+Nom Parking : 011 Plan Cabanes
+Nbr Place occup : 3
+Nbr Place libre : 9
+Place total : 12
+
+Nom Parking : 012 Boutonnet
+Nbr Place occup : 3
+Nbr Place libre : 9
+Place total : 12
+
+Nom Parking : 013 Emile Combes
+Nbr Place occup : 8
+Nbr Place libre : 0
+Place total : 8
+
+Nom Parking : 014 Beaux-Arts
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 015 Les Aubes
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 016 Antigone centre
+Nbr Place occup : 4
+Nbr Place libre : 12
+Place total : 16
+
+Nom Parking : 017 Médiathèque Emile Zola
+Nbr Place occup : 2
+Nbr Place libre : 14
+Place total : 16
+
+Nom Parking : 018 Nombre d'Or
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 019 Louis Blanc
+Nbr Place occup : 8
+Nbr Place libre : 8
+Place total : 16
+
+Nom Parking : 020 Gambetta
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 021 Port Marianne
+Nbr Place occup : 0
+Nbr Place libre : 16
+Place total : 16
+
+Nom Parking : 022 Clemenceau
+Nbr Place occup : 5
+Nbr Place libre : 7
+Place total : 12
+
+Nom Parking : 023 Les Arceaux
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 024 Cité Mion
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 025 Nouveau Saint-Roch
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 026 Renouvier
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 027 Odysseum
+Nbr Place occup : 6
+Nbr Place libre : 2
+Place total : 8
+
+Nom Parking : 028 Saint-Denis
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 029 Richter
+Nbr Place occup : 4
+Nbr Place libre : 12
+Place total : 16
+
+Nom Parking : 030 Charles Flahault
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 031 Voltaire
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 032 Prés d'Arènes
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 033 Garcia Lorca
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 034 Vert Bois
+Nbr Place occup : 0
+Nbr Place libre : 16
+Place total : 16
+
+Nom Parking : 035 Malbosc
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 036 Occitanie
+Nbr Place occup : 3
+Nbr Place libre : 29
+Place total : 32
+
+Nom Parking : 037 FacdesSciences
+Nbr Place occup : 2
+Nbr Place libre : 22
+Place total : 24
+
+Nom Parking : 038 Fac de Lettres
+Nbr Place occup : 5
+Nbr Place libre : 11
+Place total : 16
+
+Nom Parking : 039 Aiguelongue
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 040 Jeu de Mail des Abbés
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 041 Euromédecine
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 042 Marie Caizergues
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 043 Sabines
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Nom Parking : 044 Celleneuve
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 045 Jardin de la Lironde
+Nbr Place occup : 6
+Nbr Place libre : 2
+Place total : 8
+
+Nom Parking : 046 Père Soulas
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Nom Parking : 047 Place Viala
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 048 Hôtel du Département
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 049 Tonnelles
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 050 Parvis Jules Ferry - Gare Saint-Roch
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 051 Pont de Lattes - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 12
+Place total : 12
+
+Nom Parking : 053 Deux Ponts - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 054 Providence - Ovalie
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 055 Pérols Etang de l'Or
+Nbr Place occup : 7
+Nbr Place libre : 61
+Place total : 68
+
+Nom Parking : 056 Albert 1er - Cathédrale
+Nbr Place occup : 2
+Nbr Place libre : 10
+Place total : 12
+
+Nom Parking : 057 Saint-Guilhem - Courreau
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 059 Sud De France
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Sat Jan 29 20:54:44 2022
+Nom Parking : 001 Rue Jules Ferry - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 12
+Place total : 12
+
+Nom Parking : 002 Comédie
+Nbr Place occup : 11
+Nbr Place libre : 13
+Place total : 24
+
+Nom Parking : 003 Esplanade
+Nbr Place occup : 1
+Nbr Place libre : 31
+Place total : 32
+
+Nom Parking : 004 Hôtel de Ville
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 005 Corum
+Nbr Place occup : 9
+Nbr Place libre : 3
+Place total : 12
+
+Nom Parking : 006 Place Albert 1er - St Charles
+Nbr Place occup : 9
+Nbr Place libre : 22
+Place total : 31
+
+Nom Parking : 007 Foch
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 008 Halles Castellane
+Nbr Place occup : 7
+Nbr Place libre : 5
+Place total : 12
+
+Nom Parking : 009 Observatoire
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 010 Rondelet
+Nbr Place occup : 12
+Nbr Place libre : 4
+Place total : 16
+
+Nom Parking : 011 Plan Cabanes
+Nbr Place occup : 3
+Nbr Place libre : 9
+Place total : 12
+
+Nom Parking : 012 Boutonnet
+Nbr Place occup : 3
+Nbr Place libre : 9
+Place total : 12
+
+Nom Parking : 013 Emile Combes
+Nbr Place occup : 8
+Nbr Place libre : 0
+Place total : 8
+
+Nom Parking : 014 Beaux-Arts
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 015 Les Aubes
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 016 Antigone centre
+Nbr Place occup : 4
+Nbr Place libre : 12
+Place total : 16
+
+Nom Parking : 017 Médiathèque Emile Zola
+Nbr Place occup : 2
+Nbr Place libre : 14
+Place total : 16
+
+Nom Parking : 018 Nombre d'Or
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 019 Louis Blanc
+Nbr Place occup : 8
+Nbr Place libre : 8
+Place total : 16
+
+Nom Parking : 020 Gambetta
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 021 Port Marianne
+Nbr Place occup : 0
+Nbr Place libre : 16
+Place total : 16
+
+Nom Parking : 022 Clemenceau
+Nbr Place occup : 5
+Nbr Place libre : 7
+Place total : 12
+
+Nom Parking : 023 Les Arceaux
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 024 Cité Mion
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 025 Nouveau Saint-Roch
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 026 Renouvier
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 027 Odysseum
+Nbr Place occup : 6
+Nbr Place libre : 2
+Place total : 8
+
+Nom Parking : 028 Saint-Denis
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 029 Richter
+Nbr Place occup : 4
+Nbr Place libre : 12
+Place total : 16
+
+Nom Parking : 030 Charles Flahault
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 031 Voltaire
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 032 Prés d'Arènes
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 033 Garcia Lorca
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 034 Vert Bois
+Nbr Place occup : 0
+Nbr Place libre : 16
+Place total : 16
+
+Nom Parking : 035 Malbosc
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 036 Occitanie
+Nbr Place occup : 3
+Nbr Place libre : 29
+Place total : 32
+
+Nom Parking : 037 FacdesSciences
+Nbr Place occup : 2
+Nbr Place libre : 22
+Place total : 24
+
+Nom Parking : 038 Fac de Lettres
+Nbr Place occup : 5
+Nbr Place libre : 11
+Place total : 16
+
+Nom Parking : 039 Aiguelongue
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 040 Jeu de Mail des Abbés
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 041 Euromédecine
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 042 Marie Caizergues
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 043 Sabines
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Nom Parking : 044 Celleneuve
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 045 Jardin de la Lironde
+Nbr Place occup : 6
+Nbr Place libre : 2
+Place total : 8
+
+Nom Parking : 046 Père Soulas
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Nom Parking : 047 Place Viala
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 048 Hôtel du Département
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 049 Tonnelles
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 050 Parvis Jules Ferry - Gare Saint-Roch
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 051 Pont de Lattes - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 12
+Place total : 12
+
+Nom Parking : 053 Deux Ponts - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 054 Providence - Ovalie
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 055 Pérols Etang de l'Or
+Nbr Place occup : 7
+Nbr Place libre : 61
+Place total : 68
+
+Nom Parking : 056 Albert 1er - Cathédrale
+Nbr Place occup : 2
+Nbr Place libre : 10
+Place total : 12
+
+Nom Parking : 057 Saint-Guilhem - Courreau
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 059 Sud De France
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Sat Jan 29 21:04:46 2022
+Nom Parking : 001 Rue Jules Ferry - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 12
+Place total : 12
+
+Nom Parking : 002 Comédie
+Nbr Place occup : 11
+Nbr Place libre : 13
+Place total : 24
+
+Nom Parking : 003 Esplanade
+Nbr Place occup : 1
+Nbr Place libre : 31
+Place total : 32
+
+Nom Parking : 004 Hôtel de Ville
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 005 Corum
+Nbr Place occup : 9
+Nbr Place libre : 3
+Place total : 12
+
+Nom Parking : 006 Place Albert 1er - St Charles
+Nbr Place occup : 9
+Nbr Place libre : 22
+Place total : 31
+
+Nom Parking : 007 Foch
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 008 Halles Castellane
+Nbr Place occup : 7
+Nbr Place libre : 5
+Place total : 12
+
+Nom Parking : 009 Observatoire
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 010 Rondelet
+Nbr Place occup : 12
+Nbr Place libre : 4
+Place total : 16
+
+Nom Parking : 011 Plan Cabanes
+Nbr Place occup : 3
+Nbr Place libre : 9
+Place total : 12
+
+Nom Parking : 012 Boutonnet
+Nbr Place occup : 3
+Nbr Place libre : 9
+Place total : 12
+
+Nom Parking : 013 Emile Combes
+Nbr Place occup : 8
+Nbr Place libre : 0
+Place total : 8
+
+Nom Parking : 014 Beaux-Arts
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 015 Les Aubes
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 016 Antigone centre
+Nbr Place occup : 4
+Nbr Place libre : 12
+Place total : 16
+
+Nom Parking : 017 Médiathèque Emile Zola
+Nbr Place occup : 2
+Nbr Place libre : 14
+Place total : 16
+
+Nom Parking : 018 Nombre d'Or
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 019 Louis Blanc
+Nbr Place occup : 8
+Nbr Place libre : 8
+Place total : 16
+
+Nom Parking : 020 Gambetta
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 021 Port Marianne
+Nbr Place occup : 0
+Nbr Place libre : 16
+Place total : 16
+
+Nom Parking : 022 Clemenceau
+Nbr Place occup : 5
+Nbr Place libre : 7
+Place total : 12
+
+Nom Parking : 023 Les Arceaux
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 024 Cité Mion
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 025 Nouveau Saint-Roch
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 026 Renouvier
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 027 Odysseum
+Nbr Place occup : 6
+Nbr Place libre : 2
+Place total : 8
+
+Nom Parking : 028 Saint-Denis
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 029 Richter
+Nbr Place occup : 4
+Nbr Place libre : 12
+Place total : 16
+
+Nom Parking : 030 Charles Flahault
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 031 Voltaire
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 032 Prés d'Arènes
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 033 Garcia Lorca
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 034 Vert Bois
+Nbr Place occup : 0
+Nbr Place libre : 16
+Place total : 16
+
+Nom Parking : 035 Malbosc
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 036 Occitanie
+Nbr Place occup : 3
+Nbr Place libre : 29
+Place total : 32
+
+Nom Parking : 037 FacdesSciences
+Nbr Place occup : 2
+Nbr Place libre : 22
+Place total : 24
+
+Nom Parking : 038 Fac de Lettres
+Nbr Place occup : 5
+Nbr Place libre : 11
+Place total : 16
+
+Nom Parking : 039 Aiguelongue
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 040 Jeu de Mail des Abbés
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 041 Euromédecine
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 042 Marie Caizergues
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 043 Sabines
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Nom Parking : 044 Celleneuve
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 045 Jardin de la Lironde
+Nbr Place occup : 6
+Nbr Place libre : 2
+Place total : 8
+
+Nom Parking : 046 Père Soulas
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Nom Parking : 047 Place Viala
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 048 Hôtel du Département
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 049 Tonnelles
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 050 Parvis Jules Ferry - Gare Saint-Roch
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 051 Pont de Lattes - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 12
+Place total : 12
+
+Nom Parking : 053 Deux Ponts - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 054 Providence - Ovalie
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 055 Pérols Etang de l'Or
+Nbr Place occup : 7
+Nbr Place libre : 61
+Place total : 68
+
+Nom Parking : 056 Albert 1er - Cathédrale
+Nbr Place occup : 2
+Nbr Place libre : 10
+Place total : 12
+
+Nom Parking : 057 Saint-Guilhem - Courreau
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 059 Sud De France
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Sat Jan 29 21:14:47 2022
+Nom Parking : 001 Rue Jules Ferry - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 12
+Place total : 12
+
+Nom Parking : 002 Comédie
+Nbr Place occup : 11
+Nbr Place libre : 13
+Place total : 24
+
+Nom Parking : 003 Esplanade
+Nbr Place occup : 1
+Nbr Place libre : 31
+Place total : 32
+
+Nom Parking : 004 Hôtel de Ville
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 005 Corum
+Nbr Place occup : 9
+Nbr Place libre : 3
+Place total : 12
+
+Nom Parking : 006 Place Albert 1er - St Charles
+Nbr Place occup : 9
+Nbr Place libre : 22
+Place total : 31
+
+Nom Parking : 007 Foch
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 008 Halles Castellane
+Nbr Place occup : 7
+Nbr Place libre : 5
+Place total : 12
+
+Nom Parking : 009 Observatoire
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 010 Rondelet
+Nbr Place occup : 12
+Nbr Place libre : 4
+Place total : 16
+
+Nom Parking : 011 Plan Cabanes
+Nbr Place occup : 3
+Nbr Place libre : 9
+Place total : 12
+
+Nom Parking : 012 Boutonnet
+Nbr Place occup : 3
+Nbr Place libre : 9
+Place total : 12
+
+Nom Parking : 013 Emile Combes
+Nbr Place occup : 8
+Nbr Place libre : 0
+Place total : 8
+
+Nom Parking : 014 Beaux-Arts
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 015 Les Aubes
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 016 Antigone centre
+Nbr Place occup : 4
+Nbr Place libre : 12
+Place total : 16
+
+Nom Parking : 017 Médiathèque Emile Zola
+Nbr Place occup : 2
+Nbr Place libre : 14
+Place total : 16
+
+Nom Parking : 018 Nombre d'Or
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 019 Louis Blanc
+Nbr Place occup : 8
+Nbr Place libre : 8
+Place total : 16
+
+Nom Parking : 020 Gambetta
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 021 Port Marianne
+Nbr Place occup : 0
+Nbr Place libre : 16
+Place total : 16
+
+Nom Parking : 022 Clemenceau
+Nbr Place occup : 5
+Nbr Place libre : 7
+Place total : 12
+
+Nom Parking : 023 Les Arceaux
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 024 Cité Mion
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 025 Nouveau Saint-Roch
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 026 Renouvier
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 027 Odysseum
+Nbr Place occup : 6
+Nbr Place libre : 2
+Place total : 8
+
+Nom Parking : 028 Saint-Denis
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 029 Richter
+Nbr Place occup : 4
+Nbr Place libre : 12
+Place total : 16
+
+Nom Parking : 030 Charles Flahault
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 031 Voltaire
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 032 Prés d'Arènes
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 033 Garcia Lorca
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 034 Vert Bois
+Nbr Place occup : 0
+Nbr Place libre : 16
+Place total : 16
+
+Nom Parking : 035 Malbosc
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 036 Occitanie
+Nbr Place occup : 3
+Nbr Place libre : 29
+Place total : 32
+
+Nom Parking : 037 FacdesSciences
+Nbr Place occup : 2
+Nbr Place libre : 22
+Place total : 24
+
+Nom Parking : 038 Fac de Lettres
+Nbr Place occup : 5
+Nbr Place libre : 11
+Place total : 16
+
+Nom Parking : 039 Aiguelongue
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 040 Jeu de Mail des Abbés
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 041 Euromédecine
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 042 Marie Caizergues
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 043 Sabines
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Nom Parking : 044 Celleneuve
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 045 Jardin de la Lironde
+Nbr Place occup : 6
+Nbr Place libre : 2
+Place total : 8
+
+Nom Parking : 046 Père Soulas
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Nom Parking : 047 Place Viala
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 048 Hôtel du Département
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 049 Tonnelles
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 050 Parvis Jules Ferry - Gare Saint-Roch
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 051 Pont de Lattes - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 12
+Place total : 12
+
+Nom Parking : 053 Deux Ponts - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 054 Providence - Ovalie
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 055 Pérols Etang de l'Or
+Nbr Place occup : 7
+Nbr Place libre : 61
+Place total : 68
+
+Nom Parking : 056 Albert 1er - Cathédrale
+Nbr Place occup : 2
+Nbr Place libre : 10
+Place total : 12
+
+Nom Parking : 057 Saint-Guilhem - Courreau
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 059 Sud De France
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Sat Jan 29 21:24:49 2022
+Nom Parking : 001 Rue Jules Ferry - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 12
+Place total : 12
+
+Nom Parking : 002 Comédie
+Nbr Place occup : 11
+Nbr Place libre : 13
+Place total : 24
+
+Nom Parking : 003 Esplanade
+Nbr Place occup : 1
+Nbr Place libre : 31
+Place total : 32
+
+Nom Parking : 004 Hôtel de Ville
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 005 Corum
+Nbr Place occup : 9
+Nbr Place libre : 3
+Place total : 12
+
+Nom Parking : 006 Place Albert 1er - St Charles
+Nbr Place occup : 9
+Nbr Place libre : 22
+Place total : 31
+
+Nom Parking : 007 Foch
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 008 Halles Castellane
+Nbr Place occup : 7
+Nbr Place libre : 5
+Place total : 12
+
+Nom Parking : 009 Observatoire
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 010 Rondelet
+Nbr Place occup : 12
+Nbr Place libre : 4
+Place total : 16
+
+Nom Parking : 011 Plan Cabanes
+Nbr Place occup : 3
+Nbr Place libre : 9
+Place total : 12
+
+Nom Parking : 012 Boutonnet
+Nbr Place occup : 3
+Nbr Place libre : 9
+Place total : 12
+
+Nom Parking : 013 Emile Combes
+Nbr Place occup : 8
+Nbr Place libre : 0
+Place total : 8
+
+Nom Parking : 014 Beaux-Arts
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 015 Les Aubes
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 016 Antigone centre
+Nbr Place occup : 4
+Nbr Place libre : 12
+Place total : 16
+
+Nom Parking : 017 Médiathèque Emile Zola
+Nbr Place occup : 2
+Nbr Place libre : 14
+Place total : 16
+
+Nom Parking : 018 Nombre d'Or
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 019 Louis Blanc
+Nbr Place occup : 8
+Nbr Place libre : 8
+Place total : 16
+
+Nom Parking : 020 Gambetta
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 021 Port Marianne
+Nbr Place occup : 0
+Nbr Place libre : 16
+Place total : 16
+
+Nom Parking : 022 Clemenceau
+Nbr Place occup : 5
+Nbr Place libre : 7
+Place total : 12
+
+Nom Parking : 023 Les Arceaux
+Nbr Place occup : 1
+Nbr Place libre : 15
+Place total : 16
+
+Nom Parking : 024 Cité Mion
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 025 Nouveau Saint-Roch
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 026 Renouvier
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 027 Odysseum
+Nbr Place occup : 6
+Nbr Place libre : 2
+Place total : 8
+
+Nom Parking : 028 Saint-Denis
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 029 Richter
+Nbr Place occup : 4
+Nbr Place libre : 12
+Place total : 16
+
+Nom Parking : 030 Charles Flahault
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 031 Voltaire
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 032 Prés d'Arènes
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 033 Garcia Lorca
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 034 Vert Bois
+Nbr Place occup : 0
+Nbr Place libre : 16
+Place total : 16
+
+Nom Parking : 035 Malbosc
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 036 Occitanie
+Nbr Place occup : 3
+Nbr Place libre : 29
+Place total : 32
+
+Nom Parking : 037 FacdesSciences
+Nbr Place occup : 2
+Nbr Place libre : 22
+Place total : 24
+
+Nom Parking : 038 Fac de Lettres
+Nbr Place occup : 5
+Nbr Place libre : 11
+Place total : 16
+
+Nom Parking : 039 Aiguelongue
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 040 Jeu de Mail des Abbés
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 041 Euromédecine
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 042 Marie Caizergues
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 043 Sabines
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Nom Parking : 044 Celleneuve
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 045 Jardin de la Lironde
+Nbr Place occup : 6
+Nbr Place libre : 2
+Place total : 8
+
+Nom Parking : 046 Père Soulas
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
+Nom Parking : 047 Place Viala
+Nbr Place occup : 4
+Nbr Place libre : 4
+Place total : 8
+
+Nom Parking : 048 Hôtel du Département
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 049 Tonnelles
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 050 Parvis Jules Ferry - Gare Saint-Roch
+Nbr Place occup : 3
+Nbr Place libre : 5
+Place total : 8
+
+Nom Parking : 051 Pont de Lattes - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 12
+Place total : 12
+
+Nom Parking : 053 Deux Ponts - Gare Saint-Roch
+Nbr Place occup : 0
+Nbr Place libre : 8
+Place total : 8
+
+Nom Parking : 054 Providence - Ovalie
+Nbr Place occup : 2
+Nbr Place libre : 6
+Place total : 8
+
+Nom Parking : 055 Pérols Etang de l'Or
+Nbr Place occup : 7
+Nbr Place libre : 61
+Place total : 68
+
+Nom Parking : 056 Albert 1er - Cathédrale
+Nbr Place occup : 2
+Nbr Place libre : 10
+Place total : 12
+
+Nom Parking : 057 Saint-Guilhem - Courreau
+Nbr Place occup : 1
+Nbr Place libre : 7
+Place total : 8
+
+Nom Parking : 059 Sud De France
+Nbr Place occup : 5
+Nbr Place libre : 3
+Place total : 8
+
