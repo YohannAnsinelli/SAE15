@@ -167,7 +167,7 @@ def fichier_parking(graph,nombre_echantillon):
         parking.write(pourcentage_ville)
         parking.write('%')
         parking.write('\n\n')
-        time.sleep(60) #Fait un tour toute les 600 secondes
+        time.sleep(4) #Fait un tour toute les 4 secondes
     correlation(liste_somme_placeoccup_voiture,liste_somme_placeoccup_velo)
     parking.close()
 
@@ -223,7 +223,7 @@ def correlation(liste_somme_placeoccup_voiture,liste_somme_placeoccup_velo):
 
 
 nombre_echantillon=input('Choisir un nombre d echantillon : ')
-graph=open("data1.dat","w",encoding='utf8') #j'ouvre un fichier .dat pour que gnuplot prenne facilement les données intéressantes
+graph=open("data.dat","w",encoding='utf8') #j'ouvre un fichier .dat pour que gnuplot prenne facilement les données intéressantes
 graph.write('# Time Placeoccupvoi Placeoccupvelo')
 fichier_parking(graph,nombre_echantillon)
 graph.close()
