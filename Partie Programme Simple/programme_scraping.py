@@ -202,21 +202,21 @@ def correlation(liste_somme_placeoccup_voiture,liste_somme_placeoccup_velo):
         cov_velo=liste_somme_placeoccup_velo[i]-moy_liste_velo
         multi=cov_voiture*cov_velo
         somme_cov=somme_cov+multi
-    covxy=element*somme_cov
+    covxy=element*somme_cov #je calcule la covariance des vélos avec les voitures
     
     for i in range(nombre_delement):
         var=(liste_somme_placeoccup_voiture[i]-moy_liste_voiture)**2
         somme_varx=somme_varx+var
-    varx=element*somme_varx
+    varx=element*somme_varx #je calcule la variance des voitures
     
     for i in range(nombre_delement):
         var=(liste_somme_placeoccup_velo[i]-moy_liste_velo)**2
         somme_vary=somme_vary+var
-    vary=element*somme_vary
+    vary=element*somme_vary #je calcule la variance des vélos
     
     multi_var=varx*vary
     racine_var=sqrt(multi_var)
-    coefficient_correlation=covxy/racine_var
+    coefficient_correlation=covxy/racine_var #Formule du coefficient de correlation
     print(coefficient_correlation)
         
 
