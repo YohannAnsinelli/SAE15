@@ -25,4 +25,4 @@
 
 1min sujet 
 
-pas de détaillage de code / pourquoi on fait ça et pas autrement / juste les grandes lignes / pk les returns 
+pas de détaillage de code / pourquoi on fait ça et pas autrement / juste les grandes lignes / pourquoi les returns 

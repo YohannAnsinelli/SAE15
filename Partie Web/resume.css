@@ -164,3 +164,17 @@ td, th
     text-align:center;
     font-size:13px;
 }
+
+.heatmap{
+    margin-left:-7em;
+    height:400px;
+    width:600px;
+}
+
+.corre{
+    margin-left:12.5em;
+}
+
+.cor{
+    margin-left:-2em;
+}

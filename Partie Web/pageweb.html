@@ -88,9 +88,13 @@
 						<div class="yui-u first">
 							<h2>Graphique de données</h2>
 						</div>
-						<p class="espacement">Voici un graphique d'une expérience faite sur une journée sur 7 heures précisément avec 20 échantillons espacés chacun de 21 minutes. On peut constater que plus la journée se termine moins il y a de place occupée alors que pour les vélos les places occupées sont très constantes. Avec ce graphique on ne voit absolument pas de corrélation, il faudrait refaire l'expérience mais sur une durée beaucoup plus longue.</p><br />
+						<p class="espacement">Voici un graphique d'une expérience faite sur une semaine précisément avec 117 échantillons espacés chacune de 1 heure. On peut constater tout au long de la semaine qu'il y a un plus haut taux d'occupation des parkings voitures en fin de semaine. En revanche pour les vélos c'est le contraire qui est observable avec la diminution du taux d'occupation des vélos tout au long de la semaine.</p><br />
 						<div class="yui-u">
 							<img class="graphi" src="graphique.png"/>
+							<br /><br />
+							<p class="deplace">Ci-dessous vous pouvez retrouver une carte thermique du nombre de places de voiture occupées en fonction des jours/heures qui permet de voir s'il y a un jour avec plus d'influence que d'autres. Sur cette carte on peut remarquer que le jour 3 il y a le plus d'influence et que c'est à 16 heures que les parkings sont les plus occupées.
+							<br /><br />
+							<img class="heatmap" src="Heatmap.png"/>
 						</div>
 					</div>
 
@@ -101,7 +105,7 @@
 						</div>
 
 						<div class="yui-u">
-							<h5 class="emplace"><strong>Récapitulatif des données obtenues sur une durée de 7 heures.</strong></h5> <br />
+							<h5 class="emplace"><strong>Récapitulatif des données obtenues sur une durée de 1 semaine</strong></h5> <br />
 							<table>
 								<tr>
 									<th>&emsp;Parking&emsp;</th>
@@ -111,21 +115,27 @@
 								</tr>
 								<tr>
 									<td>Voiture</td>
-									<td>5417.25</td>
-									<td>45,65%</td>
+									<td>3934.242</td>
+									<td>33,15%</td>
 									<td>11868</td>
 								</tr>
 								<tr>
 									<td>Velo</td>
-									<td>288.5</td>
-									<td>39%</td>
+									<td>314.58</td>
+									<td>42%</td>
 									<td>739</td>
 								</tr>
 							 </table>
 							 <br />
-							 <p>Notre étude est faite avec des données sur 7 heures il est donc clair que nous ne pouvons pas savoir actuellement s'il y a des jours avec plus d'affluence, il n'empêche que l'on peut clairement dire que tous les parkings n'obéissent pas aux mêmes règles d'évolution puisque tout dépend de l'emplacement où se situe le parking dans la ville et s'il y a beaucoup d'activités commerciales par exemple aux alentours ou s'il y a beaucoup de bureaux d'entreprises.</p>
-
+							 <p>Notre étude est faite avec des données de 1 semaine, on peut donc clairement dire que tous les parkings n'obéissent pas aux mêmes règles d'évolution puisque tout dépend de l'emplacement où se situe le parking dans la ville et s'il y a beaucoup d'activités commerciales par exemple aux alentours ou s'il y a beaucoup de bureaux d'entreprises.</p>
+							 <br />
+							 <h2 class="cor"><strong>Corrélation</strong></h2>
+							 <br />
+							 <p>Le but de ce projet était donc de savoir si il y avait une corrélation entre les parkings voitures et les parkings vélos, après avoir fait une fonction qui calcule la covariance ainsi que la variance des vélos et des voitures on peut voir qu'on obtient une corrélation de 0,82 ce qui est très proche de 1 on peut donc constater qu'il y a une corrélation qui existe entre les parkings vélos et les parkings voitures.</p>
+							 <br />
 						</div>
+
+						<img class="corre" src="correlation.jpg"/>
 					</div>
 
 
