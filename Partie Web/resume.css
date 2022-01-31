@@ -172,7 +172,9 @@ td, th
 }
 
 .corre{
-    margin-left:12.5em;
+    margin-left:12em;
+    height:30px;
+    width:450px;
 }
 
 .cor{
