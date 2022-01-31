@@ -1,0 +1,16 @@
+# Algorithme pour un parking :
+
+Début
+    url <- donnee par l utilisateur
+    id <- donnee par l utilisateur
+
+    lien <- [url] // initialisation des url dans une liste
+    station <- [id]
+    
+
+    Fonction : read(url) : 
+    Début
+        request 
+    Fin
+    
+Fin
