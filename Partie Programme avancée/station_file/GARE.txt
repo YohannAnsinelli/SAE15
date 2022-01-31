@@ -1,0 +1,225 @@
+<?xml version="1.0"?>
+<park xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DateTime>2022-01-16T19:38:03</DateTime>
+  <Name>GARE</Name>
+  <Status>Open</Status>
+  <Free>382</Free>
+  <Total>656</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park><?xml version="1.0"?>
+<park xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DateTime>2022-01-16T19:40:05</DateTime>
+  <Name>GARE</Name>
+  <Status>Open</Status>
+  <Free>384</Free>
+  <Total>656</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park><?xml version="1.0"?>
+<park xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DateTime>2022-01-16T19:40:05</DateTime>
+  <Name>GARE</Name>
+  <Status>Open</Status>
+  <Free>384</Free>
+  <Total>656</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park><?xml version="1.0"?>
+<park xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DateTime>2022-01-16T19:42:03</DateTime>
+  <Name>GARE</Name>
+  <Status>Open</Status>
+  <Free>383</Free>
+  <Total>656</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park><?xml version="1.0"?>
+<park xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DateTime>2022-01-16T19:42:03</DateTime>
+  <Name>GARE</Name>
+  <Status>Open</Status>
+  <Free>383</Free>
+  <Total>656</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park><?xml version="1.0"?>
+<park xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DateTime>2022-01-16T19:44:03</DateTime>
+  <Name>GARE</Name>
+  <Status>Open</Status>
+  <Free>382</Free>
+  <Total>656</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park><?xml version="1.0"?>
+<park xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DateTime>2022-01-16T19:44:03</DateTime>
+  <Name>GARE</Name>
+  <Status>Open</Status>
+  <Free>382</Free>
+  <Total>656</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park><?xml version="1.0"?>
+<park xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DateTime>2022-01-20T08:44:03</DateTime>
+  <Name>GARE</Name>
+  <Status>Open</Status>
+  <Free>356</Free>
+  <Total>656</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park><?xml version="1.0"?>
+<park xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DateTime>2022-01-20T08:44:03</DateTime>
+  <Name>GARE</Name>
+  <Status>Open</Status>
+  <Free>356</Free>
+  <Total>656</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park><?xml version="1.0"?>
+<park xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DateTime>2022-01-20T08:46:01</DateTime>
+  <Name>GARE</Name>
+  <Status>Open</Status>
+  <Free>356</Free>
+  <Total>656</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park><?xml version="1.0"?>
+<park xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DateTime>2022-01-20T08:46:01</DateTime>
+  <Name>GARE</Name>
+  <Status>Open</Status>
+  <Free>356</Free>
+  <Total>656</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park><?xml version="1.0"?>
+<park xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DateTime>2022-01-20T08:48:04</DateTime>
+  <Name>GARE</Name>
+  <Status>Open</Status>
+  <Free>351</Free>
+  <Total>656</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park><?xml version="1.0"?>
+<park xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DateTime>2022-01-20T08:50:05</DateTime>
+  <Name>GARE</Name>
+  <Status>Open</Status>
+  <Free>354</Free>
+  <Total>656</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park><?xml version="1.0"?>
+<park xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DateTime>2022-01-20T08:50:05</DateTime>
+  <Name>GARE</Name>
+  <Status>Open</Status>
+  <Free>354</Free>
+  <Total>656</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park><?xml version="1.0"?>
+<park xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DateTime>2022-01-20T08:52:07</DateTime>
+  <Name>GARE</Name>
+  <Status>Open</Status>
+  <Free>351</Free>
+  <Total>656</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park><?xml version="1.0"?>
+<park xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DateTime>2022-01-20T08:54:06</DateTime>
+  <Name>GARE</Name>
+  <Status>Open</Status>
+  <Free>350</Free>
+  <Total>656</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park><?xml version="1.0"?>
+<park xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DateTime>2022-01-20T08:54:06</DateTime>
+  <Name>GARE</Name>
+  <Status>Open</Status>
+  <Free>350</Free>
+  <Total>656</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park><?xml version="1.0"?>
+<park xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DateTime>2022-01-20T08:56:02</DateTime>
+  <Name>GARE</Name>
+  <Status>Open</Status>
+  <Free>348</Free>
+  <Total>656</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park><?xml version="1.0"?>
+<park xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DateTime>2022-01-20T08:58:06</DateTime>
+  <Name>GARE</Name>
+  <Status>Open</Status>
+  <Free>352</Free>
+  <Total>656</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park><?xml version="1.0"?>
+<park xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DateTime>2022-01-20T09:00:07</DateTime>
+  <Name>GARE</Name>
+  <Status>Open</Status>
+  <Free>349</Free>
+  <Total>656</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park><?xml version="1.0"?>
+<park xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DateTime>2022-01-20T09:00:07</DateTime>
+  <Name>GARE</Name>
+  <Status>Open</Status>
+  <Free>349</Free>
+  <Total>656</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park><?xml version="1.0"?>
+<park xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DateTime>2022-01-20T09:02:05</DateTime>
+  <Name>GARE</Name>
+  <Status>Open</Status>
+  <Free>349</Free>
+  <Total>656</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park><?xml version="1.0"?>
+<park xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DateTime>2022-01-20T09:04:03</DateTime>
+  <Name>GARE</Name>
+  <Status>Open</Status>
+  <Free>347</Free>
+  <Total>656</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park><?xml version="1.0"?>
+<park xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DateTime>2022-01-20T09:04:03</DateTime>
+  <Name>GARE</Name>
+  <Status>Open</Status>
+  <Free>347</Free>
+  <Total>656</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park><?xml version="1.0"?>
+<park xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DateTime>2022-01-20T09:06:03</DateTime>
+  <Name>GARE</Name>
+  <Status>Open</Status>
+  <Free>349</Free>
+  <Total>656</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park><?xml version="1.0"?>
+<park xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DateTime>2022-01-20T09:06:03</DateTime>
+  <Name>GARE</Name>
+  <Status>Open</Status>
+  <Free>349</Free>
+  <Total>656</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park><?xml version="1.0"?>
+<park xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DateTime>2022-01-20T09:08:04</DateTime>
+  <Name>GARE</Name>
+  <Status>Open</Status>
+  <Free>346</Free>
+  <Total>656</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park><?xml version="1.0"?>
+<park xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DateTime>2022-01-24T17:02:04</DateTime>
+  <Name>GARE</Name>
+  <Status>Open</Status>
+  <Free>349</Free>
+  <Total>656</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>

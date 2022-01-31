@@ -1,0 +1,216 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2022-01-16T19:36:26</DateTime>
+	<Name>GAUMONT-OUEST</Name>
+	<Status>Open</Status>
+	<Free>0063</Free>
+	<Total>0250</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2022-01-16T19:40:24</DateTime>
+	<Name>GAUMONT-OUEST</Name>
+	<Status>Open</Status>
+	<Free>0068</Free>
+	<Total>0250</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2022-01-16T19:41:27</DateTime>
+	<Name>GAUMONT-OUEST</Name>
+	<Status>Open</Status>
+	<Free>0070</Free>
+	<Total>0250</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2022-01-16T19:41:27</DateTime>
+	<Name>GAUMONT-OUEST</Name>
+	<Status>Open</Status>
+	<Free>0070</Free>
+	<Total>0250</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2022-01-16T19:41:27</DateTime>
+	<Name>GAUMONT-OUEST</Name>
+	<Status>Open</Status>
+	<Free>0070</Free>
+	<Total>0250</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2022-01-16T19:41:27</DateTime>
+	<Name>GAUMONT-OUEST</Name>
+	<Status>Open</Status>
+	<Free>0070</Free>
+	<Total>0250</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2022-01-16T19:45:15</DateTime>
+	<Name>GAUMONT-OUEST</Name>
+	<Status>Open</Status>
+	<Free>0066</Free>
+	<Total>0250</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2022-01-20T08:40:36</DateTime>
+	<Name>GAUMONT-OUEST</Name>
+	<Status>Open</Status>
+	<Free>0234</Free>
+	<Total>0250</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2022-01-20T08:45:32</DateTime>
+	<Name>GAUMONT-OUEST</Name>
+	<Status>Open</Status>
+	<Free>0233</Free>
+	<Total>0250</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2022-01-20T08:45:32</DateTime>
+	<Name>GAUMONT-OUEST</Name>
+	<Status>Open</Status>
+	<Free>0233</Free>
+	<Total>0250</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2022-01-20T08:45:32</DateTime>
+	<Name>GAUMONT-OUEST</Name>
+	<Status>Open</Status>
+	<Free>0233</Free>
+	<Total>0250</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2022-01-20T08:45:32</DateTime>
+	<Name>GAUMONT-OUEST</Name>
+	<Status>Open</Status>
+	<Free>0233</Free>
+	<Total>0250</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2022-01-20T08:50:38</DateTime>
+	<Name>GAUMONT-OUEST</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0250</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2022-01-20T08:50:38</DateTime>
+	<Name>GAUMONT-OUEST</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0250</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2022-01-20T08:50:38</DateTime>
+	<Name>GAUMONT-OUEST</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0250</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2022-01-20T08:50:38</DateTime>
+	<Name>GAUMONT-OUEST</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0250</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2022-01-20T08:55:33</DateTime>
+	<Name>GAUMONT-OUEST</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0250</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2022-01-20T08:55:33</DateTime>
+	<Name>GAUMONT-OUEST</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0250</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2022-01-20T09:00:38</DateTime>
+	<Name>GAUMONT-OUEST</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0250</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2022-01-20T09:00:38</DateTime>
+	<Name>GAUMONT-OUEST</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0250</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2022-01-20T09:00:38</DateTime>
+	<Name>GAUMONT-OUEST</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0250</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2022-01-20T09:00:38</DateTime>
+	<Name>GAUMONT-OUEST</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0250</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2022-01-20T09:05:32</DateTime>
+	<Name>GAUMONT-OUEST</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0250</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2022-01-20T09:05:32</DateTime>
+	<Name>GAUMONT-OUEST</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0250</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2022-01-20T09:05:32</DateTime>
+	<Name>GAUMONT-OUEST</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0250</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2022-01-20T09:05:32</DateTime>
+	<Name>GAUMONT-OUEST</Name>
+	<Status>Open</Status>
+	<Free>0232</Free>
+	<Total>0250</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2022-01-24T17:01:23</DateTime>
+	<Name>GAUMONT-OUEST</Name>
+	<Status>Open</Status>
+	<Free>0189</Free>
+	<Total>0250</Total>
+</park>

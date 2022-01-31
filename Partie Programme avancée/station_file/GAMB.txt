@@ -1,0 +1,224 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+	<DateTime>2022-01-16T19:38:54</DateTime>
+	<Name>GAMB</Name>
+	<Status>Open</Status>
+	<Free>0227</Free>
+	<Total>0470</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+	<DateTime>2022-01-16T19:38:54</DateTime>
+	<Name>GAMB</Name>
+	<Status>Open</Status>
+	<Free>0227</Free>
+	<Total>0470</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+	<DateTime>2022-01-16T19:41:58</DateTime>
+	<Name>GAMB</Name>
+	<Status>Open</Status>
+	<Free>0228</Free>
+	<Total>0470</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+	<DateTime>2022-01-16T19:41:58</DateTime>
+	<Name>GAMB</Name>
+	<Status>Open</Status>
+	<Free>0228</Free>
+	<Total>0470</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+	<DateTime>2022-01-16T19:41:58</DateTime>
+	<Name>GAMB</Name>
+	<Status>Open</Status>
+	<Free>0228</Free>
+	<Total>0470</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+	<DateTime>2022-01-16T19:44:52</DateTime>
+	<Name>GAMB</Name>
+	<Status>Open</Status>
+	<Free>0227</Free>
+	<Total>0470</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+	<DateTime>2022-01-16T19:44:52</DateTime>
+	<Name>GAMB</Name>
+	<Status>Open</Status>
+	<Free>0227</Free>
+	<Total>0470</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+	<DateTime>2022-01-20T08:44:57</DateTime>
+	<Name>GAMB</Name>
+	<Status>Open</Status>
+	<Free>0130</Free>
+	<Total>0470</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+	<DateTime>2022-01-20T08:44:57</DateTime>
+	<Name>GAMB</Name>
+	<Status>Open</Status>
+	<Free>0130</Free>
+	<Total>0470</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+	<DateTime>2022-01-20T08:44:57</DateTime>
+	<Name>GAMB</Name>
+	<Status>Open</Status>
+	<Free>0130</Free>
+	<Total>0470</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+	<DateTime>2022-01-20T08:47:50</DateTime>
+	<Name>GAMB</Name>
+	<Status>Open</Status>
+	<Free>0128</Free>
+	<Total>0470</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+	<DateTime>2022-01-20T08:47:50</DateTime>
+	<Name>GAMB</Name>
+	<Status>Open</Status>
+	<Free>0128</Free>
+	<Total>0470</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+	<DateTime>2022-01-20T08:50:52</DateTime>
+	<Name>GAMB</Name>
+	<Status>Open</Status>
+	<Free>0129</Free>
+	<Total>0470</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+	<DateTime>2022-01-20T08:50:52</DateTime>
+	<Name>GAMB</Name>
+	<Status>Open</Status>
+	<Free>0129</Free>
+	<Total>0470</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+	<DateTime>2022-01-20T08:53:55</DateTime>
+	<Name>GAMB</Name>
+	<Status>Open</Status>
+	<Free>0127</Free>
+	<Total>0470</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+	<DateTime>2022-01-20T08:53:55</DateTime>
+	<Name>GAMB</Name>
+	<Status>Open</Status>
+	<Free>0127</Free>
+	<Total>0470</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+	<DateTime>2022-01-20T08:53:55</DateTime>
+	<Name>GAMB</Name>
+	<Status>Open</Status>
+	<Free>0127</Free>
+	<Total>0470</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+	<DateTime>2022-01-20T08:56:58</DateTime>
+	<Name>GAMB</Name>
+	<Status>Open</Status>
+	<Free>0125</Free>
+	<Total>0470</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+	<DateTime>2022-01-20T08:59:51</DateTime>
+	<Name>GAMB</Name>
+	<Status>Open</Status>
+	<Free>0120</Free>
+	<Total>0470</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+	<DateTime>2022-01-20T08:59:51</DateTime>
+	<Name>GAMB</Name>
+	<Status>Open</Status>
+	<Free>0120</Free>
+	<Total>0470</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+	<DateTime>2022-01-20T08:59:51</DateTime>
+	<Name>GAMB</Name>
+	<Status>Open</Status>
+	<Free>0120</Free>
+	<Total>0470</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+	<DateTime>2022-01-20T09:02:54</DateTime>
+	<Name>GAMB</Name>
+	<Status>Open</Status>
+	<Free>0120</Free>
+	<Total>0470</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+	<DateTime>2022-01-20T09:02:54</DateTime>
+	<Name>GAMB</Name>
+	<Status>Open</Status>
+	<Free>0120</Free>
+	<Total>0470</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+	<DateTime>2022-01-20T09:05:57</DateTime>
+	<Name>GAMB</Name>
+	<Status>Open</Status>
+	<Free>0120</Free>
+	<Total>0470</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+	<DateTime>2022-01-20T09:05:57</DateTime>
+	<Name>GAMB</Name>
+	<Status>Open</Status>
+	<Free>0120</Free>
+	<Total>0470</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+	<DateTime>2022-01-20T09:05:57</DateTime>
+	<Name>GAMB</Name>
+	<Status>Open</Status>
+	<Free>0120</Free>
+	<Total>0470</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+	<DateTime>2022-01-20T09:08:50</DateTime>
+	<Name>GAMB</Name>
+	<Status>Open</Status>
+	<Free>0121</Free>
+	<Total>0470</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+	<DateTime>2022-01-24T17:02:54</DateTime>
+	<Name>GAMB</Name>
+	<Status>Open</Status>
+	<Free>0135</Free>
+	<Total>0470</Total>
+</park>
